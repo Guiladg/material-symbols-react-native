@@ -38,17 +38,16 @@
     "typescript": "^5.2.2"
   },
   "workspaces": [
-    "definitions/outlined/400"
+    "definitions/outlined/400",
+    "definitions/rounded/400",
+    "definitions/sharp/400"
   ],
   "scripts": {
     "test": "echo \"No test specified\"",
     "download:definitions": "npm run download:400",
     "download:400": "npx @material-design-icons/scripts download svg --symbols --weight 400 --to downloads/400",
     "generate:definitions": "node ./scripts/generateDefs.mjs",
-    "version:definitions": "npm run version:400",
-    "version:400": "npm version -w definitions/outlined/400 -w definitions/rounded/400 -w definitions/sharp/400",
-    "publish:definitions": "npm run publish:400",
-    "publish:400": "npm publish -w definitions/outlined/400 -w definitions/rounded/400 -w definitions/sharp/400",
+    "publish:definitions": "npm publish -ws",
     "publish:component": "npm publish"
   }
 }
