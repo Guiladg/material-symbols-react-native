@@ -1,0 +1,1 @@
+import { MsIconDefinition } from 'material-symbols-react-native'; export declare const msGroups_3: MsIconDefinition;

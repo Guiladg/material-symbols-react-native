@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVerticalSplit = exports.msVerticalSplit = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M113-367v-60h329v60H113Zm0 167v-60h329v60H113Zm0-333v-60h329v60H113Zm0-167v-60h329v60H113Zm496 500q-24.75 0-42.375-17.625T549-260v-440q0-24.75 17.625-42.375T609-760h179q24.75 0 42.375 17.625T848-700v440q0 24.75-17.625 42.375T788-200H609Zm0-60h179v-440H609v440Zm90-220Z"/></svg>', variant: 'outlined', weight: 400 };

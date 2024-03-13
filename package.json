@@ -1,0 +1,54 @@
+{
+  "name": "material-symbols-react-native",
+  "version": "1.0.0",
+  "description": "An icon placer component for Google's Material Symbols to use with React Native.",
+  "types": "index.d.ts",
+  "files": [
+    "*.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guiladg/material-symbols-react-native.git"
+  },
+  "keywords": [
+    "material design",
+    "symbols",
+    "icons",
+    "android"
+  ],
+  "author": "guiladg <guiladg@gmail.com> (https://github.com/Guiladg)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Guiladg/material-symbols-react-native/issues"
+  },
+  "homepage": "https://github.com/Guiladg/material-symbols-react-native#readme",
+  "peerDependencies": {
+    "react": ">= 16.7.0",
+    "react-native": ">= 0.70.0",
+    "react-native-svg": ">= 13.6.0"
+  },
+  "devDependencies": {
+    "@material-design-icons/scripts": "0.5.2",
+    "@types/react": ">= 16.7.0",
+    "eslint": "^8.51.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "workspaces": [
+    "definitions/outlined/400"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "download:definitions": "npm run download:400",
+    "download:400": "npx @material-design-icons/scripts download svg --symbols --weight 400 --to downloads/400",
+    "generate:definitions": "node ./scripts/generateDefs.mjs",
+    "version:definitions": "npm run version:400",
+    "version:400": "npm version -w definitions/outlined/400 -w definitions/rounded/400 -w definitions/sharp/400",
+    "publish:definitions": "npm run publish:400",
+    "publish:400": "npm publish -w definitions/outlined/400 -w definitions/rounded/400 -w definitions/sharp/400",
+    "publish:component": "npm publish"
+  }
+}

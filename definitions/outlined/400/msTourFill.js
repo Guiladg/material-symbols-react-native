@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTourFill = exports.msTourFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M200-80v-800h60v84h580l-81 193 81 193H260v330h-60Zm301.212-451Q531-531 552-552.212q21-21.213 21-51Q573-633 551.788-654q-21.213-21-51-21Q471-675 450-653.788q-21 21.213-21 51Q429-573 450.212-552q21.213 21 51 21Z"/></svg>', variant: 'outlined', weight: 400 };

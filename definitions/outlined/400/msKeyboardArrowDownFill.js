@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardArrowDownFill = exports.msKeyboardArrowDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-344 240-584l43-43 197 197 197-197 43 43-240 240Z"/></svg>', variant: 'outlined', weight: 400 };

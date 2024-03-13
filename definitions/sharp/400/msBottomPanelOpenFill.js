@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBottomPanelOpenFill = exports.msBottomPanelOpenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M344-527h272L480-663 344-527ZM180-387h600v-393H180v393Zm-60 267v-720h720v720H120Z"/></svg>', variant: 'sharp', weight: 400 };

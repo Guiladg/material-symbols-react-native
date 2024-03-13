@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPowerInputFill = exports.msPowerInputFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-390v-60h214v60H80Zm0-120v-60h760v60H80Zm274 120v-60h213v60H354Zm273 0v-60h213v60H627Z"/></svg>', variant: 'sharp', weight: 400 };

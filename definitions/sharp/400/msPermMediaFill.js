@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPermMediaFill = exports.msPermMediaFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M40-120v-620h60v560h740v60H40Zm120-120v-640h300l80 80h380v560H160Zm174-180h412L614-596 504-450l-74-86-96 116Z"/></svg>', variant: 'sharp', weight: 400 };

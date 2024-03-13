@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRadio = exports.msRadio = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-80v-614l546-220 19 50-359 144h594v640H80Zm60-60h680v-310H140v310Zm179.183-63Q360-203 388-231.183q28-28.183 28-69T387.817-369q-28.183-28-69-28T250-368.817q-28 28.183-28 69T250.183-231q28.183 28 69 28ZM140-510h520v-60h60v60h100v-150H140v150Zm0 370v-310 310Z"/></svg>', variant: 'sharp', weight: 400 };

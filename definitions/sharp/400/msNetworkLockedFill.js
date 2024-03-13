@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNetworkLockedFill = exports.msNetworkLockedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M673-80v-206h42v-40q0-36 23.5-61t58.5-25q35 0 58 25t23 61v40h42v206H673Zm82-206h84v-40q0-19.55-11.5-32.775Q816-372 796.5-372T766-358.775Q755-345.55 755-326v40ZM80-80l800-800v408h-83q-77 0-130.5 53.5T613-288v208H80Z"/></svg>', variant: 'sharp', weight: 400 };

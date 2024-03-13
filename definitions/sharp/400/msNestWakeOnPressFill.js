@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestWakeOnPressFill = exports.msNestWakeOnPressFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M780-441v-359h100v359H780ZM284-120 80-337l51-53 149 32v-422q0-26 17-43t43-17q26 0 43 17t17 43v240h56l231 117-44 303H284Z"/></svg>', variant: 'sharp', weight: 400 };

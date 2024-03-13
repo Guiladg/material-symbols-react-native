@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAllInboxFill = exports.msAllInboxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M540-396q38 0 65.019-25.556 27.02-25.556 27.02-61.444H820v-337H260v337h188q0 35.888 27.025 61.444Q502.05-396 540-396ZM200-200v-680h680v680H200ZM80-80v-680h60v620h620v60H80Z"/></svg>', variant: 'sharp', weight: 400 };
