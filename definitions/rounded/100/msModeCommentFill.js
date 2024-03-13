@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msModeCommentFill = exports.msModeCommentFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M186-292q-23 0-38.5-15.5T132-346v-428q0-23 15.5-38.5T186-828h588q23 0 38.5 15.5T828-774v529q0 19-16.5 25.5T782-226l-66-66H186Z"/></svg>', variant: 'rounded', weight: 100 };

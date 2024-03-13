@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNightlife = exports.msNightlife = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M147-121v-95h84v-224L6-783h545L326-440v224h84v95H147Zm75-499h113l41-69H181l41 69Zm419 499q-58.917 0-98.458-39.559Q503-200.118 503-259.059 503-319 542.542-358q39.541-39 98.458-39 11 0 21 2t22 5v-393h231v145H779v379q0 58.917-39.75 98.458Q699.5-121 641-121Z"/></svg>', variant: 'sharp', weight: 700 };

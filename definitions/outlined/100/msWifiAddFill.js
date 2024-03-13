@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWifiAddFill = exports.msWifiAddFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-194 74-600q86-72 189.5-110T480-748q113 0 216.5 38T886-600l-75 75q-16-4-32.877-6.5Q761.247-534 745-534q-91.597 1-155.298 65.202Q526-404.597 525-314q0 16.247 2 33.123Q529-264 534-248l-54 54Zm260 2v-120H620v-22h120v-120h22v120h120v22H762v120h-22Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenshotKeyboardFill = exports.msScreenshotKeyboardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-480Zm0 135.385q56.846 0 96.115-39.27 39.27-39.269 39.27-96.115t-39.27-96.115q-39.269-39.27-96.115-39.27t-96.115 39.27q-39.27 39.269-39.27 96.115t39.27 96.115q39.269 39.27 96.115 39.27ZM120-200v-560h720v560H120Z"/></svg>', variant: 'sharp', weight: 200 };

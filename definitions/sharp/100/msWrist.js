@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWrist = exports.msWrist = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M450-147 265-332H76v-22h199l182 183 23-25-69-138h393v22H447l54 108-51 57ZM76-606v-22h168.511l81.895-80H764v22H334.553L255-606H76Zm503 169v-22h305v22H579Zm0-125v-22h265v22H579ZM76-429Z"/></svg>', variant: 'sharp', weight: 100 };

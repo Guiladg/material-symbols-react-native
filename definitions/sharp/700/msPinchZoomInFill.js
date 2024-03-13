@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPinchZoomInFill = exports.msPinchZoomInFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m44-464-47-48 110-110H25v-67h197v197h-67v-83L44-464Zm227-273v-197h67v81l111-110 48 47-111 112h82v67H271ZM493-10 237-275l45-73 150 49v-376h80v337h67v-205h79v205h66v-165h80v165h67v-85h79v413H493Z"/></svg>', variant: 'sharp', weight: 700 };

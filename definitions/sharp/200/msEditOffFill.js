@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEditOffFill = exports.msEditOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m570.154-488.077-81.847-81.077 242.539-243.308 82.616 81.847-243.308 242.538Zm232.231 375.385L497.692-415.615 242.077-160h-81.846v-81.846l255.615-255.616-303.154-304.923 21.231-21.231 689.693 689.693-21.231 21.231Zm-85.693-566.616L769-730.846 731.077-768l-51.538 52.308 37.153 36.384Z"/></svg>', variant: 'sharp', weight: 200 };

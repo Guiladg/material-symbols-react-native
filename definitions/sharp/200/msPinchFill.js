@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPinchFill = exports.msPinchFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M420-709.231v-116.615L134.154-540h116.615v26.154H89.231v-161.539h26.153v116.616l285.847-285.847H284.615v-26.154h161.539v161.539H420Zm101.692 620L294.769-315.384l25.923-32.385 148.539 37v-353.846H500v310.769h85.462v-180h30.769v180h86v-140H733v140h85.462v-60h30.769v324.615H521.692Z"/></svg>', variant: 'sharp', weight: 200 };

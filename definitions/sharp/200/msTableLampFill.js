@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTableLampFill = exports.msTableLampFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M520-140v-30.769h280V-140H520Zm124.615-101.538v-460H427.692v150.769H175.923L285.154-800h142.538v67.692h247.693v490.77h-30.77Z"/></svg>', variant: 'sharp', weight: 200 };

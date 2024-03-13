@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFastfoodFill = exports.msFastfoodFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M115-323q0-81 81.09-113.5T370-469q94 0 174.5 32.5T625-323H115Zm0 115v-24h510v24H115Zm0 116v-24h510v24H115Zm584 0v-234.742q0-84.708-66-139.983Q567-522 480-537l-21-145h181v-166h22v166h183L782-92h-83Z"/></svg>', variant: 'sharp', weight: 100 };

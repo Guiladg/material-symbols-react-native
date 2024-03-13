@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEdgesensorLowFill = exports.msEdgesensorLowFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M174-426v-228h22v228h-22Zm590 120v-228h22v228h-22ZM336-132q-22.775 0-38.388-15.613Q282-163.225 282-186v-588q0-22.775 15.612-38.388Q313.225-828 336-828h288q22.775 0 38.388 15.612Q678-796.775 678-774v588q0 22.775-15.612 38.387Q646.775-132 624-132H336Zm-32-107h352v-482H304v482Z"/></svg>', variant: 'outlined', weight: 100 };

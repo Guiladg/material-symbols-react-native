@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalCafeFill = exports.msLocalCafeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M135-95v-94h691v94H135Zm0-159v-612h771v348H730v264H135Zm595-358h81v-160h-81v160Z"/></svg>', variant: 'sharp', weight: 700 };

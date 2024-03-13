@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPropaneFill = exports.msPropaneFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M371-668h218v-53H371v53Zm-91 444v-68q-78 0-133-54.765-55-54.764-55-133Q92-558 146.833-613 201.667-668 280-668h66v-78h268v78h66q78.333 0 133.167 54.765Q868-558.471 868-480.235 868-402 813.167-347 758.333-292 680-292v68h-22v-68H302v68h-22Z"/></svg>', variant: 'sharp', weight: 100 };

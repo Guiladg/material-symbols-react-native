@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msJamboardKioskFill = exports.msJamboardKioskFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M284.615-160v-30.769h180V-320H120v-480h720v480H495.385v129.231h180V-160h-390.77Z"/></svg>', variant: 'sharp', weight: 200 };

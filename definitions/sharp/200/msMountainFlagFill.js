@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMountainFlagFill = exports.msMountainFlagFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M303.692-442.616 361.384-560h103.231v-280h215.539l-27.308 55.384 27.308 55.385H495.385V-560h100l58.692 119.154-95.539 63.769L480-417.846l-78.769 39.769-97.539-64.539ZM144.615-120l146.154-295.539 108 72.616L480-382.154l81.231 40.231L669-413.539 815.385-120h-670.77Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTvGen = exports.msTvGen = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M153-97v-99l-2 21q-39.75 0-67.875-27.1T55-269v-461q0-40.213 27.1-67.606Q109.2-825 149-825h662q40.213 0 67.606 27.394Q906-770.213 906-730v461q0 40.212-28.625 67.106Q848.75-175 810-175l-3-21v99h-53l-24.829-78H231l-25 78h-53Zm-4-172h662v-461H149v461Zm331-230Z"/></svg>', variant: 'outlined', weight: 700 };

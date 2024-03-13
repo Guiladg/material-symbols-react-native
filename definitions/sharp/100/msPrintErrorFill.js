@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPrintErrorFill = exports.msPrintErrorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M759.86-172q-8.86 0-15.86-6.977-7-6.978-7-16.488Q737-204 743.977-211q6.978-7 16.488-7Q769-218 776-210.91t7 16.375Q783-186 775.86-179q-7.141 7-16 7ZM749-335v-171h22v171h-22ZM293-172v-165H162v-273h622v22H655v196H315v198h340v22H293Zm0-463v-121h374v121H293Z"/></svg>', variant: 'sharp', weight: 100 };

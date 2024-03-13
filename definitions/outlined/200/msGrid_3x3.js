@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGrid_3x3 = exports.msGrid_3x3 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M366.077-200v-166.077H200v-30.769h166.077v-166.308H200v-30.769h166.077V-760h30.769v166.077h166.308V-760h30.769v166.077H760v30.769H593.923v166.308H760v30.769H593.923V-200h-30.769v-166.077H396.846V-200h-30.769Zm30.769-196.846h166.308v-166.308H396.846v166.308Z"/></svg>', variant: 'outlined', weight: 200 };

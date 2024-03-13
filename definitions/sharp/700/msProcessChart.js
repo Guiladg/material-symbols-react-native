@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msProcessChart = exports.msProcessChart = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m128-204-84-43 259-509 83 42-258 510Zm264 0-84-43 259-509 83 42-258 510Zm264 0-84-43 259-509 83 42-258 510Z"/></svg>', variant: 'sharp', weight: 700 };

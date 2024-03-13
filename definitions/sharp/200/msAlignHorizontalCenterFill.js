@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignHorizontalCenterFill = exports.msAlignHorizontalCenterFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M464.615-120v-192.308H280v-72.307h184.615v-190.77H160v-72.307h304.615V-840h30.77v192.308H800v72.307H495.385v190.77H680v72.307H495.385V-120h-30.77Z"/></svg>', variant: 'sharp', weight: 200 };

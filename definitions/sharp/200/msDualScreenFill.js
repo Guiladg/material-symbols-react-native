@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDualScreenFill = exports.msDualScreenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M200-228.923V-840l320 121.846v617.693L200-228.923ZM590.769-240v-526.077L395.307-840H760v600H590.769Z"/></svg>', variant: 'sharp', weight: 200 };

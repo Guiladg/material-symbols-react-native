@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAirlineSeatFlatAngledFill = exports.msAirlineSeatFlatAngledFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m390-403 104-284 335 122q68.118 25.373 98.059 90.187Q957-410 933-342l-44 121-499-182ZM32-369l31-88 806 292-32 89L32-369Zm234.941-86Q208-455 166.5-497.059t-41.5-102Q125-658 166.75-700T267-742q58.917 0 100.958 42.059Q410-657.882 410-598.941 410-539 367.941-497t-101 42Z"/></svg>', variant: 'outlined', weight: 700 };

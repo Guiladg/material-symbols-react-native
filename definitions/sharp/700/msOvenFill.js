@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOvenFill = exports.msOvenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-651v-215h771v215H95Zm0 556v-526h771v526H95Zm212-599q19 0 33-14t14-33q0-19-14-33t-33-14q-19 0-33 14t-14 33q0 19 14 33t33 14Zm70 223h207v-71H377v71Zm103-223q19 0 33-14t14-33q0-19-14-33t-33-14q-19 0-33 14t-14 33q0 19 14 33t33 14Zm173 0q19 0 33-14t14-33q0-19-14-33t-33-14q-19 0-33 14t-14 33q0 19 14 33t33 14Z"/></svg>', variant: 'sharp', weight: 700 };

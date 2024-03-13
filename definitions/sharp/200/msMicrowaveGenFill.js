@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMicrowaveGenFill = exports.msMicrowaveGenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-200v-560h720v560H120Zm115.384-115.384h329.232v-329.232H235.384v329.232Zm30.77-30.77v-267.692h267.692v267.692H266.154Zm412.308-246.154h52.307v-52.308h-52.307v52.308Zm0 138.462h52.307v-52.308h-52.307v52.308Zm0 138.462h52.307v-52.308h-52.307v52.308Z"/></svg>', variant: 'sharp', weight: 200 };

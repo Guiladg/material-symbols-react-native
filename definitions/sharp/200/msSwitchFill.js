@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwitchFill = exports.msSwitchFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M344.615-304.615h270.77v-350.77h-270.77v350.77Zm30.77-30.77v-289.23h209.23v289.23h-209.23Zm76.923-156.923h55.384v-55.384h-55.384v55.384ZM160-160v-640h640v640H160Z"/></svg>', variant: 'sharp', weight: 200 };

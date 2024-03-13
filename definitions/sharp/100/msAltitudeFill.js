@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAltitudeFill = exports.msAltitudeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M749-483v-208l-93 91.015-15-14.138L760-733l119 118.877L864-599l-93-93v209h-22ZM139-174l146-196 131 174 16-14-48-64 181-242 256 342H139Z"/></svg>', variant: 'sharp', weight: 100 };

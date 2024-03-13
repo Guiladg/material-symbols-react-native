@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOpenInBrowser = exports.msOpenInBrowser = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-160v-640h640v640H596.923v-30.769h172.308v-507.693H190.769v507.693h172.308V-160H160Zm304.615 0v-269.384l-93 92.23-22.231-21.461L480-489.231l130.616 130.616-22.231 21.461-93-92.23V-160h-30.77Z"/></svg>', variant: 'sharp', weight: 200 };

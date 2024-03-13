@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTrailLengthMediumFill = exports.msTrailLengthMediumFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M285-306v-22h265q-37-25-59-61.5T465-469H226v-22h239q3-38 24-76.5t61-64.5H306v-22h334q72.21 0 123.105 50.852Q814-552.297 814-480.148 814-408 763.105-357T640-306H285Zm-139 0v-22h102v22H146Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocationCityFill = exports.msLocationCityFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-164v-507h162v-150l92-85 92 85v311h162v346H226Zm22-22h140v-140H248v140Zm0-162h140v-140H248v140Zm0-162h140v-139H248v139Zm162 324h140v-140H410v140Zm0-162h140v-140H410v140Zm0-162h140v-139H410v139Zm0-161h140v-140H410v140Zm162 485h140v-140H572v140Zm0-162h140v-140H572v140Z"/></svg>', variant: 'sharp', weight: 100 };

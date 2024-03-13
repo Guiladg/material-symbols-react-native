@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOpenInNewDown = exports.msOpenInNewDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-95v-771h771v417h-95v-322H189v582h322v94H95Zm476 0v-94h133L362-531l67-67 342 342v-133h95v294H571Z"/></svg>', variant: 'sharp', weight: 700 };

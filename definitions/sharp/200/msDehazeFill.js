@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDehazeFill = exports.msDehazeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-689.231V-720h640v30.769H160ZM160-240v-30.769h640V-240H160Zm0-224.615v-30.77h640v30.77H160Z"/></svg>', variant: 'sharp', weight: 200 };

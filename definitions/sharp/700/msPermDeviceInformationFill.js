@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPermDeviceInformationFill = exports.msPermDeviceInformationFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M450-306v-257h60v257h-60Zm30.018-274Q466-580 456.5-589.482q-9.5-9.483-9.5-23.5 0-14.018 9.2-23.518T479-646q14.45 0 24.225 9.482 9.775 9.483 9.775 23.5 0 14.018-9.482 23.518-9.483 9.5-23.5 9.5ZM177-17v-926h606v926H177Zm94-184h418v-558H271v558Z"/></svg>', variant: 'sharp', weight: 700 };

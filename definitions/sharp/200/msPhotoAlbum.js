@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhotoAlbum = exports.msPhotoAlbum = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M200-120v-720h560v720H200Zm30.769-30.769h498.462v-658.462h-70.769v238.308l-78.539-46-78.538 46v-238.308H230.769v658.462Zm80.154-107.769h346.231l-106.462-141.77-101.154 125.231-66.153-77.231-72.462 93.77Zm-80.154 107.769v-658.462 658.462Zm270.616-420.154 78.538-46 78.539 46-78.539-46-78.538 46Z"/></svg>', variant: 'sharp', weight: 200 };

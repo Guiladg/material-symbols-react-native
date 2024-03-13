@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGarageDoorFill = exports.msGarageDoorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M343-414v-22h274v22H343Zm0 127v-22h274v22H343Zm0 127v-22h274v22H343Zm137-612 328 271H708v341h-22v-381H274v381h-22v-341H152l328-271Z"/></svg>', variant: 'outlined', weight: 100 };

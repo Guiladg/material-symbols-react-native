@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHardwareFill = exports.msHardwareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M426-481v-211H256q15-44 53-70t85-26h168v121l120-121h22v263h-22L562-645v164H426Zm0 309v-286h136v286H426Z"/></svg>', variant: 'sharp', weight: 100 };

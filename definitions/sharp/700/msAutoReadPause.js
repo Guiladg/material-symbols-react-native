@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAutoReadPause = exports.msAutoReadPause = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M359-394h71v-332h-71v332Zm171 0h71v-332h-71v332ZM55-55v-851h851v691H215L55-55Zm134-254h622v-502H149v548l40-46Zm-40 0v-502 502Z"/></svg>', variant: 'sharp', weight: 700 };

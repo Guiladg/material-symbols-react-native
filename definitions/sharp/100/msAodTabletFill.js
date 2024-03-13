@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAodTabletFill = exports.msAodTabletFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M92-212v-536h776v536H92Zm107-22h562v-492H199v492Zm147-285v-22h268v22H346Zm40 120v-22h188v22H386Z"/></svg>', variant: 'sharp', weight: 100 };

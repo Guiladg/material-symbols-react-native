@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLightGroupFill = exports.msLightGroupFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M111-41v-95h334v95H111Zm583.646-70Q654-111 624.5-140.312 595-169.625 595-211H440v-52q0-96.189 59.5-165.095Q559-497 648-514v-396h94v396q90 17 149 85.905Q950-359.189 950-263v52H795q0 41.375-29.227 70.688Q736.546-111 694.646-111ZM231-211v-319H6l106.405-390H445l106 390H325v319h-94Z"/></svg>', variant: 'sharp', weight: 700 };

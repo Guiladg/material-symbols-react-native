@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGifBoxFill = exports.msGifBoxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-160v-640h640v640H160Zm144.615-244.615h110.77v-66.154h-26.154v40h-58.462v-98.462h82.616v-26.154h-108.77v150.77Zm162.693 0h26.154v-150.77h-26.154v150.77Zm77.307 0h26.154v-60h64.616v-26.154h-64.616v-38.462h84.616v-26.154h-110.77v150.77Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLuggage = exports.msLuggage = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M248.01-104H169v-637h177v-165h269v165h177v637h-80q0 20.3-14.638 34.65Q682.725-55 662-55q-20.3 0-34.65-14.35Q613-83.7 613-104H348q0 20-15 34.5T297.5-55q-20.5 0-34.995-14.35Q248.01-83.7 248.01-104Zm7.99-87h449v-463H256v463Zm90-60h87v-343h-87v343Zm182 0h87v-343h-87v343Zm-95-490h95v-78h-95v78Zm47 318Z"/></svg>', variant: 'sharp', weight: 700 };

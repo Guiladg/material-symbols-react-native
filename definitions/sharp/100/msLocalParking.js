@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalParking = exports.msLocalParking = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292-172v-616h230q77 0 131.5 54.5T708-602q0 76-54.5 130.5T522-417H336v245h-44Zm44-289h184q59.45 0 100.725-41.275Q662-543.55 662-602q0-59.45-41.275-100.725Q579.45-744 520-744H336v283Z"/></svg>', variant: 'sharp', weight: 100 };

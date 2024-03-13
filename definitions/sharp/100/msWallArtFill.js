@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWallArtFill = exports.msWallArtFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-132v-536h234l114-114 114 114h234v536H132Zm190-134h326l-99-132-102 126-65-72-60 78Zm348.353-177Q685-443 696-454.353q11-11.353 11-26T695.647-506q-11.353-11-26-11T644-505.647q-11 11.353-11 26T644.353-454q11.353 11 26 11ZM401-668h159l-80-79-79 79Z"/></svg>', variant: 'sharp', weight: 100 };

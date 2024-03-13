@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScrollableHeader = exports.msScrollableHeader = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-616h616v616H172Zm22-22h572v-229H194v229Zm0-251h572v-321H194v321Zm0 0v-321 321Z"/></svg>', variant: 'sharp', weight: 100 };

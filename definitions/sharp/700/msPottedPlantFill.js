@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPottedPlantFill = exports.msPottedPlantFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m266-55-69-238h567L694.522-55H266Zm216-594q0-94.083 83.5-172.542Q649-900 751-906q-4 90-72.075 164.192Q610.85-667.616 527-653v100h339v216H95v-216h339v-100.143Q349-666 282-741.446T211-906q101.083 6 186.042 83.5Q482-745 482-649Z"/></svg>', variant: 'sharp', weight: 700 };

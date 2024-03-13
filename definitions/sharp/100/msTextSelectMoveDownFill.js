@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextSelectMoveDownFill = exports.msTextSelectMoveDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M175-766v-22h610v22H175Zm305 446L360-440l16-16 93 92v-287h22v287l93-92 16 16-120 120ZM175-172v-22h610v22H175Z"/></svg>', variant: 'sharp', weight: 100 };

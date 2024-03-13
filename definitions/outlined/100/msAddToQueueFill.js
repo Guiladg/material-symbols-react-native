@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddToQueueFill = exports.msAddToQueueFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M469-386h22v-123h123v-22H491v-123h-22v123H346v22h123v123Zm-94 214v-80H186q-22.775 0-38.387-15.612Q132-283.225 132-306v-428q0-22.775 15.613-38.388Q163.225-788 186-788h588q22.775 0 38.388 15.612Q828-756.775 828-734v428q0 22.775-15.612 38.388Q796.775-252 774-252H585v80H375Z"/></svg>', variant: 'outlined', weight: 100 };

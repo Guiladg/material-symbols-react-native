@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMouse = exports.msMouse = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-132q-96 0-162-66t-66-162v-242q0-96 66-162t162-66q96 0 162 66t66 162v242q0 96-66 162t-162 66Zm11-470h195q0-84-57-143.5T491-809v207Zm-217 0h195v-207q-81 4-138 63.5T274-602Zm205.654 448Q565-154 625.5-214.255T686-360v-220H274v220q0 85.49 60.154 145.745Q394.307-154 479.654-154ZM480-580Zm11-22Zm-22 0Zm11 22Z"/></svg>', variant: 'outlined', weight: 100 };

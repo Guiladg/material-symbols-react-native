@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStepOver = exports.msStepOver = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.941-226Q442-226 415.5-252.559t-26.5-64.5Q389-355 415.559-381.5t64.5-26.5Q518-408 544.5-381.441t26.5 64.5Q571-279 544.441-252.5t-64.5 26.5ZM222-509q23-87 93.5-143T479-708q77 0 140 39.5T717-565v-149h22v205H534v-22h175q-28-69-89.477-112Q558.045-686 480-686q-84.036 0-148.018 50T245-509h-23Z"/></svg>', variant: 'outlined', weight: 100 };

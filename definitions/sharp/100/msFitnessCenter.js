@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFitnessCenter = exports.msFitnessCenter = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m550-110-26-26 142-142-388-388-142 142-26-26 58-58-30-30 84-85-51-51 15-16 52 52 84-84 30 30 58-58 26 26-142 142 388 388 142-142 26 26-58 58 30 30-85 85 52 51-16 16-51-52-84 84-30-30-58 58Z"/></svg>', variant: 'sharp', weight: 100 };

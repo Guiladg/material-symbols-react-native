@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBookmarksFill = exports.msBookmarksFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M83-17v-677q0-39.463 27.769-67.231Q138.538-789 178-789h450q39.05 0 67.025 27.769Q723-733.463 723-694v677L403-154 83-17Zm699-136v-696H270v-94h512q39.463 0 67.231 27.475Q877-888.05 877-849v696h-95Z"/></svg>', variant: 'outlined', weight: 700 };

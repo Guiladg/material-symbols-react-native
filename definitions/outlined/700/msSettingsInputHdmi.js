@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSettingsInputHdmi = exports.msSettingsInputHdmi = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M295-55v-129L175-414v-258h40v-140q0-37.025 28.194-65.513Q271.388-906 308-906h344q37.025 0 65.513 28.487Q746-849.025 746-812v140h40v258L666-184v129H295Zm14-617h81v-79h51v79h78v-79h51v79h81v-139H309v139Zm79 523h184v-60l119-231v-137H269v137l119 231v60Zm92-291Z"/></svg>', variant: 'outlined', weight: 700 };

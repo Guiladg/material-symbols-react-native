@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStop = exports.msStop = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292-346v-268q0-21.75 16.125-37.875T346-668h268q21.75 0 37.875 16.125T668-614v268q0 21.75-16.125 37.875T614-292H346q-21.75 0-37.875-16.125T292-346Zm54 32h268q14 0 23-9t9-23v-268q0-14-9-23t-23-9H346q-14 0-23 9t-9 23v268q0 14 9 23t23 9Zm134-166Z"/></svg>', variant: 'rounded', weight: 100 };

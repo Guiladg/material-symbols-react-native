@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAccountBalanceWallet = exports.msAccountBalanceWallet = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M194-314v120-572 452Zm594-287h-22v-165H194v572h572v-165h22v187H172v-616h616v187ZM499-336v-288h330v288H499Zm145.235-83Q669-419 687-436.792q18-17.791 18-43.208 0-26.25-18.125-43.625T644-541q-26 0-44 17.375T582-480q0 25.417 18.152 43.208Q618.304-419 644.235-419ZM807-358v-244H521v244h286Z"/></svg>', variant: 'sharp', weight: 100 };

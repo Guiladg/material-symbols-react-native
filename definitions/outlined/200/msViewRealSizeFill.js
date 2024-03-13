@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewRealSizeFill = exports.msViewRealSizeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M314.769-320v-289.231H240V-640h105.538v320h-30.769Zm148.539 0v-30.769h30.769V-320h-30.769Zm185.923 0v-289.231h-74V-640H680v320h-30.769ZM463.308-464.615v-30.77h30.769v30.77h-30.769Z"/></svg>', variant: 'outlined', weight: 200 };

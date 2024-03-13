@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStepOutFill = exports.msStepOutFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.941-106Q442-106 415.5-132.559t-26.5-64.5Q389-235 415.559-261.5t64.5-26.5Q518-288 544.5-261.441t26.5 64.5Q571-159 544.441-132.5t-64.5 26.5ZM469-403v-371L336-643l-15-15 159-159 159 159-16 15-132-132v372h-22Z"/></svg>', variant: 'outlined', weight: 100 };

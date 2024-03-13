@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDetectorBattery = exports.msDetectorBattery = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M341.538-221.538h356.924V-360H341.538v138.462Zm-110.769 30.769v-200h498.462v64.615h40v70.77h-40v64.615H230.769Zm-40-578.462v80h578.462v-80H190.769Zm99.462 110.769 28.769 80h322l28.769-80H290.231Zm5.201 110.77L257-658.462h-97V-800h640v141.538h-97.13l-41.562 110.77H295.432ZM190.769-769.231v80-80Z"/></svg>', variant: 'sharp', weight: 200 };

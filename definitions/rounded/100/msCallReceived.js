@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallReceived = exports.msCallReceived = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M279-252q-11.475 0-19.237-7.763Q252-267.525 252-279v-309q0-4.675 3.228-7.838 3.228-3.162 8-3.162t7.772 3.162q3 3.163 3 7.838v298l450-450q3-3 7.5-3.5t8.5 3.5q4 4 4 8t-4 8L290-274h298q4.675 0 7.838 3.228 3.162 3.228 3.162 8T595.838-255q-3.163 3-7.838 3H279Z"/></svg>', variant: 'rounded', weight: 100 };

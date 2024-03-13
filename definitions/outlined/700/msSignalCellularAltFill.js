@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularAltFill = exports.msSignalCellularAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M182-135v-216h135v216H182Zm255 0v-416h134v416H437Zm254 0v-691h135v691H691Z"/></svg>', variant: 'outlined', weight: 700 };

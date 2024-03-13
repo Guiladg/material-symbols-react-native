@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMusicNote = exports.msMusicNote = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M399.154-167.692q-48.039 0-81.712-33.673t-33.673-81.712q0-48.038 33.673-81.712 33.673-33.673 81.712-33.673 24.923 0 47.038 9.154 22.116 9.154 37.577 27v-430h192.462v89.616H514.539v419.615q0 48.039-33.674 81.712-33.673 33.673-81.711 33.673Z"/></svg>', variant: 'outlined', weight: 200 };

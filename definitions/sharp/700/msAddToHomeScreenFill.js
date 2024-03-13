@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddToHomeScreenFill = exports.msAddToHomeScreenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M217-17v-229h94v45h418v-558H311v45h-94v-229h606v926H217Zm-54-287-43-43 234-233H189v-60h269v269h-60v-167L163-304Z"/></svg>', variant: 'sharp', weight: 700 };

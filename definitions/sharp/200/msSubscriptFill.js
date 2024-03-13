@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSubscriptFill = exports.msSubscriptFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M739.769-200v-86.154h104.847V-320H739.769v-26.154H870.77V-260H765.923v33.846H870.77V-200H739.769Zm-459.385-64.615 167.308-258.693L294.154-760h42.154l138.077 213.769h-.77L614.769-760h41.385L501.077-523.308l168.077 258.693H628L473.615-500.923h.77L321.538-264.615h-41.154Z"/></svg>', variant: 'sharp', weight: 200 };

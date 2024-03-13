@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSmartDisplayFill = exports.msSmartDisplayFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m405.846-343 213.847-138.231-213.847-137.462V-343ZM120-200v-560h720v560H120Z"/></svg>', variant: 'sharp', weight: 200 };

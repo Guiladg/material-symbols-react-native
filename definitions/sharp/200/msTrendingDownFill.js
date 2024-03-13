@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTrendingDownFill = exports.msTrendingDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M646.077-276.154v-30.769H790L533.615-561 370.462-397.077 120-648.077l22.231-22.231 228 227.231 163.154-163.154 276.077 276.846v-140.692H840v193.923H646.077Z"/></svg>', variant: 'sharp', weight: 200 };

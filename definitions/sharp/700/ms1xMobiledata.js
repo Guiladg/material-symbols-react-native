@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms1xMobiledata = exports.ms1xMobiledata = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M229-280v-317h-71v-83h153v400h-82Zm189 0 136-213-122-187h98l72 119 69-119h96L651-493l132 213h-96l-85-146-86 146h-98Z"/></svg>', variant: 'sharp', weight: 700 };

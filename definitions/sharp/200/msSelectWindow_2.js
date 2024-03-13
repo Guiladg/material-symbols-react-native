@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSelectWindow_2 = exports.msSelectWindow_2 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M150.769-150.769h506v-390.462h-506v390.462ZM687.539-388v-30.769h121.692v-390.462h-506V-572h-30.77v-268H840v452H687.539ZM120-120v-452h567.539v452H120Zm436.615-581.615ZM403.385-346Z"/></svg>', variant: 'sharp', weight: 200 };

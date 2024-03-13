@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDnsFill = exports.msDnsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M296.059-599Q309-599 318-608.059q9-9.059 9-22T317.941-652q-9.059-9-22-9T274-651.941q-9 9.059-9 22T274.059-608q9.059 9 22 9Zm0 340Q309-259 318-268.059q9-9.059 9-22T317.941-312q-9.059-9-22-9T274-311.941q-9 9.059-9 22T274.059-268q9.059 9 22 9ZM172-504v-252h616v252H172Zm0 340v-252h616v252H172Z"/></svg>', variant: 'sharp', weight: 100 };

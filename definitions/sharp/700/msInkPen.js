@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInkPen = exports.msInkPen = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m494-532 37 37 245-245-37-36-245 244ZM172-172h36l257-257-37-37-256 257v37Zm384-233L405-556l195-195-31-31-233 233-60-59 293-293 92 88 80-79 151 151-336 336ZM240-89H89v-151l316-316 151 151L240-89Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHomeRepairServiceFill = exports.msHomeRepairServiceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M330.769-621.539h298.462v-107.692H330.769v107.692ZM120-200v-195.384h135.385v49.23h30.769v-49.23h387.692v49.23h30.769v-49.23H840V-200H120Zm0-235.385v-186.154h180V-760h360v138.461h180v186.154H704.615v-40h-30.769v40H286.154v-40h-30.769v40H120Z"/></svg>', variant: 'sharp', weight: 200 };

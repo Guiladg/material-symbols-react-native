@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGroupedBarChartFill = exports.msGroupedBarChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M146-143v-514h170v514H146Zm232 0v-314h170v314H378Zm268 0v-674h170v674H646Z"/></svg>', variant: 'sharp', weight: 700 };

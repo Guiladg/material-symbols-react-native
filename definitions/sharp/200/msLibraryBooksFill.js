@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLibraryBooksFill = exports.msLibraryBooksFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M373.769-429.231h168.847V-460H373.769v30.769Zm0-106.153h312.693v-30.77H373.769v30.77Zm0-106.154h312.693v-30.77H373.769v30.77Zm-132.231 380V-840H820v578.462H241.538ZM140-160v-553.846h30.769v523.077h523.078V-160H140Z"/></svg>', variant: 'sharp', weight: 200 };

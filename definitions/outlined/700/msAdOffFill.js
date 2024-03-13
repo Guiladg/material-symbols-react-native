@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAdOffFill = exports.msAdOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m827-40-55-55H189q-38.775 0-66.388-27.612Q95-150.225 95-189v-583l-45-44 51-52L878-91l-51 51ZM189-189h489L189-679v490Zm677 0-86-85v-414H367L189-866h582q39.188 0 67.094 27.906Q866-810.188 866-771v582Z"/></svg>', variant: 'outlined', weight: 700 };

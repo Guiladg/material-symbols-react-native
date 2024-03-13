@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPediatricsFill = exports.msPediatricsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M277-704v-87h160v-120h87v120h160v87H277Zm78 661q-39.8 0-66.9-27.394Q261-97.787 261-138v-80h223v-87H261v-87h223v-87H261v-20q6-66 55.125-110.5T432-654h96q70.917 0 121.458 50.542Q700-552.917 700-482v344q0 40.213-27.394 67.606Q645.213-43 605-43H355Z"/></svg>', variant: 'sharp', weight: 700 };

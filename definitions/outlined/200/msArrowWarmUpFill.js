@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowWarmUpFill = exports.msArrowWarmUpFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m464.615-783.692-217.23 218-21.231-21.231L480-840.769l253.846 253.846-21.231 21.231-217.23-217.231v293.692h-30.77v-294.461Zm0 494.461v-129.23h30.77v129.23h-30.77Zm0 169.231v-98.461h30.77V-120h-30.77Z"/></svg>', variant: 'outlined', weight: 200 };

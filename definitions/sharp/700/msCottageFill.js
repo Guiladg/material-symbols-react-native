@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCottageFill = exports.msCottageFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140-109v-401l-78 60-50-66 128-98.241V-738h83v60l256-194 468 357-50 65-78-60v401H518v-242h-83v242H140Zm0-679q2-62 45.543-106t104.318-44q28.489 0 47.814-20T357-1005h84q-3 61.583-46.043 105.792Q351.914-855 290.139-855q-27.489 0-46.814 19.5T224-788h-84Z"/></svg>', variant: 'sharp', weight: 700 };

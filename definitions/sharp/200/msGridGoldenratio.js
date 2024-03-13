@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGridGoldenratio = exports.msGridGoldenratio = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M407.769-120v-287.769H120v-30.769h287.769v-83.154H120v-30.77h287.769V-840h30.769v287.538h83.154V-840h30.77v287.538H840v30.77H552.462v83.154H840v30.769H552.462V-120h-30.77v-287.769h-83.154V-120h-30.769Zm30.769-318.538h83.154v-83.154h-83.154v83.154Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEmojiPeopleFill = exports.msEmojiPeopleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M404-106v-529q-71-10-119.5-58.5T227-811h22q10 68 62.5 111.5T429-656h100q23 0 33.5 4.5T591-631l166 163-16 16-188-185v531h-22v-239H426v239h-22Zm75.124-630Q453-736 435-753.876q-18-17.876-18-44T434.876-842q17.876-18 44-18T523-842.124q18 17.876 18 44T523.124-754q-17.876 18-44 18Z"/></svg>', variant: 'outlined', weight: 100 };

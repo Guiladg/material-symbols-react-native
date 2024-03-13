@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVerticalDistribute = exports.msVerticalDistribute = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-132v-34h696v34H132Zm174-317v-62h348v62H306ZM132-794v-34h696v34H132Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDresserFill = exports.msDresserFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-92v-682q0-40.213 27.1-67.606Q186.2-869 226-869h508q40.213 0 67.606 27.394Q829-814.213 829-774v682h-95v-80H226v80h-94Zm94-439h216v-243H226v243Zm293-160h215v-83H519v83Zm0 160h215v-83H519v83ZM393-313h174v-77H393v77Z"/></svg>', variant: 'rounded', weight: 700 };

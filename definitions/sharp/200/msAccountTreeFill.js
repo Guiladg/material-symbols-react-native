@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAccountTreeFill = exports.msAccountTreeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M621.692-140v-122.692H464.615v-404.616H338.539v124.616H99.999V-820h238.54v121.923h283.153V-820H860v277.308H621.692v-124.616H495.385v373.846h126.307v-124.615H860V-140H621.692Z"/></svg>', variant: 'sharp', weight: 200 };

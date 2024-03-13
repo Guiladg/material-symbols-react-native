@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineStartCircleFill = exports.msLineStartCircleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M320-322q-65.833 0-111.917-46.118Q162-414.235 162-480.118 162-546 208.083-592 254.167-638 320-638q63 0 108 42.5T477-491h336q4.95 0 7.975 3.035 3.025 3.035 3.025 8T820.975-472q-3.025 3-7.975 3H477q-4 62-49 104.5T320-322Z"/></svg>', variant: 'rounded', weight: 100 };

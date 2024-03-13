@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardCapslock = exports.msKeyboardCapslock = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M223-223v-94h514v94H223Zm257-537 259 259-67 67-192-192-188 188-67-67 255-255Z"/></svg>', variant: 'sharp', weight: 700 };

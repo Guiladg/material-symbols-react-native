@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAccessibility = exports.msAccessibility = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480.124-736q-25.524 0-43.824-18.176-18.3-18.176-18.3-43.7 0-25.524 18.176-43.824 18.176-18.3 43.7-18.3 25.524 0 43.824 18.176 18.3 18.176 18.3 43.7 0 25.524-18.176 43.824-18.176 18.3-43.7 18.3ZM406-106v-528H170v-22h620v22H554v528h-22v-220H428v220h-22Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatTextdirectionRToL = exports.msFormatTextdirectionRToL = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M423-362v-222q-69-3-117.5-48.412Q257-677.825 257-743.5q0-67.85 48.669-115.175Q354.337-906 423-906h312v84h-92v460h-84v-460h-53v460h-83ZM255-186l74 74-59 59L97-226l174-175 57 57-75 75h613v83H255Zm168-479v-157q-37 0-60 20.475T340-744q0 38.65 22.763 58.825Q385.525-665 423-665Zm0-79Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPriceCheck = exports.msPriceCheck = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M284.615-380.461v-42.693H180v-30.769h209.231v-131.154H180v-193.462h104.615v-41.923h30.77v41.923H420v30.77H210.769v131.923H420v192.692H315.385v42.693h-30.77ZM558-148.154 415.692-290.462l22-22L558-192.154 791.846-426l22 22L558-148.154Z"/></svg>', variant: 'sharp', weight: 200 };

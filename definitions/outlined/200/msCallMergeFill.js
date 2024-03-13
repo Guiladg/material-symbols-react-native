@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallMergeFill = exports.msCallMergeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m269.692-200-22-22.231 215.693-216.461v-301.462l-132 132.769-22.231-22.23 169.615-169.616 170.385 169.616-22.231 22.23-132.769-132.769v314.923L269.692-200Zm417.462 0L528.231-359.692l22.231-22.231 158.923 159.692L687.154-200Z"/></svg>', variant: 'outlined', weight: 200 };

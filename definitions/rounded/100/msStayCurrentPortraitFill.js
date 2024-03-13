@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStayCurrentPortraitFill = exports.msStayCurrentPortraitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M306-92q-22.775 0-38.388-15.613Q252-123.225 252-146v-668q0-22.775 15.612-38.388Q283.225-868 306-868h348q22.775 0 38.388 15.612Q708-836.775 708-814v668q0 22.775-15.612 38.387Q676.775-92 654-92H306Zm-32-107h412v-562H274v562Z"/></svg>', variant: 'rounded', weight: 100 };

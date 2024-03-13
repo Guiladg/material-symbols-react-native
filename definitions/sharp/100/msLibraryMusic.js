@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLibraryMusic = exports.msLibraryMusic = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.944-368Q511-368 532.5-389.17 554-410.34 554-441v-242h104v-50H526v241q-9-10-20.819-16-11.819-6-25.181-6-30.24 0-51.12 20.81T408-440.69q0 29.69 20.864 51.19 20.863 21.5 51.08 21.5ZM254-280v-548h548v548H254Zm22-22h504v-504H276v504ZM158-184v-516h22v494h494v22H158Zm118-622v504-504Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPersonPinFill = exports.msPersonPinFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479-17 347.667-148H95v-771h771v771H610L479-17Zm2.879-423Q543-440 584.5-481.379q41.5-41.379 41.5-102.5T584.621-686q-41.379-41-102.5-41T379.5-686.121q-41.5 40.879-41.5 102T379.379-481.5q41.379 41.5 102.5 41.5ZM189-243h582v-53q-60-53-131.5-83T480-409q-88 0-159.5 31T189-295v52Z"/></svg>', variant: 'sharp', weight: 700 };

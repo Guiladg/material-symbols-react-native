@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTitleFill = exports.msTitleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M413-692H241q-28.333 0-47.167-19.576Q175-731.152 175-759.118 175-787 193.833-806.5 212.667-826 241-826h478q27.833 0 47.417 19.618Q786-786.765 786-758.882 786-731 766.417-711.5 746.833-692 719-692H548v490q0 27.917-19.679 47.458Q508.642-135 480.529-135 452-135 432.5-154.833 413-174.667 413-203v-489Z"/></svg>', variant: 'rounded', weight: 700 };

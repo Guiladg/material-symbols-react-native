@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSheetsRtl = exports.msSheetsRtl = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M142-431v-516h676v516H142Zm95-302h200v-120H237v120Zm287 0h200v-120H524v120ZM237-526h200v-120H237v120Zm287 0h200v-120H524v120ZM272-20 99-192l173-173 66 67-57 58h537v95H281l57 58-66 67Z"/></svg>', variant: 'sharp', weight: 700 };

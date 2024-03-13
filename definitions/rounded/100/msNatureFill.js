@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNatureFill = exports.msNatureFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M469-148v-204H360q-62 0-105-43t-43-105q0-51 35-89t83-59q8-80 48-120t102-40q62 0 102 40t48 120q49 19 83.5 58t34.5 90q0 62-43 105t-105 43H491v204h200q4.725 0 7.862 3.193 3.138 3.193 3.138 8T698.862-129q-3.137 3-7.862 3H272q-4.725 0-7.862-3.193-3.138-3.193-3.138-8t3.138-7.807q3.137-3 7.862-3h197Z"/></svg>', variant: 'rounded', weight: 100 };

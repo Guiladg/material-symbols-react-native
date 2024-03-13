@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKitchenFill = exports.msKitchenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M322.846-644.615h30.769V-748h-30.769v103.385Zm0 324.846h30.769v-172.154h-30.769v172.154ZM480-480ZM200-120v-432.615h560V-120H200Zm0-463.385V-840h560v256.615H200Z"/></svg>', variant: 'sharp', weight: 200 };

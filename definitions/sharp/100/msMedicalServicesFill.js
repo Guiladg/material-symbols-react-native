@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMedicalServicesFill = exports.msMedicalServicesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-132v-536h240v-108h216v108h240v536H132Zm262-536h172v-86H394v86Zm75 279v120h22v-120h120v-22H491v-120h-22v120H349v22h120Z"/></svg>', variant: 'sharp', weight: 100 };

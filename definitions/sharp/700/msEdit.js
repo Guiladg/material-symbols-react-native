@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEdit = exports.msEdit = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M188-189h45l421-420-43-44-423 421v43ZM95-95v-176l623-624 179 175L272-95H95Zm668-624-42-43 42 43Zm-130 87-22-21 43 44-21-23Z"/></svg>', variant: 'sharp', weight: 700 };

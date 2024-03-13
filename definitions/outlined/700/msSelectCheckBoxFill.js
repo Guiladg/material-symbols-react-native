@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSelectCheckBoxFill = exports.msSelectCheckBoxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M189-95q-38.775 0-66.388-27.612Q95-150.225 95-189v-582q0-39.188 27.612-67.094Q150.225-866 189-866h582q14.545 0 32.273 7.5Q821-851 831-843l-76 76v-4H189v582h582v-325l95-95v420q0 38.775-27.906 66.388Q810.188-95 771-95H189Zm278-199L245-516l50-50 172 172 392-392 49 51-441 441Z"/></svg>', variant: 'outlined', weight: 700 };

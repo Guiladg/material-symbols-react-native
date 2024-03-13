@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGrading = exports.msGrading = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m634-172-75-75 15-14 59 58 140-139 16 16-155 154Zm-462 0v-22h308v22H172Zm0-149v-22h308v22H172Zm0-148v-22h616v22H172Zm0-149v-22h616v22H172Zm0-148v-22h616v22H172Z"/></svg>', variant: 'sharp', weight: 100 };

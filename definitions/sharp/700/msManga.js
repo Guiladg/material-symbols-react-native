@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msManga = exports.msManga = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-135v-691h851v691H55Zm287-94-46-64 76.267-104.782v-129.73l123.669-39.108L572.233-672 695-632l116-39v-60H149v502h193Zm110-240Zm-12 240h371v-359l-7 5-109.201 33.939L602.557-579l-57.935 79.829-92.897 30.314v97.367L394-293l46 64Z"/></svg>', variant: 'sharp', weight: 700 };

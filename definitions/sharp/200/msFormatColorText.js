@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatColorText = exports.msFormatColorText = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120 0v-138.462h720V0H120Zm129.231-280 216.153-520h29.232l216.153 520h-38.846l-60.846-148.462h-266L285-280h-35.769Zm108.308-179.385h241.846L482-749.615h-5.538l-118.923 290.23Z"/></svg>', variant: 'sharp', weight: 200 };

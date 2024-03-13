@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrunchDiningFill = exports.msBrunchDiningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-55v-114h556v114H55Zm0-178v-115h205v-73h146v73h205v115H55ZM728-55v-281q-36-28-60.5-75.38Q643-458.759 643-519v-387h263v387q0 61.079-24.463 108.214Q857.075-363.652 822-336v187h84v94H728Zm10-596h73v-160h-73v160Z"/></svg>', variant: 'sharp', weight: 700 };

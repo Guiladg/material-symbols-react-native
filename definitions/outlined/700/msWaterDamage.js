@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWaterDamage = exports.msWaterDamage = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M269-228h422v-356L480-748 269-584v356Zm-93 93v-377L71-431l-57-75 466-361 466 362-57 74-104-81v377H176Zm303.867-192Q514-327 537.5-350.406T561-408q0-27-11.812-51.504Q537.375-484.008 480-566q-57.375 81.992-69.188 106.496Q399-435 399-408q0 34.188 23.367 57.594Q445.735-327 479.867-327Zm.133-81Z"/></svg>', variant: 'outlined', weight: 700 };

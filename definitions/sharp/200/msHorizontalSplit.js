@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHorizontalSplit = exports.msHorizontalSplit = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-240v-276.923h640V-240H160Zm0-347.692v-30.77h640v30.77H160Zm0-101.539V-720h640v30.769H160Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msQueueMusic = exports.msQueueMusic = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M643.118-135Q589-135 551-172.324q-38-37.323-38-92Q513-319 550.042-356.5 587.083-394 640-394q10.521 0 20.085 1.875Q669.65-390.25 679-386v-359h227v105H773v376q0 54.833-37.882 91.917-37.883 37.083-92 37.083ZM95-244v-93h320v93H95Zm0-203v-94h479v94H95Zm0-204v-94h479v94H95Z"/></svg>', variant: 'outlined', weight: 700 };

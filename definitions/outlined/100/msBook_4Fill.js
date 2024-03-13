@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBook_4Fill = exports.msBook_4Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M300-288h22v-518h-22v518Zm-48 156q-33.333 0-56.667-23.333Q172-178.667 172-212v-536q0-33.333 23.333-56.667Q218.667-828 252-828h402v562H252q-24.5 0-41.25 15.575Q194-234.851 194-210.175q0 24.675 16.75 40.425Q227.5-154 252-154h514v-594h22v616H252Z"/></svg>', variant: 'outlined', weight: 100 };

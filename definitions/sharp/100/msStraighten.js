@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStraighten = exports.msStraighten = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-292v-376h696v376H132Zm22-22h652v-332H657v126h-22v-126H491v126h-22v-126H325v126h-22v-126H154v332Zm149-206h22-22Zm166 0h22-22Zm166 0h22-22Zm-155 40Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFactCheckFill = exports.msFactCheckFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M228-280h194v-80H228v80Zm354.447-80L774-552l-57.447-57-134.106 136L525-530l-56 57 113.447 113ZM228-440h194v-80H228v80Zm0-160h194v-80H228v80ZM47-95v-771h867v771H47Z"/></svg>', variant: 'sharp', weight: 700 };

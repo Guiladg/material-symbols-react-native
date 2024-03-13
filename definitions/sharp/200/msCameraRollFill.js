@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCameraRollFill = exports.msCameraRollFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-120v-680h120v-80h160v80h120v80h320v520H518.462v80H120Zm266.154-167.692h52.308V-340h-52.308v52.308Zm0-292.308h52.308v-52.308h-52.308V-580Zm156.923 292.308h52.308V-340h-52.308v52.308Zm0-292.308h52.308v-52.308h-52.308V-580ZM700-287.692h52.308V-340H700v52.308ZM700-580h52.308v-52.308H700V-580Z"/></svg>', variant: 'sharp', weight: 200 };

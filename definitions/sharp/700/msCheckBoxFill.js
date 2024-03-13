@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCheckBoxFill = exports.msCheckBoxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m417-302 300-302-63-64-237 238-110-110-63 64 173 174ZM95-95v-771h771v771H95Z"/></svg>', variant: 'sharp', weight: 700 };

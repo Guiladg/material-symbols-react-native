@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVolcanoFill = exports.msVolcanoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m141.538-120 124.616-280h120.769l80-200H690l136.923 480H141.538Zm424.539-638.462v-110.769h30.769v110.769h-30.769Zm161 66.77-21.231-21.231 78.231-77.462 22.231 20.462-79.231 78.231Zm-291.231 0-78.231-78.231 21.231-21.462 78.231 78.462-21.231 21.231Z"/></svg>', variant: 'outlined', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextSnippet = exports.msTextSnippet = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-194h508q14 0 23-9t9-23v-348L574-766H226q-14 0-23 9t-9 23v508q0 14 9 23t23 9Zm0 22q-21.75 0-37.875-16.125T172-226v-508q0-21.75 16.125-37.875T226-788h357l205 205v357q0 21.75-16.125 37.875T734-172H226Zm80-163h348v-22H306v22Zm0-134h348v-22H306v22Zm0-134h213v-22H306v22ZM194-194v-572 572Z"/></svg>', variant: 'outlined', weight: 100 };

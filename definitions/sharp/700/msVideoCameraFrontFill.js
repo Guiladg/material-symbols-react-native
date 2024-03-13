@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVideoCameraFrontFill = exports.msVideoCameraFrontFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M221-307h358v-26q0-48.102-48-76.551Q483-438 400-438t-131 28.449Q221-381.102 221-333v26Zm178.876-186Q438-493 462-516.876t24-62Q486-617 462.124-640.5t-62-23.5Q362-664 338-640.624t-24 61.5Q314-541 337.876-517t62 24ZM55-135v-691h691v301l160-160v410L746-435v300H55Z"/></svg>', variant: 'sharp', weight: 700 };

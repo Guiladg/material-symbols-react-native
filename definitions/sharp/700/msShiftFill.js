@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShiftFill = exports.msShiftFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M304.846-105v-310H89l391-489 392 489H655v310H304.846Z"/></svg>', variant: 'sharp', weight: 700 };

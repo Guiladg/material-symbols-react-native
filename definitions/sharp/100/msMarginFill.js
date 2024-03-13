@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarginFill = exports.msMarginFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-616h616v616H172Zm125-435h55v-56h-55v56Zm155 0h56v-56h-55l-1 56Zm156 0h56v-56h-56v56ZM297-452h55v-56h-55v56Zm155-1 56 1v-56h-55l-1 55Zm156 1h56v-56h-56v56Z"/></svg>', variant: 'sharp', weight: 100 };

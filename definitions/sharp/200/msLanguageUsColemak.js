@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLanguageUsColemak = exports.msLanguageUsColemak = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M538.462-330.769h190.769v-298.462H538.462v298.462ZM200-300v-360h223.077v30.769H230.769v298.462h192.308V-300H200Zm307.692 0v-360H760v360H507.692Z"/></svg>', variant: 'sharp', weight: 200 };

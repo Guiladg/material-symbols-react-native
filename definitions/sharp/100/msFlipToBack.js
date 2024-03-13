@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlipToBack = exports.msFlipToBack = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-471h22v449h449v22H172Zm146-146v-34h34v34h-34Zm0-145v-34h34v34h-34Zm0-146v-34h34v34h-34Zm0-145v-34h34v34h-34Zm145 436v-34h34v34h-34Zm0-436v-34h34v34h-34Zm146 0v-34h34v34h-34Zm0 436v-34h34v34h-34Zm145-436v-34h34v34h-34Zm0 436v-34h34v34h-34Zm0-145v-34h34v34h-34Zm0-146v-34h34v34h-34Z"/></svg>', variant: 'sharp', weight: 100 };

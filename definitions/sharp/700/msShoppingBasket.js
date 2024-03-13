@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShoppingBasket = exports.msShoppingBasket = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M152-95 4-626h256l219-328 218.46 328H957L810-95H152Zm71-94h514l96-342H128l95 342Zm257.177-105Q508-294 527-313.177t19-47Q546-388 526.823-407t-47-19Q452-426 433-406.823t-19 47Q414-332 433.177-313t47 19ZM371-626h216L478-781 371-626Zm110 266Z"/></svg>', variant: 'sharp', weight: 700 };

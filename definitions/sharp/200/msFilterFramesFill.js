@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFilterFramesFill = exports.msFilterFramesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-120v-639.769h224.615L480-895.385l135.385 135.616H840V-120H120Zm30.769-30.769h658.462V-729H150.769v578.231Zm104.616-104.616v-369h449.23v369h-449.23Z"/></svg>', variant: 'sharp', weight: 200 };

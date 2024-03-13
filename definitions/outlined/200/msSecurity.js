@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSecurity = exports.msSecurity = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-121.538q-120.769-35.769-200.385-147.116Q200-380 200-518.923v-213.385l280-104.615 280 104.615v213.385Q760-380 680.385-268.654 600.769-157.307 480-121.538Zm0-32q100.615-32.693 168.192-123.5Q715.769-367.846 727-480H480v-323.462l-249.231 92.385v192.154q0 10.461.5 18.961.5 8.5 1.731 19.962h247v326.462Z"/></svg>', variant: 'outlined', weight: 200 };

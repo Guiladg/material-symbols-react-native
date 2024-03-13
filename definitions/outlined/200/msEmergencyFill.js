@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEmergencyFill = exports.msEmergencyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M437.538-147.538v-257.693L213.846-276.385l-43.461-73.769L395.077-480 171.385-608.846l42.461-73.769 223.692 128.846v-258.693h84.924v258.693l223.692-128.846 42.461 73.769L564.923-480l224.692 129.846-43.461 73.769-223.692-128.846v257.693h-84.924Z"/></svg>', variant: 'outlined', weight: 200 };

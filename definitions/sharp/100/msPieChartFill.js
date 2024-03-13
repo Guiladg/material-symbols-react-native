@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPieChartFill = exports.msPieChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M491-491v-318q131 2 222 95t96 223H491Zm-22 339q-133-3-225-98.5T152-480q0-134 92-230t225-99v657Zm22 0v-317h318q-5 130-96 222t-222 95Z"/></svg>', variant: 'sharp', weight: 100 };

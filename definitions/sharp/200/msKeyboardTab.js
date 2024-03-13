@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardTab = exports.msKeyboardTab = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M809.231-260v-440H840v440h-30.769Zm-316.154-8.231-22.231-21.23 175.923-175.154H120v-30.77h526L471.846-671.308l21.231-20.461L704.846-480 493.077-268.231Z"/></svg>', variant: 'sharp', weight: 200 };

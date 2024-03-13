@@ -1,6 +1,6 @@
 {
   "name": "material-symbols-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An icon placer component for Google's Material Symbols to use with React Native.",
   "types": "index.d.ts",
   "files": [
@@ -35,18 +35,32 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "prettier": "^3.0.3",
+    "progress": "^2.0.3",
     "typescript": "^5.2.2"
   },
   "workspaces": [
+    "definitions/outlined/100",
+    "definitions/rounded/100",
+    "definitions/sharp/100",
+    "definitions/outlined/200",
+    "definitions/rounded/200",
+    "definitions/sharp/200",
     "definitions/outlined/400",
     "definitions/rounded/400",
-    "definitions/sharp/400"
+    "definitions/sharp/400",
+    "definitions/outlined/700",
+    "definitions/rounded/700",
+    "definitions/sharp/700"
   ],
   "scripts": {
     "test": "echo \"No test specified\"",
-    "download:definitions": "npm run download:400",
+    "download:definitions": "npm run download:100 && npm run download:200 && npm run download:400 && npm run download:700",
+    "download:100": "npx @material-design-icons/scripts download svg --symbols --weight 100 --to downloads/100",
+    "download:200": "npx @material-design-icons/scripts download svg --symbols --weight 200 --to downloads/200",
     "download:400": "npx @material-design-icons/scripts download svg --symbols --weight 400 --to downloads/400",
+    "download:700": "npx @material-design-icons/scripts download svg --symbols --weight 700 --to downloads/700",
     "generate:definitions": "node ./scripts/generateDefs.mjs",
+    "publish:all": "npm run publish:definitions && npm run publish:component",
     "publish:definitions": "npm publish -ws",
     "publish:component": "npm publish"
   }

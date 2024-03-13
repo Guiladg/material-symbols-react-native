@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextSelectMoveUp = exports.msTextSelectMoveUp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M164.615-160v-30.769h630.77V-160h-630.77Zm300-144.615v-281L376-498l-22-22 126-126 126 126-22 22-88.615-87.615v281h-30.77Zm-300-464.616V-800h630.77v30.769h-630.77Z"/></svg>', variant: 'sharp', weight: 200 };

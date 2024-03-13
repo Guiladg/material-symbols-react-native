@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFastForward = exports.msFastForward = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M41-193v-574l417 287L41-193Zm462 0v-574l417 287-417 287ZM136-480Zm461 0ZM136-372l155-108-155-108v216Zm461 0 157-108-157-108v216Z"/></svg>', variant: 'outlined', weight: 700 };

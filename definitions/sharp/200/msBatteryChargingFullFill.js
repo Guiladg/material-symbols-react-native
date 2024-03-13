@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatteryChargingFullFill = exports.msBatteryChargingFullFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M663.077-103.923v-102.231h-52.308l86.154-169.692v102h52.308l-86.154 169.923ZM315.384-120v-668.308h96.924V-840h135.384v51.692h96.924v328.385q-80.308 10.769-134.731 72.5-54.423 61.731-54.423 145.346 0 34.923 10.654 65.923 10.653 31 29.807 56.154H315.384Z"/></svg>', variant: 'sharp', weight: 200 };

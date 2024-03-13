@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlayArrowFill = exports.msPlayArrowFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M360-324.923V-638q0-13.231 8.282-20.462t19.581-7.231q3.06 0 7.156.616 4.096.615 7.904 2.615l246.308 158.308q6.231 4.231 9.731 9.846 3.5 5.616 3.5 12.846 0 7.231-3.5 12.847-3.5 5.615-9.731 9.846L402.923-300.461q-3.834 2-7.959 2.615-4.124.616-7.189.616-11.314 0-19.544-7.231Q360-311.692 360-324.923Z"/></svg>', variant: 'rounded', weight: 200 };

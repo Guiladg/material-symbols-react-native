@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGraphicEq = exports.msGraphicEq = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M312.692-275.384v-409.232h30.77v409.232h-30.77ZM464.615-120v-720h30.77v720h-30.77ZM160-427.692v-104.616h30.769v104.616H160Zm457.308 152.308v-409.232h30.769v409.232h-30.769Zm151.923-152.308v-104.616H800v104.616h-30.769Z"/></svg>', variant: 'outlined', weight: 200 };

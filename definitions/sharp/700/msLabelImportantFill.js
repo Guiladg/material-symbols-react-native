@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLabelImportantFill = exports.msLabelImportantFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m95-175 195-305L95-786h554l217 306-217 305H95Z"/></svg>', variant: 'sharp', weight: 700 };

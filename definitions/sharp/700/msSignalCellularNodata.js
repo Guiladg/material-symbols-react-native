@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularNodata = exports.msSignalCellularNodata = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m697-60-67-66 84-84-84-84 67-67 84 84 84-84 66 67-83 84 83 84-66 66-84-83-84 83ZM55-55l851-851v500q-22-12-45.5-20.5T811-437v-242L282-149h282.306Q570-123 582.5-99T612-55H55Zm227-94 529-530-156 156q-67 67-126 126.5t-117.5 118L282-149Z"/></svg>', variant: 'sharp', weight: 700 };

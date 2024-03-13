@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCloseSmall = exports.msCloseSmall = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m307-290-17-17 173-173-173-172 17-17 173 173 172-173 17 17-173 172 173 173-17 17-172-173-173 173Z"/></svg>', variant: 'outlined', weight: 100 };

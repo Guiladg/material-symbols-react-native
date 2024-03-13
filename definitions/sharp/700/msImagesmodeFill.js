@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msImagesmodeFill = exports.msImagesmodeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M223-268h515L578-488 446-317l-93-127-130 176ZM95-95v-771h771v771H95Zm245.118-458q27.965 0 47.424-19.576Q407-592.152 407-620.118q0-27.965-19.576-47.424Q367.848-687 339.882-687q-27.965 0-47.424 19.576Q273-647.848 273-619.882q0 27.965 19.576 47.424Q312.152-553 340.118-553Z"/></svg>', variant: 'sharp', weight: 700 };

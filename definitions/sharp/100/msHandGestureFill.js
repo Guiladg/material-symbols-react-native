@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHandGestureFill = exports.msHandGestureFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M852-727q0-43-30.5-73.5T748-831v-25q54 0 91.5 37.5T877-727h-25ZM243-104q-58 0-98.5-40.658Q104-185.315 104-243h25q0 47 33.507 80.5T243-129v25Zm156-14L129-515l26-24 177 126v-346h22v253h123v-333h22v333h123v-293h22v293h122v-242h22v630H399Z"/></svg>', variant: 'sharp', weight: 100 };

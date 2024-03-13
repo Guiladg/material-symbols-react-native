@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msForwardToInboxFill = exports.msForwardToInboxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m785-16-51-52 65-67H594v-75h205l-66-66 52-53 157 157L785-16ZM55-135v-691h851v453q-28.1-15-57.519-23-29.419-8-60.481-8-106.167 0-180.083 73.708Q534-256.583 534-152v17H55Zm425-296 331-217v-83L480-518 149-731v83l331 217Z"/></svg>', variant: 'sharp', weight: 700 };

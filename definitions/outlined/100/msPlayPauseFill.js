@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlayPauseFill = exports.msPlayPauseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-368v-224l163 112-163 112Zm326 22v-268h22v268h-22Zm160 0v-268h22v268h-22Z"/></svg>', variant: 'outlined', weight: 100 };

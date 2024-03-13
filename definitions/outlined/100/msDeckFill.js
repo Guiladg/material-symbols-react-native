@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDeckFill = exports.msDeckFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M469-106v-520H162l318-222 318 222H491v520h-22Zm-323 0v-206l-28-154 22-3 29 158h159v205h-22v-183H168v183h-22Zm486 0v-205h159l29-158 22 3-28 154v206h-22v-183H654v183h-22Z"/></svg>', variant: 'outlined', weight: 100 };

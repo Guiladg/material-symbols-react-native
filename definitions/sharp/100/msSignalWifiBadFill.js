@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalWifiBadFill = exports.msSignalWifiBadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-194 74-600q86-72 189.5-110T480-748q113 0 216.5 38T886-600l-75 75q-16-4-33-6.5t-33-2.5q-92 1-155.5 65T525-314q0 16 2 33t7 33l-54 54Zm181-20-15-15 84-84-84-84 15-15 84 84 84-84 16 15-84 84 83 84-15 15-84-83-84 83Z"/></svg>', variant: 'sharp', weight: 100 };

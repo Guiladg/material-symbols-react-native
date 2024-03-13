@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTabNewRightFill = exports.msTabNewRightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m764-77-15-15 91-93H633v-22h207l-91-93 15-15 119 119L764-77Zm-592-95v-616h616v379q-5.568 0-11.654-.5-6.087-.5-12.346-.5-89 0-151.5 63.333Q550-283.333 550-194q0 5.35.5 11.35T551-172H172Zm297-134h22v-163h163v-22H491v-163h-22v163H306v22h163v163Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTask = exports.msTask = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m434-254 237-238-46-46-190 190-104-104-47 47 150 151ZM229-55q-39.05 0-66.525-27.475Q135-109.95 135-149v-662q0-39.463 27.475-67.231Q189.95-906 229-906h363l234 234v523q0 39.05-27.769 66.525Q770.463-55 731-55H229Zm313-570v-186H229v662h502v-476H542ZM229-811v186-186 662-662Z"/></svg>', variant: 'outlined', weight: 700 };

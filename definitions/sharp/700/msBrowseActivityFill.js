@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrowseActivityFill = exports.msBrowseActivityFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M17-83v-72h926v72H17Zm38-132v-315h246l80 160h37l140-244 43 84h305v315H55Zm347.306-246L340-590H55v-276h851v276H638l-57-117h-40L402.306-461Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewStreamFill = exports.msViewStreamFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-175v-258h771v258H95Zm0-352v-259h771v259H95Z"/></svg>', variant: 'sharp', weight: 700 };

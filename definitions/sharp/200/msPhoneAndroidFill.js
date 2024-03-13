@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhoneAndroidFill = exports.msPhoneAndroidFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M408-158.077h144v-30.769H408v30.769ZM240-80v-800h480v800H240Zm30.769-186.154h418.462v-496.923H270.769v496.923Z"/></svg>', variant: 'sharp', weight: 200 };

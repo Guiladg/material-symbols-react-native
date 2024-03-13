@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSpeed_1_2Fill = exports.msSpeed_1_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M265-277v-335h-83v-71h154v406h-71Zm131 0v-71h71v71h-71Zm131 0h253v-71H598v-98h110q32 0 52-20t20-52v-94q0-32-20-51.5T708-683H527v71h181v94H598q-32 0-51.5 20T527-446v169Z"/></svg>', variant: 'outlined', weight: 700 };

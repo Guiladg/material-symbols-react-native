@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestGaleWifi = exports.msNestGaleWifi = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M173-551h613l-10-180H184l-11 180Zm-6 95-14 197h653l-13-197H167Zm27.955 321L186-165H52l44-661h766.895L908-165H773l-9 30H194.955Z"/></svg>', variant: 'sharp', weight: 700 };

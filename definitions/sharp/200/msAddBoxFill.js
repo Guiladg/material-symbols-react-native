@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddBoxFill = exports.msAddBoxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M464.615-300h30.77v-164.615H660v-30.77H495.385V-660h-30.77v164.615H300v30.77h164.615V-300ZM160-160v-640h640v640H160Z"/></svg>', variant: 'sharp', weight: 200 };

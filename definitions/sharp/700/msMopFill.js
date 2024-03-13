@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMopFill = exports.msMopFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M138-111h104v-109h94v109h97v-109h94v109h97v-109h94v109h104l-44-183H183l-45 183ZM19-17l84-347v-185h234v-251q0-58.917 42.059-100.958Q421.118-943 480.059-943T581-900.958Q623-858.917 623-800v251h234v185l83 347H19Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDesktopAccessDisabledFill = exports.msDesktopAccessDisabledFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M817.231-123.154 660.385-280H510.769v89.231h82.924V-160H366.307v-30.769h82.924V-280H120v-521.539h63.077v44.462l-112-112 22.23-22.231 746.924 745.924-23 22.23Zm-16.077-159.923L284.23-800h556.001v516.923h-39.077Z"/></svg>', variant: 'sharp', weight: 200 };

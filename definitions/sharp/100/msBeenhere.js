@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBeenhere = exports.msBeenhere = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-104 212-305v-523h536v523L480-104Zm0-29 246-185v-488H234v488l246 185Zm-42-263 190-190-16-15-174 174-91-91-15 16 106 106Zm42-410H234h492-246Z"/></svg>', variant: 'sharp', weight: 100 };

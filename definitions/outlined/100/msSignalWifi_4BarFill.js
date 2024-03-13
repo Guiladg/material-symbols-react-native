@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalWifi_4BarFill = exports.msSignalWifi_4BarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-194 74-600q86-72 189.5-110T480-748q113 0 216.5 38T886-600L480-194Z"/></svg>', variant: 'outlined', weight: 100 };

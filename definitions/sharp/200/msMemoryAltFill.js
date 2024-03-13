@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMemoryAltFill = exports.msMemoryAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M264.615-384.615h30.77v-190.77h-30.77v190.77Zm200 0h30.77v-190.77h-30.77v190.77Zm200 0h30.77v-190.77h-30.77v190.77ZM224.615-160v-80H120v-480h104.615v-80h30.77v80h209.23v-80h30.77v80h209.23v-80h30.77v80H840v480H735.385v80h-30.77v-80h-209.23v80h-30.77v-80h-209.23v80h-30.77Z"/></svg>', variant: 'sharp', weight: 200 };

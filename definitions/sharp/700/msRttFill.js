@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRttFill = exports.msRttFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m369-109 17-104h94l84-534H458l-33 200H315l50-304h541l-48 304H748l32-200H674l-85 534h93l-16 104H369ZM133-694l12-72h147l-13 72H133Zm-26 165 12-72h146l-12 72H107ZM54-199l12-72h235l-12 72H54Zm27-165 12-72h235l-13 72H81Z"/></svg>', variant: 'sharp', weight: 700 };

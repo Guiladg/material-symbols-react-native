@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNetworkCell = exports.msNetworkCell = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M179-132q-10 0-14.5-6t-4.5-13.789q0-3.895 1-7.053t3.787-5.945l630.426-630.426Q798-798 801.158-799q3.158-1 7.053-1Q816-800 822-795.5t6 13.5v624q0 11.583-6.917 18.792Q814.167-132 803-132H179Zm492-22h135v-621L671-640v486Z"/></svg>', variant: 'rounded', weight: 100 };

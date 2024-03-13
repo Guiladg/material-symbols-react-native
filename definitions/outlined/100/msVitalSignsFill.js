@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVitalSignsFill = exports.msVitalSignsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M383.107-260q-7.107 0-13.093-4.577Q364.027-269.154 362-276l-82-193H96v-22h200l87 209 173-403q1.987-5.846 7.887-10.423 5.9-4.577 13.006-4.577 7.107 0 13.093 4.577Q595.973-690.846 598-685l84 194h184v22H666l-89-210-173 403q-1.987 6.846-7.887 11.423-5.9 4.577-13.006 4.577Z"/></svg>', variant: 'outlined', weight: 100 };

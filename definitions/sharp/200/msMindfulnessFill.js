@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMindfulnessFill = exports.msMindfulnessFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M280-120v-150.461q-57-52-88.5-116.885T160-520.556q0-133.102 93.333-226.273Q346.667-840 480-840q108.077 0 195.346 65.807 87.27 65.808 113.193 169.962L839.462-400H720v200H560v80H280Zm184.615-304.615h30.77v-230.77h-30.77v230.77Zm120-60h30.77v-130.77h-30.77v130.77Zm-240-20h30.77v-110.77h-30.77v110.77Z"/></svg>', variant: 'sharp', weight: 200 };

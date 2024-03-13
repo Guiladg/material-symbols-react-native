@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDensityMediumFill = exports.msDensityMediumFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-95v-87h771v87H95Zm0-342v-87h771v87H95Zm0-342v-87h771v87H95Z"/></svg>', variant: 'outlined', weight: 700 };

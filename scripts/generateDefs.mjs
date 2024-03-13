@@ -1,14 +1,31 @@
 import { readdirSync, readFileSync, rmSync, writeFileSync } from 'fs';
 import { basename } from 'path';
-
-console.info('Generating SVG definitions as string constants...');
+import ProgressBar from 'progress';
 
 const names = [];
-
 const iconsDir = './downloads';
 const defsDir = './definitions';
+let total = 0;
 
+// Count files to convert
 const weights = readdirSync(iconsDir);
+weights.forEach((weight) => {
+	const variants = readdirSync(`${iconsDir}/${weight}`);
+	variants.forEach((variant) => {
+		const files = readdirSync(`${iconsDir}/${weight}/${variant}`);
+		total = total + files.length;
+	});
+});
+
+// Set progress bar
+const bar = new ProgressBar(':bar (:current/:total) :eta :file', {
+	total,
+	complete: '█',
+	incomplete: '░',
+	width: 30
+});
+
+// Generate definitions
 weights.forEach((weight) => {
 	const variants = readdirSync(`${iconsDir}/${weight}`);
 	variants.forEach((variant) => {
@@ -18,18 +35,19 @@ weights.forEach((weight) => {
 			const name = `ms${componentName(file)}`;
 			names.push(name);
 			svgToJs(variant, weight, file, name);
-			console.log(`${path}/${file}`, ` >>> `, `${name}.js`);
+			bar.tick({ file: `${variant}/${weight}/${name}` });
 		});
 		rmSync(path, { recursive: true, force: true });
 		createIndexes(variant, weight, names);
 	});
 });
+console.info('\n\n');
 
 function createIndexes(variant, weight, names) {
+	// Create index.js file with all the exported names
 	writeFileSync(
 		`${defsDir}/${variant}/${weight}/index.js`,
-		`'use strict';
-Object.defineProperty(exports, '__esModule', { value: true }); ` +
+		`'use strict';\nObject.defineProperty(exports, '__esModule', { value: true }); ` +
 			names
 				.map(
 					(name) =>
@@ -38,7 +56,7 @@ Object.defineProperty(exports, '__esModule', { value: true }); ` +
 				.join('\n'),
 		'utf-8'
 	);
-
+	// Create index.d.ts file with all the exported names
 	writeFileSync(`${defsDir}/${variant}/${weight}/index.d.ts`, names.map((name) => `export { ${name} } from './${name}';`).join('\n'), 'utf-8');
 }
 
@@ -48,19 +66,14 @@ function svgToJs(variant, weight, file, name) {
 	const dTsFile = `${defsDir}/${variant}/${weight}/${name}.d.ts`;
 	let svgData = readFileSync(svgFile, 'utf-8');
 
+	// Create JS file with SVG data
 	writeFileSync(
 		jsFile,
-		`'use strict';
-Object.defineProperty(exports, '__esModule', { 	value: true }); const ${name} = exports.${name} = { xml: '${svgData.replace(/\'/g, "\\'")}', variant: '${variant}', weight: ${weight} };`,
+		`'use strict';\nObject.defineProperty(exports, '__esModule', { 	value: true }); const ${name} = exports.${name} = { xml: '${svgData.replace(/\'/g, "\\'")}', variant: '${variant}', weight: ${weight} };`,
 		'utf-8'
 	);
-
-	writeFileSync(
-		dTsFile,
-		`import { MsIconDefinition } from 'material-symbols-react-native';
-export declare const ${name}: MsIconDefinition;`,
-		'utf-8'
-	);
+	// Create .d.ts file
+	writeFileSync(dTsFile, `import { MsIconDefinition } from 'material-symbols-react-native';\nexport declare const ${name}: MsIconDefinition;`, 'utf-8');
 }
 
 function toCamelCase(str) {

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShadowAdd = exports.msShadowAdd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M544.615-424.615v-120h-120v-30.77h120v-120h30.77v120h120v30.77h-120v120h-30.77ZM120-120v-554.154h150.461V-840H840v569.539H674.154V-120H120Zm181.231-181.231h508v-508h-508v508Z"/></svg>', variant: 'sharp', weight: 200 };

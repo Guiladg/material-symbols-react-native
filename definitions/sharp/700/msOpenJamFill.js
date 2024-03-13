@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOpenJamFill = exports.msOpenJamFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M234-114v-72h282v-342l72 72 54-55-162-162-162 162 54 55 72-72v225H55v-563h851v563H616v117h110v72H234Z"/></svg>', variant: 'sharp', weight: 700 };

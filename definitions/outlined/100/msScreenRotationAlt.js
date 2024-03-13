@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenRotationAlt = exports.msScreenRotationAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M505-160 243-421h32l246 246q9 10 23 9.5t23-9.5l230-229H646v-22h188v188h-22v-152L582-160q-16.378 16-38.689 16T505-160ZM126-535v-188h22v152l230-230q16.378-16 38.689-16T455-801l262 261h-32L439-786q-9-10-23-9.5t-23 9.5L163-557h151v22H126Z"/></svg>', variant: 'outlined', weight: 100 };

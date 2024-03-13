@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msIron = exports.msIron = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-193v-155q0-74 51.738-126.5Q158.475-527 232-527h357v-85H345v40h-96v-134h435v294h60v-334h162v94h-68v335H684v124H55Zm95-94h439v-145H232.756q-33.681 0-58.218 24Q150-384 150-348v61Zm439 0v-145 145Z"/></svg>', variant: 'sharp', weight: 700 };

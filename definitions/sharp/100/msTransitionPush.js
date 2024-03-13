@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTransitionPush = exports.msTransitionPush = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M359-212v-21h86v-493h-86v-22h108v536H359Zm208 0v-536h301v536H567Zm22-21h257v-493H589v493ZM241-369l-16-16 87-84H92v-22h220l-87-83 14-15 115 109-113 111Zm348 136v-493 493Z"/></svg>', variant: 'sharp', weight: 100 };

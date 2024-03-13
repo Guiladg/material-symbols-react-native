@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStayPrimaryLandscape = exports.msStayPrimaryLandscape = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M17-177v-606h926v606H17Zm124-94v-418h-30v418h30Zm60 0h558v-418H201v418Zm618 0h30v-418h-30v418ZM141-689h-30 30Zm678 0h30-30Z"/></svg>', variant: 'sharp', weight: 700 };

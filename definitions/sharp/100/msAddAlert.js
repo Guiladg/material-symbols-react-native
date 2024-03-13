@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddAlert = exports.msAddAlert = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M212-212v-22h60v-335q0-76.826 49-135.913Q370-764 446-776v-52h68v52q76 12 125 71.087T688-569v335h60v22H212Zm268-283Zm-.177 383Q455-112 437.5-129.625T420-172h120q0 25-17.677 42.5t-42.5 17.5ZM294-234h372v-335q0-77-54.5-131.5T480-755q-77 0-131.5 54.5T294-569v335Zm175-148h22v-82h81v-22h-81v-81h-22v81h-81v22h81v82Z"/></svg>', variant: 'sharp', weight: 100 };

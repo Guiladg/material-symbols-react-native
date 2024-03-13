@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSatellite = exports.msSatellite = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M221-271h516L577-491 445-320l-93-127-131 176Zm28-218q93 0 157.5-64.75T471-711h-54q0 70-48.837 119T249-543v54Zm0-131q39 0 67-26.688 28-26.687 28-64.312h-95v91ZM95-95v-771h771v771H95Zm94-94h582v-582H189v582Zm0 0v-582 582Z"/></svg>', variant: 'sharp', weight: 700 };

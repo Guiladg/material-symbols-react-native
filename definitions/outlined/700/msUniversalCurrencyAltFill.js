@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUniversalCurrencyAltFill = exports.msUniversalCurrencyAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M612-308h160v-160h-50v110H612v50Zm-131.941-57Q528-365 561.5-398.559t33.5-81.5Q595-528 561.441-561.5t-81.5-33.5Q432-595 398.5-561.441t-33.5 81.5Q365-432 398.559-398.5t81.5 33.5ZM188-487h50v-110h110v-50H188v160ZM55-175v-611h851v611H55Z"/></svg>', variant: 'outlined', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRainyHeavy = exports.msRainyHeavy = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M313.923-219.231 59.231-726.846l27.615-13.923L340.77-233.154l-26.846 13.923Zm185.231.231L246-726.846l27.846-13.923 253.923 507.615L499.154-219Zm187-.231L433-727.077l27.846-13.692L714-234.923l-27.846 15.692Zm187.769 0L619.231-727.077l27.846-13.692 253.692 506.846-26.846 14.692Z"/></svg>', variant: 'sharp', weight: 200 };

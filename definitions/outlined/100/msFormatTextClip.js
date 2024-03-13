@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatTextClip = exports.msFormatTextClip = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M216-186v-588h22v588h-22Zm506 0v-283H364v-22h358v-283h22v588h-22Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLandscape = exports.msLandscape = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m17-229 263-351 193 257h281L560-581 457-443l-60-80 163-217 383 511H17Zm529-94Zm-356 0h180l-90-121-90 121Zm0 0h180-180Z"/></svg>', variant: 'outlined', weight: 700 };

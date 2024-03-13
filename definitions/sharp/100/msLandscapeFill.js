@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLandscapeFill = exports.msLandscapeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m139-292 146-196 131 174h94l-93-123 148-197 256 342H139Z"/></svg>', variant: 'sharp', weight: 100 };

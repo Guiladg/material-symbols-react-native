@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUngroup = exports.msUngroup = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M348-326.769 326.769-348l196.615-196.615H344.615v-30.77h230.77v230.77h-30.77v-178.769L348-326.769ZM769.231-480v-289.231H480V-800h320v320h-30.769ZM160-160v-640h30.769v609.231H800V-160H160Z"/></svg>', variant: 'sharp', weight: 200 };

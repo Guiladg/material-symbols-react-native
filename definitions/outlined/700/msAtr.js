@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAtr = exports.msAtr = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M202-80q-69 0-118-49T35-247q0-69 49-118.5T202-415q69 0 118.5 49.5T370-247q0 69-49.5 118T202-80Zm556 0q-69 0-118.5-49T590-247q0-69 49.5-118.5T758-415q70 0 118.5 49.5T925-247q0 69-48.5 118T758-80ZM480-546q-69 0-118.5-49.667Q312-645.333 312-713q0-69 49.5-118T480-880q69 0 118.5 49T648-713.5q0 68.5-49.5 118T480-546Z"/></svg>', variant: 'outlined', weight: 700 };

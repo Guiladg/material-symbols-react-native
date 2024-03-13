@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToolsPowerDrillFill = exports.msToolsPowerDrillFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M225-563h255v-55H225v55Zm0-107h255v-55H225v55Zm458 172v-292h103l47 47v61h110v79H832v58l-48 47H683ZM233-333v-82h-20q-69-7-114.5-58T53-593v-102q0-73.725 52.875-126.862Q158.75-875 233-875h410v462H492v80H233ZM134-81v-212h458v212H134Z"/></svg>', variant: 'sharp', weight: 700 };

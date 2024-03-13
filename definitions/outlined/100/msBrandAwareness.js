@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrandAwareness = exports.msBrandAwareness = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M627-470v-22h115v22H627Zm37 256-93-70 14-17 93 70-14 17Zm-83-450-14-16 93-70 14 17-93 69ZM178-412v-136h130l126-126v388L308-412H178Zm234-207-94 93H200v92h118l94 93v-278Zm-98 139Z"/></svg>', variant: 'outlined', weight: 100 };

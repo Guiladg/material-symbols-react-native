@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSpaceBar = exports.msSpaceBar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M229-335q-39.8 0-66.9-27.1Q135-389.2 135-429v-124q0-19.75 13.675-33.375Q162.351-600 182.175-600 202-600 215.5-586.375 229-572.75 229-553v124h502v-124q0-19.75 13.675-33.375Q758.351-600 778.088-600q19.737 0 33.824 13.625Q826-572.75 826-553v124q0 39.8-27.394 66.9Q771.213-335 731-335H229Z"/></svg>', variant: 'rounded', weight: 700 };

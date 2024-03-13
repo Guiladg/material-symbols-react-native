@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRecentActorsFill = exports.msRecentActorsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-252v-456h456v456H80Zm22-80q45-30 97-47.5T308-397q57 0 109 17.5t97 47.5v-354H102v354Zm206.218-114Q269-446 241.5-473.282t-27.5-66.5Q214-579 241.282-606.5t66.5-27.5Q347-634 374.5-606.718t27.5 66.5Q402-501 374.718-473.5t-66.5 27.5ZM686-252v-456h22v456h-22Zm172 0v-456h22v456h-22Z"/></svg>', variant: 'sharp', weight: 100 };

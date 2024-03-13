@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMobileScreenShareFill = exports.msMobileScreenShareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M389-370v-141h144v-40l51 51-51 51v-40H411v119h-22ZM252-92v-776h456v776H252Zm22-107h412v-562H274v562Z"/></svg>', variant: 'sharp', weight: 100 };

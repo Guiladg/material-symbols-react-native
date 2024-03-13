@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDocsAddOnFill = exports.msDocsAddOnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M633-114v-120H513v-94h120v-120h94v120h120v94H727v120h-94Zm-496-74v-95h295q3 27 6 47.5t15 47.5H137Zm0-190v-94h385q-23.25 18.286-39.625 42.643T456-378H137Zm0-189v-95h646v95H137Zm0-190v-95h646v95H137Z"/></svg>', variant: 'sharp', weight: 700 };

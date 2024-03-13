@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPageless = exports.msPageless = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M92-132v-253h22v231h271v22H92Zm483 0v-22h271v-231h22v253H575ZM92-574v-254h293v22H114v232H92Zm754 0v-232H575v-22h293v254h-22Z"/></svg>', variant: 'sharp', weight: 100 };

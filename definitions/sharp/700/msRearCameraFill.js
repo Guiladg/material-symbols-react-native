@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRearCameraFill = exports.msRearCameraFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M670.175-612Q688-612 700.5-624.675q12.5-12.676 12.5-30.5Q713-674 700.325-686.5q-12.676-12.5-30.5-12.5Q651-699 638.5-686.325q-12.5 12.676-12.5 31.5Q626-637 638.675-624.5q12.676 12.5 31.5 12.5ZM520-189h291v-582H520v582ZM55-95v-345h176l-56 56 55 56 152-152-152-152-55 55 56 57H55v-346h851v771H55Z"/></svg>', variant: 'sharp', weight: 700 };

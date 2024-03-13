@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHeadphonesFill = exports.msHeadphonesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M349-97H189q-39.05 0-66.525-27.475Q95-151.95 95-191v-289q0-80 30-150t82.5-122.5Q260-805 330-835.5T480-866q80 0 150 30.5t122.5 83Q805-700 835.5-630T866-480v289q0 39.05-27.769 66.525Q810.463-97 771-97H611v-342h160v-41q0-121.254-84.821-206.127t-206-84.873Q359-771 274-686.127T189-480v41h160v342Z"/></svg>', variant: 'outlined', weight: 700 };

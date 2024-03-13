@@ -1,0 +1,2 @@
+import { MsIconDefinition } from 'material-symbols-react-native';
+export declare const msViewColumn_2Fill: MsIconDefinition;

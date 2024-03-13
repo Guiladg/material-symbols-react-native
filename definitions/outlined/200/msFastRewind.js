@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFastRewind = exports.msFastRewind = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M793.231-295.384 522.615-480l270.616-184.616v369.232Zm-355.846 0L166.769-480l270.616-184.616v369.232ZM406.615-480Zm355.847 0ZM406.615-354.231v-252.307L220.231-480l186.384 125.769Zm355.847 0v-252.307L576.846-480l185.616 125.769Z"/></svg>', variant: 'outlined', weight: 200 };

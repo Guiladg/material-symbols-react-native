@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDisplayExternalInputFill = exports.msDisplayExternalInputFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m755-35-67-67 70-71H572v-94h186l-69-71 66-67 184 185L755-35ZM189-95q-39.05 0-66.525-27.475Q95-149.95 95-189v-163h94v163h163v94H189ZM95-608v-163q0-39.463 27.475-67.231Q149.95-866 189-866h163v95H189v163H95Zm676 0v-163H608v-95h163q39.463 0 67.231 27.769Q866-810.463 866-771v163h-95Z"/></svg>', variant: 'outlined', weight: 700 };

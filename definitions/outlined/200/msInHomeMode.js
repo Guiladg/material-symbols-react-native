@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInHomeMode = exports.msInHomeMode = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-516.846ZM200-200v-393.846L98.308-518.308 80-542.462l400-297.769 400.769 297.769-18.307 24.154L480-801.923 230.769-616v385.231h140.462V-200H200Zm391.769 80-135-135 22-21.462 113 113.231 227-226L840-368 591.769-120Z"/></svg>', variant: 'outlined', weight: 200 };

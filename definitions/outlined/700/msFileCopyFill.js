@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFileCopyFill = exports.msFileCopyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M146-17q-39.05 0-66.525-27.475Q52-71.95 52-111v-610h94v610h505v94H146Zm155-154q-39.462 0-67.231-27.769Q206-226.538 206-266v-583q0-39.05 27.769-66.525Q261.538-943 301-943h337l247 247v430q0 39.462-28 67.231Q829-171 791-171H301Zm288-480h202L589-849v198Z"/></svg>', variant: 'outlined', weight: 700 };

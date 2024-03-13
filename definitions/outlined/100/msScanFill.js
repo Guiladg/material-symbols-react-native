@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScanFill = exports.msScanFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M581-662h145L581-806v144ZM266-132q-21.75 0-37.875-16.125T212-186v-129h536v129q0 21.75-16.125 37.875T694-132H266ZM70-389v-22h820v22H70Zm142-96v-289q0-21.75 16.125-37.875T266-828h326l156 156v187H212Z"/></svg>', variant: 'outlined', weight: 100 };

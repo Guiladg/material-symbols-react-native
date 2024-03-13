@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineCurveFill = exports.msLineCurveFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M723-160q0-116.725-44.45-219.362Q634.1-482 558.05-558.05 482-634.1 379.362-678.55 276.725-723 160-723v-22q121 0 227.436 46.105 106.436 46.106 185.895 125.564 79.458 79.459 125.564 185.895Q745-281 745-160h-22Z"/></svg>', variant: 'sharp', weight: 100 };

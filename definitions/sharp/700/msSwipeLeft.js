@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwipeLeft = exports.msSwipeLeft = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-699v-207h67v80q79-60 170.5-92T486-950q139.076 0 248.538 65Q844-820 906-699h-77q-54-89-143.605-136.5Q595.789-883 486-883q-90.968 0-174.984 29.5T153-766h100v67H55ZM399-55 142-319l45-73 151 48v-376h79v481l-128-42 144 147h342.598v-333H856v412H399Zm85-305v-227h80v227h-80Zm146 0v-187h79v187h-79Zm-37 102Z"/></svg>', variant: 'sharp', weight: 700 };

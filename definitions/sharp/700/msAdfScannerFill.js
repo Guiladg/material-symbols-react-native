@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAdfScannerFill = exports.msAdfScannerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-126v-387h162v-335h527v335h162v387H55Zm256-387h338v-241H311v241Zm411.684 201q17.334 0 29.325-11.488T764-353.175q0-18.2-11.979-29.513Q740.042-394 722.333-394 705-394 693-382.512t-12 29.687q0 18.2 12.175 29.513Q705.351-312 722.684-312Z"/></svg>', variant: 'sharp', weight: 700 };

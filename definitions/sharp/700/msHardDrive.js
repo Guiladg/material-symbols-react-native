@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHardDrive = exports.msHardDrive = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M152-274h656v-250H152v250Zm531.118-75Q704-349 718.5-363.118q14.5-14.117 14.5-36Q733-420 718.382-434.5q-14.617-14.5-35.5-14.5Q662-449 647.5-434.382q-14.5 14.617-14.5 35.5Q633-377 647.618-363q14.617 14 35.5 14ZM903-611H769l-79-79H270l-79 79H58l173-173h498l174 173ZM58-179v-432h845v432H58Z"/></svg>', variant: 'sharp', weight: 700 };

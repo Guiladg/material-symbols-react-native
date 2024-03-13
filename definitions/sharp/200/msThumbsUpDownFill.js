@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msThumbsUpDownFill = exports.msThumbsUpDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M20-429.231v-317.923L212.846-940l23.616 25.538-37.077 165.231H460V-668L356.385-429.231H20ZM747.154-20l-23.616-26.308 37.077-164.461H500V-292l103.615-238.769H940v317.923L747.154-20Z"/></svg>', variant: 'sharp', weight: 200 };

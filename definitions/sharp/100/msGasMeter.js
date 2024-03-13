@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGasMeter = exports.msGasMeter = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M212-132v-616h177v-80h22v80h138v-80h22v80h177v616H212Zm22-22h492v-572H234v572Zm112-438h268v-22H346v22Zm133.831 309Q508-283 527-302q19-19 19-45.811 0-21.189-12.68-36.672Q520.64-399.966 480-448q-41 48-53.5 63.558T414-348.141Q414-321 432.831-302t47 19ZM234-154v-572 572Z"/></svg>', variant: 'sharp', weight: 100 };

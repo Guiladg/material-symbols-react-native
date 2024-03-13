@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWash = exports.msWash = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M727.23-686Q688-686 659-715.546q-29-29.547-29-68.491 0-32.671 21.81-72.403Q673.62-896.172 727-953q53 57 76 96.646t23 72.317q0 38.944-29.77 68.491Q766.46-686 727.23-686ZM785-55H55v-478l385-248 80 63-66 128h371v79H336l83-159-285 181v355h651v79ZM455-359v-79h450v79H455Zm0 152v-79h411v79H455ZM294-334Z"/></svg>', variant: 'sharp', weight: 700 };

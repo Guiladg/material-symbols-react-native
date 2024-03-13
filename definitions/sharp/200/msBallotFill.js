@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBallotFill = exports.msBallotFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M467.615-562.692h197.231v-30.77H467.615v30.77Zm0 195.385h197.231v-30.77H467.615v30.77ZM318.308-541.462h72.461v-72.461h-72.461v72.461Zm0 195.385h72.461v-72.461h-72.461v72.461ZM160-160v-640h640v640H160Z"/></svg>', variant: 'sharp', weight: 200 };

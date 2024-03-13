@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExpandMore = exports.msExpandMore = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-371.923 267.692-584.231l22.231-22.231L480-416.154l190.077-190.077L692.308-584 480-371.923Z"/></svg>', variant: 'sharp', weight: 200 };

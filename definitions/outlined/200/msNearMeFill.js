@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNearMeFill = exports.msNearMeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M530.077-186.153 433-434.538l-248.385-98.616-1.538-19.154 593.846-226.154-227.692 592.309h-19.154Z"/></svg>', variant: 'outlined', weight: 200 };

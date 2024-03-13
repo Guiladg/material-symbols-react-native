@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCommentBankFill = exports.msCommentBankFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m546.077-567.769 78.538-43.077 78.308 43.077v-241.462H546.077v241.462ZM120-156.923V-840h720v560H243.077L120-156.923Z"/></svg>', variant: 'sharp', weight: 200 };

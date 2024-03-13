@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestFoundSavingsFill = exports.msNestFoundSavingsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-4 350-135H95v-771h771v771H611.333L480-4Zm-.898-324Q562-328 617-385.7T672-520v-192H479q-77.95 0-134.975 54.489Q287-603.022 287-519.565 287-492 296-465q9 27 25 53l-46 42 49 48 43-43q25 18.457 54.178 27.729Q450.356-328 479.102-328ZM368-457l135-136 45 47-135 135-45-46Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPaddingFill = exports.msPaddingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292.385-617.231h52.307v-52.308h-52.307v52.308Zm161.461 0h52.308v-52.308h-52.308v52.308Zm161.462 0h52.307v-52.308h-52.307v52.308ZM160-160v-640h640v640H160Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTvFill = exports.msTvFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M317-95v-90H149q-39.05 0-66.525-27.769Q55-240.538 55-280v-491q0-39.463 27.475-67.231Q109.95-866 149-866h662q39.463 0 67.231 27.769Q906-810.463 906-771v491q0 39.462-27.769 67.231Q850.463-185 811-185H644v90H317Z"/></svg>', variant: 'outlined', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSecurityUpdateWarningFill = exports.msSecurityUpdateWarningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480.018-300Q466-300 456.5-309.482q-9.5-9.483-9.5-23.5Q447-346 456.482-356q9.483-10 23.5-10 14.018 0 23.518 9.982 9.5 9.983 9.5 23 0 14.018-9.482 23.518-9.483 9.5-23.5 9.5ZM450-383v-266h60v266h-60ZM177-17v-926h606v926H177Zm94-184h418v-558H271v558Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlayForWork = exports.msPlayForWork = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480.118-135Q368-135 287-210.417 206-285.833 206-397h94q0 72 53.5 120T480-229q73 0 126.5-48T660-397h95q0 111-81.174 186.5T480.118-135ZM477-366 280-563l67-68 83 84v-267h94v266l82-83 68 68-197 197Z"/></svg>', variant: 'outlined', weight: 700 };

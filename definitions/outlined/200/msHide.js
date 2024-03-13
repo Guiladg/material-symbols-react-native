@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHide = exports.msHide = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m182-160.769-22-22 217.846-217.846h-128v-30.77h180.769v180.77h-30.769v-128L182-160.769Zm348.385-370.385v-180.769h30.769v128.769l217.615-217.615L800-779.539 582.385-561.923h128.769v30.769H530.385Z"/></svg>', variant: 'outlined', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineStartFill = exports.msLineStartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M186.976-373q-45.776 0-76.876-31.141t-31.1-76Q79-525 110.1-556q31.1-31 76.876-31 31.33 0 57.177 16.5T282-527h598v94H282q-12 27-37.847 43.5T186.976-373Z"/></svg>', variant: 'sharp', weight: 700 };

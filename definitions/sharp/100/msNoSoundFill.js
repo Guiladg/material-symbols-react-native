@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNoSoundFill = exports.msNoSoundFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m583-357-17-16 107-107-107-106 17-17 106 107 107-107 16 17-107 106 107 107-16 16-107-107-106 107Zm-395-55v-136h130l126-126v388L318-412H188Z"/></svg>', variant: 'sharp', weight: 100 };

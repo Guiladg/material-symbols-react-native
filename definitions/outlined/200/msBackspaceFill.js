@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackspaceFill = exports.msBackspaceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M329.538-240 160-480l171.077-240H800v480H329.538Zm109.231-110.615L546.154-458l107.385 107.385 23-22.231L568.154-480l107.154-107.154-22.231-22.231L546.154-502 438.769-609.385l-22.231 22.231L524.154-480 416.538-372.846l22.231 22.231Z"/></svg>', variant: 'outlined', weight: 200 };

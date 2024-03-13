@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVr180Create2dFill = exports.msVr180Create2dFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M426-132v-402h402v402H426Zm97-73h241l-71-93-70 92-50-68-50 69Zm-191-97q-88-24-144-95.8-56-71.801-56-164.2 0-111.225 77.387-188.612Q286.775-828 398-828q92.399 0 163.7 56Q633-716 657-628H332v326Z"/></svg>', variant: 'sharp', weight: 100 };

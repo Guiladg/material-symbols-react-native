@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBusinessChipFill = exports.msBusinessChipFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M320-320h320v-240h-80v-80H400v80h-80v240Zm123-240v-38h75v38h-75ZM320-175q-126.789 0-215.895-89.149Q15-353.297 15-480.149 15-607 104.105-696 193.211-785 320-785h320q126.789 0 215.895 89.149Q945-606.703 945-479.851 945-353 855.895-264 766.789-175 640-175H320Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMoreDown = exports.msMoreDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M177-177v-474h94v380h380v94H177Zm212-212v-474h94v380h380v94H389Z"/></svg>', variant: 'sharp', weight: 700 };

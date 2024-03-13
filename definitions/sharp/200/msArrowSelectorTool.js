@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowSelectorTool = exports.msArrowSelectorTool = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m300-347 109-153h217.231L300-756.231V-347Zm243.077 191.462L408.154-445.615 269.231-251.538V-820l446.154 350.769H475L606.923-186l-63.846 30.462ZM409-500Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVoiceChatFill = exports.msVoiceChatFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M259-549h22v-22h-22v22Zm100 80h22v-182h-22v182Zm110 80h22v-342h-22v342Zm110-80h22v-182h-22v182Zm100-80h22v-22h-22v22ZM132-180v-594q0-22.775 15.613-38.388Q163.225-828 186-828h588q22.775 0 38.388 15.612Q828-796.775 828-774v428q0 22.775-15.612 38.388Q796.775-292 774-292H244L132-180Z"/></svg>', variant: 'outlined', weight: 100 };

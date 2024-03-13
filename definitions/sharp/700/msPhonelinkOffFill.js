@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhonelinkOffFill = exports.msPhonelinkOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m333-731-94-95h627v95H333Zm573 551L511-552v-119h395v491ZM845-13 724-135H511v-213L229-629v370h222v124H55v-124h80v-465l-85-85 51-50L897-65l-52 52Z"/></svg>', variant: 'sharp', weight: 700 };

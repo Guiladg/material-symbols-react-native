@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToolbarFill = exports.msToolbarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-636.846V-800h640v163.154H160ZM160-160v-446.077h640V-160H160Z"/></svg>', variant: 'sharp', weight: 200 };

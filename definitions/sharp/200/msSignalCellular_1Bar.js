@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellular_1Bar = exports.msSignalCellular_1Bar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m120-120 720-720v720H120Zm254.462-30.769h434.769V-766L374.462-331.231v180.462Z"/></svg>', variant: 'sharp', weight: 200 };

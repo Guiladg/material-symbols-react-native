@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPergola = exports.msPergola = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-656h22v80h572v-80h22v656h-22v-406H194v406h-22Zm22-428h572v-126H194v126Zm275 428v-114H358v-22h243v22H491v114h-22ZM194-600v-126 126Z"/></svg>', variant: 'sharp', weight: 100 };

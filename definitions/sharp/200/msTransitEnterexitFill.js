@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTransitEnterexitFill = exports.msTransitEnterexitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M269.231-264.615v-351.001h59.615v247.385L647-686.385l44 44.77-317.384 317.384h246.615v59.616h-351Z"/></svg>', variant: 'sharp', weight: 200 };

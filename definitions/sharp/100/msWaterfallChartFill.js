@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWaterfallChartFill = exports.msWaterfallChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-212v-202h42v202h-42Zm141-182v-134h42v134h-42Zm152-186v-128h42v128h-42Zm141-120v-48h42v48h-42Zm140 488v-536h42v536h-42Z"/></svg>', variant: 'sharp', weight: 100 };

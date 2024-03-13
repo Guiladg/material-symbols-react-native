@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWindow = exports.msWindow = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M866-95H95v-771h771v771ZM510-450v261h261v-261H510Zm0-60h261v-261H510v261Zm-60 0v-261H189v261h261Zm0 60H189v261h261v-261Z"/></svg>', variant: 'sharp', weight: 700 };

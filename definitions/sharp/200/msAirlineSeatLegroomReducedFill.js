@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAirlineSeatLegroomReducedFill = exports.msAirlineSeatLegroomReducedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M572.385-150.769v-62.846l55.23-171.001h-392.23V-820h190.769v284.615h283.077l26.692 36.462-94.23 289.692h110.615v58.462H572.385ZM470.769-300h-320v-520h30.769v489.231h289.231V-300Z"/></svg>', variant: 'sharp', weight: 200 };

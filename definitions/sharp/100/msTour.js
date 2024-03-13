@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTour = exports.msTour = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-106v-748h22v81h554l-70 172 70 172H248v323h-22Zm22-645v300-300Zm252.712 202Q522-549 537-563.975q15-14.975 15-37.237 0-22.263-14.975-37.025Q522.05-653 499.788-653 479-653 464-638.025q-15 14.975-15 37.237 0 22.263 15.212 37.025Q479.425-549 500.712-549ZM248-451h521l-60-150 60-150H248v300Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTransitionSlideFill = exports.msTransitionSlideFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M15-135v-691h294v691H15Zm374 0v-691h557v691H389Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPentagon = exports.msPentagon = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M296.598-197H663l125-373-308-215-308 215 124.598 373ZM227-103 59-607l421-294 421 294-168 504H227Zm253-389Z"/></svg>', variant: 'outlined', weight: 700 };

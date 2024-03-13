@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGlassCupFill = exports.msGlassCupFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M300-132q-21 0-36.5-13.5T246-180l-74-648h616l-73 648q-2 21-17.5 34.5T661-132H300Zm-45-159h451l57-515H196l59 515Z"/></svg>', variant: 'outlined', weight: 100 };

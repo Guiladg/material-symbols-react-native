@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLeftClickFill = exports.msLeftClickFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M474-206q-113-2-190.5-81.5T206-480.395q0-114.252 79.5-194.428Q365-755 480-755q112.634 0 192.317 78.5T755-484l-87-27q-10-69-63-114.5T479.576-671q-79.175 0-134.876 55.5Q289-560 289-480.263q0 71.909 45.5 124.586Q380-303 448-292l26 86ZM832-37 655.547-214 605-61 480-480l419 125-153 50.548L923-128l-91 91Z"/></svg>', variant: 'sharp', weight: 700 };

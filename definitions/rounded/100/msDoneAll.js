@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDoneAll = exports.msDoneAll = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M257-296 94-458q-3-3-3-8t3-8q4-4 8.5-4t7.5 4l166 165 36-36 16 16-33 33q-8 9-19 9t-19-9Zm209 0L304-458q-4-3-4-8t4-8q3-4 7.5-4t8.5 4l165 165 365-364q3-3 7.5-3.5t8.5 2.5q4 4 4 8.5t-4 7.5L504-296q-8 9-19 9t-19-9Zm-17-154-16-16 208-208q3-3 7.5-3.5t8.5 3.5q4 4 4 8t-4 8L449-450Z"/></svg>', variant: 'rounded', weight: 100 };

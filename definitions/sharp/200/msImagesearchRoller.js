@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msImagesearchRoller = exports.msImagesearchRoller = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M570.077-80h-151v-268.769h59.615v-186.077H120v-246.846h109.154V-840H760v150.769H229.154v-61.692h-78.385v185.308h358.693v216.846h60.615v268.77Zm-120.231-30.769h89.462V-318h-89.462v207.231ZM259.923-720h469.308v-89.231H259.923V-720Zm189.923 609.231h89.462-89.462ZM259.923-720v-89.231V-720Z"/></svg>', variant: 'sharp', weight: 200 };

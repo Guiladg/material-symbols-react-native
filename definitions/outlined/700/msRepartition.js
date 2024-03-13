@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRepartition = exports.msRepartition = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-384v-94h576q41.25 0 70.625-29.47T771-578.323q0-41.383-29.375-70.53T671-678H236l56 55-67 68L55-726l170-170 67 66-56 57h435q81.288 0 138.144 57.124Q866-658.752 866-578.376T809.144-441Q752.288-384 671-384H95Zm0 329v-279h771v279H95Zm94-94h144v-90H189v90Zm224 0h134v-90H413v90Zm214 0h144v-90H627v90Z"/></svg>', variant: 'outlined', weight: 700 };

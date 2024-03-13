@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatIndentDecrease = exports.msFormatIndentDecrease = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-95v-87h771v87H95Zm320-171v-87h451v87H415Zm0-171v-87h451v87H415Zm0-171v-87h451v87H415ZM95-779v-87h771v87H95Zm182 477L95-483l182-177v358Z"/></svg>', variant: 'outlined', weight: 700 };

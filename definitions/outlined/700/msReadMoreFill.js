@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msReadMoreFill = exports.msReadMoreFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m288-252-66-66 114-115H55v-94h281L222-642l66-66 228 228-228 228Zm258-6v-95h360v95H546Zm0-349v-95h360v95H546Zm120 174v-94h240v94H666Z"/></svg>', variant: 'outlined', weight: 700 };

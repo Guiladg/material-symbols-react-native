@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCalculateFill = exports.msCalculateFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M319-233h50v-88h88v-50h-88v-88h-50v88h-88v50h88v88Zm206-35h201v-49H525v49Zm0-107h201v-50H525v50Zm37-154 61-61 61 61 36-36-61-61 61-61-36-36-61 61-61-61-36 36 61 61-61 61 36 36Zm-316-76h196v-50H246v50ZM95-95v-771h771v771H95Z"/></svg>', variant: 'sharp', weight: 700 };

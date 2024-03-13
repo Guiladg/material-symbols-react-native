@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLibraryAddCheck = exports.msLibraryAddCheck = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m513-409 236-237-50-48-184.664 185L417-607l-50 51 146 147ZM192-192v-731h731v731H192Zm94-94h542v-542H286v542ZM37-37v-731h95v636h636v95H37Zm249-791v542-542Z"/></svg>', variant: 'sharp', weight: 700 };

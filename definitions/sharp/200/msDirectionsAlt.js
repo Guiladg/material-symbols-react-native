@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDirectionsAlt = exports.msDirectionsAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-106.154 106.154-480 480-853.846 853.846-480 480-106.154Zm0-42.923L810.923-480 480-810.923 149.077-480 480-149.077Zm0-160.077L650.846-480 480-650.846l-22.231 22.231 134 133.23H309.154v30.77h282.615l-134 133.23L480-309.154ZM480-480Z"/></svg>', variant: 'sharp', weight: 200 };

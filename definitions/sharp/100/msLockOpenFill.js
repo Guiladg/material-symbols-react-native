@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLockOpenFill = exports.msLockOpenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M212-132v-454h391v-85q0-51.25-35.823-87.125Q531.353-794 480.176-794 429-794 393-758.125T357-671h-22q0-61 42.173-103t103-42Q541-816 583-773.878 625-731.755 625-671v85h123v454H212Zm268.168-174Q502-306 517.5-321.531T533-359q0-21-15.668-37t-37.5-16Q458-412 442.5-396T427-358.5q0 21.5 15.668 37t37.5 15.5Z"/></svg>', variant: 'sharp', weight: 100 };

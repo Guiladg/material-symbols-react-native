@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUploadFill = exports.msUploadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M433-322v-323L319-530l-68-67 229-229 229 229-68 67-114-115v323h-94ZM135-135v-237h94v143h502v-143h95v237H135Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFrontHandFill = exports.msFrontHandFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M499.261-92q-119.807 0-203.534-83.359Q212-258.718 212-378v-370h22v249h122v-303h22v303h123v-343h22v343h123v-263h22v242q-10 16-16 33.131-6 17.132-6 35.869v50h-42q-54.28 0-91.14 39.36T476-267v8h22v-8q0-45.756 30.622-78.878T604-379h64v-72q0-38 27-65t65-27h28v164q-2 120.282-85.883 203.641T499.261-92Z"/></svg>', variant: 'sharp', weight: 100 };

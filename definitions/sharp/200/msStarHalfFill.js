@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStarHalfFill = exports.msStarHalfFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m480-681.385 6.923 333.924 131.616 72.692L589.615-432l108.77-102.308L541-554.923l-61-126.462ZM293-203.076l49.615-212.539-164.923-142.847 217.231-18.846L480-777.693l85.077 200.385 217.231 18.846-164.923 142.847L667-203.076 480-315.923 293-203.076Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWindow = exports.msWindow = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-172q-21.75 0-37.875-16.125T172-226v-508q0-21.75 16.125-37.875T226-788h508q21.75 0 37.875 16.125T788-734v508q0 21.75-16.125 37.875T734-172H226Zm265-297v275h243q14 0 23-9t9-23v-243H491Zm0-22h275v-243q0-14-9-23t-23-9H491v275Zm-22 0v-275H226q-14 0-23 9t-9 23v243h275Zm0 22H194v243q0 14 9 23t23 9h243v-275Z"/></svg>', variant: 'outlined', weight: 100 };

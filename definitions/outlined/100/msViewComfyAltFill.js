@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewComfyAltFill = exports.msViewComfyAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-560v-268h268v268H132Zm0 428v-268h268v268H132Zm428-428v-268h268v268H560Zm0 428v-268h268v268H560Z"/></svg>', variant: 'outlined', weight: 100 };

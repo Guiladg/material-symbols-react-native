@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhonelinkEraseFill = exports.msPhonelinkEraseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m549-358-15-16 106-106-106-107 15-16 107 107 106-107 16 16-106 107 106 106-16 16-106-107-107 107ZM266-92q-21.75 0-37.875-16.125T212-146v-668q0-21.75 16.125-37.875T266-868h348q21.75 0 37.875 16.125T668-814v120h-22v-67H234v562h412v-67h22v119.523Q668-124 651.875-108 635.75-92 614-92H266Z"/></svg>', variant: 'outlined', weight: 100 };

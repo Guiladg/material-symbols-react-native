@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHolidayVillage = exports.msHolidayVillage = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M46-142v-429l251-252 252 252v429H46Zm83-83h127v-120h83v120h127v-312L297-705 129-537v312Zm127-207v-83h83v83h-83Zm393 290v-462L414-838h126l191 191v505h-82Zm182 0v-538L673-838h125l117 114.794V-142h-84Zm-702-83h337-337Z"/></svg>', variant: 'sharp', weight: 700 };

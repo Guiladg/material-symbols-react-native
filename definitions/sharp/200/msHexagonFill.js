@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHexagonFill = exports.msHexagonFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M283.538-140 87.077-480l196.461-340h392.924l196.461 340-196.461 340H283.538Z"/></svg>', variant: 'sharp', weight: 200 };

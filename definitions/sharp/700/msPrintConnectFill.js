@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPrintConnectFill = exports.msPrintConnectFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M718-143 593-266l68-66 57 56 141-141 68 66-209 208ZM217-82v-193H55v-399h851v223q-33-23-67.866-34.5T763.036-497Q677-497 612.5-442T536-305H311v134h230.602Q551-145 565-122.5T599-82H217Zm0-622v-162h527v162H217Z"/></svg>', variant: 'sharp', weight: 700 };

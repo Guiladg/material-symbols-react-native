@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowOrEdge = exports.msArrowOrEdge = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M260-95 90-265l66-69 57 58v-242H10v-348h95v254h203v336l56-56 66 67L260-95Zm439 0L528-265l67-69 57 58v-336h204v-254h94v348H746v241l57-55 66 67L699-95Z"/></svg>', variant: 'sharp', weight: 700 };

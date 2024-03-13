@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWarningFill = exports.msWarningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m130-172 350-604 350 604H130Zm351.193-87q7.307 0 12.057-4.943t4.75-12.25q0-7.307-4.943-12.057t-12.25-4.75q-7.307 0-12.057 4.943t-4.75 12.25q0 7.307 4.943 12.057t12.25 4.75ZM470-336h22v-208h-22v208Z"/></svg>', variant: 'sharp', weight: 100 };

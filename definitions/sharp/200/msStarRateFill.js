@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStarRateFill = exports.msStarRateFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m307.615-226.153 64.539-213.232L204.615-560h208.616L480-781.539 546.769-560h208.616L587.846-439.385l64.539 213.232L480-357.23 307.615-226.153Z"/></svg>', variant: 'sharp', weight: 200 };

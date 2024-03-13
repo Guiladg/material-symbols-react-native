@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlexNoWrapFill = exports.msFlexNoWrapFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M92-317v-326h176v326H92Zm300 0v-326h176v326H392Zm300 0v-326h176v326H692Zm-578-22h132v-282H114v282Zm610 0h122v-282H724v282Z"/></svg>', variant: 'outlined', weight: 100 };

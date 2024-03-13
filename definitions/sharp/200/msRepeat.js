@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRepeat = exports.msRepeat = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292.308-120 160-252.308l132.308-132.307 22 22.461-94.462 94.462h481.692v-160h30.77v190.769H219.846l94.462 94.462-22 22.461Zm-64.616-412.308v-190.769h512.462l-94.462-94.462 22-22.461L800-707.692 667.692-575.385l-22-22.461 94.462-94.462H258.462v160h-30.77Z"/></svg>', variant: 'sharp', weight: 200 };

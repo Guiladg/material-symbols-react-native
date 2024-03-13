@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCompressFill = exports.msCompressFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M200-453.846v-35.385h560v35.385H200Zm0-111v-30.769h560v30.769H200ZM464.385-120v-178.769l-90.077 89.846-22-22 127.461-127.231L606-230.923l-22 22-88.846-90.615V-120h-30.769Zm15.384-571.077L352.538-818.308l22-22 88.847 89.846v-178.769h30.769v178.769l90.077-89.846 22 22-126.462 127.231Z"/></svg>', variant: 'outlined', weight: 200 };

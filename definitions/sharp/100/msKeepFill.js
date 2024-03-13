@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeepFill = exports.msKeepFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m586-448 60 57v22H491v188l-11 11-11-11v-188H314v-22l58-57v-318h-43v-22h300v22h-43v318Z"/></svg>', variant: 'sharp', weight: 100 };

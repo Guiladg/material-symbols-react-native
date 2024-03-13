@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOilBarrelFill = exports.msOilBarrelFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M171-172v-22h65v-275h-65v-22h65v-275h-65v-22h617v22h-64v275h64v22h-64v275h64v22H171Zm309.059-185Q518-357 544.5-383.15q26.5-26.149 26.5-63.29 0-29.56-17.25-51.14Q536.5-519.161 480-584q-55.75 64.926-73.375 86.562Q389-475.803 389-446.197 389-409 415.559-383t64.5 26Z"/></svg>', variant: 'sharp', weight: 100 };

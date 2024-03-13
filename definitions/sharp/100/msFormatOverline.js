@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatOverline = exports.msFormatOverline = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M236-792v-22h488v22H236Zm243.97 636Q378-156 307-227.03t-71-173Q236-502 307.03-573t173-71Q582-644 653-572.97t71 173Q724-298 652.97-227t-173 71Zm-.323-22Q572-178 637-242.647q65-64.647 65-157T637.353-557q-64.647-65-157-65T323-557.353q-65 64.647-65 157T322.647-243q64.647 65 157 65Z"/></svg>', variant: 'sharp', weight: 100 };

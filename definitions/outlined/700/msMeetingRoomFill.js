@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMeetingRoomFill = exports.msMeetingRoomFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M62-95v-94h103v-677h450v45h181v632h103v94H702v-631h-87v631H62Zm367-339q20.4 0 33.2-13.195 12.8-13.194 12.8-32.7 0-19.505-12.8-32.805T429.5-526q-19.9 0-33.2 13.195-13.3 13.194-13.3 32.7 0 19.505 13.225 32.805T429-434Z"/></svg>', variant: 'outlined', weight: 700 };

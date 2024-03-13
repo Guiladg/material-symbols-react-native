@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShuffleOn = exports.msShuffleOn = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-80V-880.23H880.23V-80H80Zm496.769-120H760v-180.692h-30.769v127.153L567.077-415.231 545.846-393l162.462 162.231H576.769V-200ZM222-200l507.231-507v127.692H760V-760H576.769v30.769h130.462L200-222.231 222-200Zm166.077-350.692 22.231-21.462L221.461-760 200-738.539l188.077 187.847Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlashOff = exports.msFlashOff = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M335.384-840h291.539L560-608.461h156.154L608.923-451.692l-22.231-22.231 70.846-103.769H505.385l10.769 10.769 70.231-242.308H366.154v114.769l-30.77-30.769V-840ZM440-206.153V-440H335.384v-140.154L112.538-803.769l22.231-21.462 690.462 690.462-21.462 22.231-254.307-253.539L440-206.153Zm35.538-378.155Z"/></svg>', variant: 'outlined', weight: 200 };

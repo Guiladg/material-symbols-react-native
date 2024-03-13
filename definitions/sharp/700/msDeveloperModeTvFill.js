@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDeveloperModeTvFill = exports.msDeveloperModeTvFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M317-95v-80H55v-691h851v691H644v80H317ZM156-520l116-118-49-50L55-520l167 168 51-51-117-117Zm648 0L688-402l50 49 168-168-168-167-51 51 117 117Z"/></svg>', variant: 'sharp', weight: 700 };

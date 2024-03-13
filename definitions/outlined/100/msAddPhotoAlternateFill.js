@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddPhotoAlternateFill = exports.msAddPhotoAlternateFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M206-172q-22.775 0-38.387-15.613Q152-203.225 152-226v-508q0-22.775 15.613-38.388Q183.225-788 206-788h343v139h80v81h139v342q0 22.775-15.612 38.387Q736.775-172 714-172H206Zm92-135h332L530-440 428-314l-65-75-65 82Zm408-338v-81h-80v-22h80v-80h22v80h80v22h-80v81h-22Z"/></svg>', variant: 'outlined', weight: 100 };

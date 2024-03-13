@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEject = exports.msEject = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M246.154-226.154v-27.692h467.692v27.692H246.154Zm4.384-144.307L480-713.846l230.231 343.385H250.538Zm229.693-27.693Zm-175.077 0h349.692L480-657.692 305.154-398.154Z"/></svg>', variant: 'outlined', weight: 200 };

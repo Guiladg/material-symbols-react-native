@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMusicVideoFill = exports.msMusicVideoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M430.141-292Q468-292 494-318.5t26-63.746v-211.286h108V-666H484v209.705q-10-7.069-25.5-11.612T430-472.45q-37.8 0-63.9 26.725T340-382q0 37 26.141 63.5t64 26.5ZM55-135v-691h851v691H55Z"/></svg>', variant: 'sharp', weight: 700 };

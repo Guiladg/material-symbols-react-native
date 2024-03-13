@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msComicBubbleFill = exports.msComicBubbleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m440-842 94.323 94.323h133.354v133.354L762-520 656-414l99 193-16 16-193-99-106 106-94.323-94.323H212.323v-133.354L118-520l94.323-94.323v-133.354h133.354L440-842Z"/></svg>', variant: 'sharp', weight: 100 };

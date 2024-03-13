@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVolumeDownAlt = exports.msVolumeDownAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M169-335v-291h175l236-235v762L344-335H169Zm471 32v-355q58 19 94.5 68.5T771-480q0 61-36.5 109T640-303ZM485-626l-100 95H264v102h121l100 96v-293ZM372-480Z"/></svg>', variant: 'sharp', weight: 700 };

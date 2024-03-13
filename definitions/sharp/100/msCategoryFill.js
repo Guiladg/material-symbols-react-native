@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCategoryFill = exports.msCategoryFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m332-562 148-242 148 242H332Zm369.647 442Q644-120 604-160.147q-40-40.147-40-97.029 0-58.883 40.147-98.853Q644.294-396 701.647-396t97.853 39.824q40.5 39.823 40.5 99Q840-200 799.647-160t-98 40ZM160-142v-235h235v235H160Z"/></svg>', variant: 'sharp', weight: 100 };

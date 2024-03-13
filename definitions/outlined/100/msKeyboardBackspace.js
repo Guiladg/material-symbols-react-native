@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardBackspace = exports.msKeyboardBackspace = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M376-277 172-480l204-204 16 16-177 177h573v22H215l177 176-16 16Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallLogFill = exports.msCallLogFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M737-55q-108 0-230-59T279-279Q172-384 113.5-503.511T55-736v-90h272l51 224-138 126q24.158 37.147 49.579 69.073Q315-375 343.033-345.966 375-314 409-287.5t71 46.5l135-137 211 48.583V-55h-89ZM491-819v-87h415v87H491Zm0 149v-87h415v87H491Zm0 148v-87h415v87H491Z"/></svg>', variant: 'sharp', weight: 700 };

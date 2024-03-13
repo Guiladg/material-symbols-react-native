@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPinEnd = exports.msPinEnd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-212v-536h696v266h-22v-244H154v492h404v22H132Zm465-175L408-576v130h-22v-168h168v22H423l190 189-16 16Zm143.941 175q-35.441 0-61.191-25.809T654-299.559q0-35.941 25.809-61.191t61.75-25.25q35.941 0 61.191 25.392T828-298.941q0 35.441-25.392 61.191T740.941-212Z"/></svg>', variant: 'sharp', weight: 100 };

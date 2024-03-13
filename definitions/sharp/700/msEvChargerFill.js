@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEvChargerFill = exports.msEvChargerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M220-552h269v-228H220v228ZM126-86v-789h457.923v406H718v320h107v-439h-54v-150h20v-57h45v57h39v-57h45v57h20v150h-54v502H657v-322h-72.609v322H126Zm211-128 88-140h-53v-105l-87 140h52v105Z"/></svg>', variant: 'sharp', weight: 700 };

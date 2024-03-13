@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDetectorOfflineFill = exports.msDetectorOfflineFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m376-160-21.231-21.231 104-104-104-104L376-410.462l104 104 104-104 21.231 21.231-104 104 104 104L584-160 480-264 376-160Zm-85.769-498.462 28.769 80h322l28.769-80H290.231Zm5.538 110.77L257-658.462h-97V-800h640v141.538h-97l-41.692 110.77H295.769Z"/></svg>', variant: 'sharp', weight: 200 };

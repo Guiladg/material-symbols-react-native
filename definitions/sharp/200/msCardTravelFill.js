@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCardTravelFill = exports.msCardTravelFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-160v-520h206.077v-129.231h307.616V-680H840v520H120Zm236.846-520h246.077v-98.462H356.846V-680ZM150.769-295.461h658.462v-81.078H150.769v81.078Z"/></svg>', variant: 'sharp', weight: 200 };

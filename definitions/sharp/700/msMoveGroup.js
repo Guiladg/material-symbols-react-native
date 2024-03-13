@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMoveGroup = exports.msMoveGroup = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M192-192v-240h94v146h542v-491H286v145h-94v-291h731v731H192ZM37-37v-731h95v636h636v95H37Zm493-315-55-56 83-84H192v-80h366l-83-84 55-55 180 179-180 180Z"/></svg>', variant: 'sharp', weight: 700 };

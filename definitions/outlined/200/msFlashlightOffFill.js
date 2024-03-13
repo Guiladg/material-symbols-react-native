@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlashlightOffFill = exports.msFlashlightOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M348.692-120v-439.923L97-811.616l22.231-22.23 697.462 698.461-21.231 22.231-216-215.999V-120h-230.77Zm-84.615-669.385V-840h400v98.308H311.769l-47.692-47.693Zm315.385 315.616L342.539-710.923h321.538v51.308l-84.615 125.846v60Z"/></svg>', variant: 'outlined', weight: 200 };

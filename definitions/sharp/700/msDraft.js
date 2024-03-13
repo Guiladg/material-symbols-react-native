@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDraft = exports.msDraft = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M135-55v-851h457l234 234.3V-55H135Zm407-570v-186H229v662h502v-476H542ZM229-811v186-186 662-662Z"/></svg>', variant: 'sharp', weight: 700 };

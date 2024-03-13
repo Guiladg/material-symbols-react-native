@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInkEraserOffFill = exports.msInkEraserOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M803.769-112.538 590.385-325.923 470.693-200H177.462l-92.54-94.231 260.385-276-232.769-233.538 22.231-21.462 690.462 690.462-21.462 22.231Zm-143.461-287L414.231-644.846l159.231-170.308 244.154 251.231-157.308 164.385Z"/></svg>', variant: 'sharp', weight: 200 };

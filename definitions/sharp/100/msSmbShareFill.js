@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSmbShareFill = exports.msSmbShareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M441-453h190q17.516 0 28.758-11.136Q671-475.273 671-492.636 671-510 659.758-522T631-534h-31l-5-28q-2-24-21.065-41.5-19.066-17.5-46.281-17.5Q507-621 490.5-610.5 474-600 466-581l-8 18-22 1q-21 1-36 16t-15 37.857q0 21.857 16.5 38.5T441-453ZM92-184v-437h22v415h645v22H92Zm96-96v-548h292l34 34h354v514H188Z"/></svg>', variant: 'sharp', weight: 100 };

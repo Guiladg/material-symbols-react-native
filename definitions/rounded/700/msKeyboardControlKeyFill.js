@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardControlKeyFill = exports.msKeyboardControlKeyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-651 275-447q-14 14-33 14t-33-14q-14-14-14-33t14-33l237-237q14-14 34-14t34 14l237 237q14 14 14 33t-14 33q-14 14-33 14t-33-14L480-651Z"/></svg>', variant: 'rounded', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShelfPositionFill = exports.msShelfPositionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-96v-228h771v228H95Zm551-288v-482h220v482H646Zm-551 0v-482h219v482H95Zm279 0v-482h212v482H374Z"/></svg>', variant: 'sharp', weight: 700 };

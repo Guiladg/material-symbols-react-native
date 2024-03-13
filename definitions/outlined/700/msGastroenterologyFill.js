@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGastroenterologyFill = exports.msGastroenterologyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M86-63v-278q0-47.667 32.75-80.833Q151.5-455 200-455h115q62.583 0 80.292-15.5Q413-486 413-515q0-36.25-19.513-57.125Q373.975-593 346-593q-25 0-42.5-17.5T286-653v-244h309v90q115 7 197.5 92.5T875-512.745V-473q0 122-83.545 208.5Q707.911-178 587-178H415q-9 0-14.5 5.875T395-158v95H86Z"/></svg>', variant: 'outlined', weight: 700 };

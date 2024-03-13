@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTeamDashboardFill = exports.msTeamDashboardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M410-95v-365H95v365h315Zm60 0h396v-365H470v365ZM95-520h771v-346H95v346Z"/></svg>', variant: 'sharp', weight: 700 };

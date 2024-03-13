@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatImageRight = exports.msFormatImageRight = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M464.615-312.692v-335.385H800v335.385H464.615Zm30.77-30.77h273.846v-273.846H495.385v273.846ZM160-160v-30.769h640V-160H160Zm0-152.692v-30.77h218.462v30.77H160Zm0-151.923v-30.77h218.462v30.77H160Zm0-152.693v-30.769h218.462v30.769H160Zm0-151.923V-800h640v30.769H160Z"/></svg>', variant: 'outlined', weight: 200 };

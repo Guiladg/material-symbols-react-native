@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStorageFill = exports.msStorageFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M86-102v-195h789v195H86Zm94-56h83v-84h-83v84ZM86-663v-195h789v195H86Zm94-56h83v-84h-83v84ZM86-383v-194h789v194H86Zm94-55h83v-84h-83v84Z"/></svg>', variant: 'sharp', weight: 700 };

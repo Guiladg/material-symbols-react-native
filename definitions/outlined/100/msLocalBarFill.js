@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalBarFill = exports.msLocalBarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292-146v-22h177v-289L190-766v-22h580v22L491-457v289h177v22H292Zm1-539h374l75-80H218l75 80Z"/></svg>', variant: 'outlined', weight: 100 };

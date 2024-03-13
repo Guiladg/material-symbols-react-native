@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTopPanelOpen = exports.msTopPanelOpen = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m480-346 110-111H370l110 111ZM194-638h572v-128H194v128Zm0 444h572v-422H194v422Zm0-444v-128 128Zm-22 466v-616h616v616H172Z"/></svg>', variant: 'sharp', weight: 100 };

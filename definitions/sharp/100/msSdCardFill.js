@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSdCardFill = exports.msSdCardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M212-132v-486l210-210h326v696H212Zm185-402h22v-130h-22v130Zm110 0h22v-130h-22v130Zm109 0h22v-130h-22v130Z"/></svg>', variant: 'sharp', weight: 100 };

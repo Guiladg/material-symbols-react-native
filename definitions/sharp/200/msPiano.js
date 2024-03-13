@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPiano = exports.msPiano = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-160v-640h640v640H160Zm30.769-30.769h158.539v-206.154h-50v-372.308H190.769v578.462Zm419.923 0h158.539v-578.462H660.692v372.308h-50v206.154Zm-235.23 0h209.076v-206.154h-50v-372.308H425.462v372.308h-50v206.154Z"/></svg>', variant: 'sharp', weight: 200 };

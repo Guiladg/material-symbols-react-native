@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWoman_2 = exports.msWoman_2 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M430.308-100v-235.384H304.615l120.718-341.539h109.744l120.308 341.539H529.692V-100h-99.384Zm49.772-634q-27.311 0-45.965-18.959-18.654-18.959-18.654-45.5 0-27.31 18.575-45.964 18.574-18.654 45.884-18.654 27.311 0 45.965 18.574 18.654 18.574 18.654 45.885 0 26.541-18.575 45.58Q507.39-734 480.08-734Z"/></svg>', variant: 'sharp', weight: 200 };

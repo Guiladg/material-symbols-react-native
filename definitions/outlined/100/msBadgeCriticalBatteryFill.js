@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBadgeCriticalBatteryFill = exports.msBadgeCriticalBatteryFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M207-326q-10.5 0-18.75-7.763Q180-341.525 180-353v-63h-48v-128h48v-63.206q0-11.519 8.25-19.156Q196.5-634 207-634h594q11.475 0 19.237 7.763Q828-618.475 828-607v253.834q0 11.891-7.763 19.528Q812.475-326 801-326H207Zm-6-22h565v-264H201v264Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHangoutVideoOffFill = exports.msHangoutVideoOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M824.539-71.077 692-204.384H125.846v-547.847h62l6.385 6.385v44.461L83.384-812.231l22.231-22.231L846.769-93.308l-22.23 22.231Zm18.846-123.769L684.769-354.231v-259.461L551.077-506.615v-108.539H423.846L281.461-758.308h561.924v563.462ZM284.692-349h262.923L284.692-611.923V-349Z"/></svg>', variant: 'sharp', weight: 200 };

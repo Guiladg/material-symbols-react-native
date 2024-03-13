@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBakeryDiningFill = exports.msBakeryDiningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m796-260-97-58 76-178 81 167-60 69Zm-230-27 46-368 178 59-130 296-94 13Zm-265 0L196-587l160-81 24 371-79 10Zm-133 27-59-66 82-170 75 180-98 56Zm256-27-64-420 227-8-30 420-133 8Z"/></svg>', variant: 'sharp', weight: 100 };

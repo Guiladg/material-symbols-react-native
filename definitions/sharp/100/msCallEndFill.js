@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallEndFill = exports.msCallEndFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M162-314 54-422l18-20q84-84 191.5-128T480-614q109 0 216 44t191 128l19 20-108 108-129-97v-146q-49-18-97-26.5t-92-8.5q-44 0-92 8.5T291-557v146l-129 97Z"/></svg>', variant: 'sharp', weight: 100 };

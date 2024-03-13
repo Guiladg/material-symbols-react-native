@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMilitaryTechFill = exports.msMilitaryTechFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m391.538-144.615 34.308-108.616-87.462-63.307h107.308l28.077-97-178.384-103.154v-340.231h369.23v336.385L486-413.538l28.308 97h107.077l-88.231 63.307 35.077 108.616L480-211l-88.462 66.385Zm90.154-301.693 15.385-8.307v-371.539h-30.769v371.539l15.384 8.307Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestWifiRouterFill = exports.msNestWifiRouterFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M352-95q-93.535 0-165.268-59.5Q115-214 97-306h765q-16 92-87.733 151.5Q702.535-95 609-95H352ZM95-389v-220q0-107.083 75.25-182.042Q245.5-866 352.31-866h256.345q107.227 0 182.286 74.958Q866-716.083 866-609v220H95Z"/></svg>', variant: 'outlined', weight: 700 };

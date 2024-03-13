@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msResume = exports.msResume = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M289.23-295.384v-369.232H320v369.232h-30.77Zm141.693 0L732.847-480 430.923-664.616v369.232Zm30.769-60.385v-248.462L665.769-480 461.692-355.769Zm0-124.231Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMinimize = exports.msMinimize = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M277-172q-4.675 0-7.838-3.228-3.162-3.228-3.162-8t3.162-7.772q3.163-3 7.838-3h406q4.675 0 7.838 3.228 3.162 3.228 3.162 8T690.838-175q-3.163 3-7.838 3H277Z"/></svg>', variant: 'rounded', weight: 100 };

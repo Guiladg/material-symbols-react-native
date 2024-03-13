@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHomeHealth = exports.msHomeHealth = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M444.615-304.615h70.77v-100h100v-70.77h-100v-100h-70.77v100h-100v70.77h100v100ZM200-160v-420l280-210.77L760-580v420H200Zm30.769-30.769h498.462v-375.539L480-750.692 230.769-566.308v375.539ZM480-471.231Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msJumpToElement = exports.msJumpToElement = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M456.923-456.923v-110.769h30.769v80h80v30.769H456.923Zm272.308 0v-30.769h80v-80H840v110.769H729.231ZM456.923-729.231V-840h110.769v30.769h-80v80h-30.769Zm352.308 0v-80h-80V-840H840v110.769h-30.769ZM142-120l-22-22 284.153-284.154H160v-30.769h296.923V-160h-30.769v-244.153L142-120Z"/></svg>', variant: 'sharp', weight: 200 };

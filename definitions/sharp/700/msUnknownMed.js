@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUnknownMed = exports.msUnknownMed = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M50-433v-134h390v134H50Zm470 0v-134h390v134H520Z"/></svg>', variant: 'sharp', weight: 700 };

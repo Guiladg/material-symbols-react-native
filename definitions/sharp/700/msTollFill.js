@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTollFill = exports.msTollFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M598.247-135q-143.754 0-245-100.5Q252-336 252-479.753q0-143.754 101.247-245Q454.493-826 598.247-826 742-826 842.5-724.753q100.5 101.246 100.5 245Q943-336 842.5-235.5T598.247-135ZM266-147Q151-166 84-263T17-480q0-120 67-217t182-117v95q-74 22-114.5 90T111-480q0 80 41 148t114 91v94Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShuffleFill = exports.msShuffleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M576.769-200v-30.769h131.539L545.846-393l21.231-22.231 162.154 161.692v-127.153H760V-200H576.769ZM222-200l-22-22.231 507.231-507H576.769V-760H760v180.692h-30.769V-707L222-200Zm166.077-350.692L200-738.539 221.461-760l188.847 187.846-22.231 21.462Z"/></svg>', variant: 'outlined', weight: 200 };

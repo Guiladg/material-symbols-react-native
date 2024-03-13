@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTrackpadInputFill = exports.msTrackpadInputFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-175v-691h811v272h-95v-177H149v502h49l95 94H55ZM788-55H534q-24.471 0-46.735-8.786Q465-72.57 448-90L242-296l66-65 111 30v-346h83v306h67v-183h82v183h66v-103h83v103h67v-41h82v196q0 68.35-46.325 114.675T788-55Z"/></svg>', variant: 'sharp', weight: 700 };

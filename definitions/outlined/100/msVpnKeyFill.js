@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVpnKeyFill = exports.msVpnKeyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M280-292q-78.333 0-133.167-54.765Q92-401.529 92-479.765 92-558 146.833-613 201.667-668 280-668q72 0 122 44t63.164 106H868v76H752v150h-70v-150H464.636Q452-380 402-336t-122 44Zm0-152q14.5 0 25.25-10.75T316-480q0-14.5-10.75-25.25T280-516q-14.5 0-25.25 10.75T244-480q0 14.5 10.75 25.25T280-444Z"/></svg>', variant: 'outlined', weight: 100 };

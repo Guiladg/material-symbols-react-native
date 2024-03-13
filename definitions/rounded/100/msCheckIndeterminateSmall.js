@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCheckIndeterminateSmall = exports.msCheckIndeterminateSmall = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M303-469q-4.675 0-7.838-3.228-3.162-3.228-3.162-8t3.162-7.772q3.163-3 7.838-3h354q4.675 0 7.838 3.228 3.162 3.228 3.162 8T664.838-472q-3.163 3-7.838 3H303Z"/></svg>', variant: 'rounded', weight: 100 };

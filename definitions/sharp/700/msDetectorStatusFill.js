@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDetectorStatusFill = exports.msDetectorStatusFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M438-64 285-217l68-66 85 85 169-170 68 67L438-64ZM297-647l18 60h331l17-60H297Zm-59 155-38-155H65v-249h831v249H760l-40 155H238Z"/></svg>', variant: 'sharp', weight: 700 };

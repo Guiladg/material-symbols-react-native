@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSportsGymnastics = exports.msSportsGymnastics = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m508-106-4-386-216-57H36v-22h253l313-220 15 16-190 136 152 55 291-183 12 15-316 233-34 413h-24ZM250.08-658q-26.48 0-44.28-17.72-17.8-17.721-17.8-44.2 0-26.48 17.72-44.28 17.721-17.8 44.2-17.8 26.48 0 44.28 17.72 17.8 17.721 17.8 44.2 0 26.48-17.72 44.28-17.721 17.8-44.2 17.8Z"/></svg>', variant: 'sharp', weight: 100 };

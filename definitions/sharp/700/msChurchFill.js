@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChurchFill = exports.msChurchFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M63-34v-344l165-72.763v-130.57L433-686v-83h-80v-94h80v-80h94v80h80v94h-80v83l205 104.667v130.57L897-378v344H580v-233H380v233H63Zm417.059-368Q503-402 519-418.059q16-16.059 16-39Q535-479 518.941-495.5q-16.059-16.5-39-16.5T441-495.441q-16 16.559-16 38.5Q425-434 441.059-418q16.059 16 39 16Z"/></svg>', variant: 'sharp', weight: 700 };

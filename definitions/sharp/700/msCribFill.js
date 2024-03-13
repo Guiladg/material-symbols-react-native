@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCribFill = exports.msCribFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-149q16 0 33.333-1.5Q530.667-152 547-157v-156H413v156q16.333 5 33.667 6.5Q464-149 480-149Zm.17 94Q394-55 316-86.5 238-118 175-176l68-67q18 15 36.5 27t39.5 22v-119H135v-329q0-76 54-130t131.372-54H500v194h326v319H641v119q21-9 39.5-22t35.5-28l68 67q-63 58-140.33 90-77.33 32-163.5 32Z"/></svg>', variant: 'sharp', weight: 700 };

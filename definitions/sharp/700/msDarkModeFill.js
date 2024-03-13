@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDarkModeFill = exports.msDarkModeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.824-109q-155.177 0-263-107.824Q109-324.647 109-479.824 109-635 216.875-743.5T480-852h13q7 0 20 1-27 36-42 78.5T456-684q0 95.083 67.042 162.042Q590.083-455 686-455q45 0 88-13t78-38v25q0 155-108.5 263.5T479.824-109Z"/></svg>', variant: 'sharp', weight: 700 };

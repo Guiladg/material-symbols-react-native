@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms60fpsSelect = exports.ms60fpsSelect = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M134-389v-422h297v82H217v88h214v252H134Zm83-82h131v-88H217v88Zm314 82v-422h298v422H531Zm83-82h131v-258H614v258ZM80-80v-188h72v188H80Zm132 0v-188h71v188h-71Zm131 0v-188h71v188h-71Zm131 0v-188h407v188H474Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVolumeMuteFill = exports.msVolumeMuteFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M320-400v-160h136.923L600-703.078v446.156L456.923-400H320Z"/></svg>', variant: 'sharp', weight: 200 };

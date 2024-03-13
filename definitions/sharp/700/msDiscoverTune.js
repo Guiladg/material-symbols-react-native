@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDiscoverTune = exports.msDiscoverTune = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M503-573v-94h130v-190h94v190h130v94H503Zm130 470v-421h94v421h-94Zm-400 0v-180H103v-94h354v94H327v180h-94Zm0-323v-431h94v431h-94Z"/></svg>', variant: 'sharp', weight: 700 };

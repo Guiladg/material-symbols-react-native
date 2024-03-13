@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSplitscreenBottomFill = exports.msSplitscreenBottomFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-204v-219h616v219H172Zm0-333v-219h616v219H172Zm594-197H194v175h572v-175Zm-12 175H194v-175h560v175Z"/></svg>', variant: 'sharp', weight: 100 };

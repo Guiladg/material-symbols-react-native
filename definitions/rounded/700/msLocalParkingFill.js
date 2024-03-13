@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalParkingFill = exports.msLocalParkingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M380-356v179q0 34.7-24 58.35T297.655-95q-34.345 0-58.5-24.256T215-178v-605q0-35.112 24.256-59.056Q263.512-866 298-866h221q117 0 192 74t75 181.5q0 107.5-75 181T519-356H380Zm0-142h123q48 0 80-32.5t32-80q0-47.5-32-79.5t-80-32H380v224Z"/></svg>', variant: 'rounded', weight: 700 };

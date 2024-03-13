@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHardwareFill = exports.msHardwareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M410.769-480.077V-680H233.846q11.538-53 54.269-86.5 42.731-33.5 98.039-33.5h184.615v125.846L695.385-800h30.769v281.692h-30.769L570.769-643.385v163.308h-160ZM438.615-160q-12.154 0-20-10.038-7.846-10.039-7.846-22.423v-256.077h160v256.077q0 13.384-9.538 22.923Q551.692-160 538.308-160h-99.693Z"/></svg>', variant: 'outlined', weight: 200 };

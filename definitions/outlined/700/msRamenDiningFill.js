@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRamenDiningFill = exports.msRamenDiningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M286-55v-88q-98.892-39.844-161.946-127.922T55-459h80v-361l771-86v62l-485 54.6v90.4h485v62H421v178h485q-7 100-71 188T673-143v88H286Zm23-644h50v-83l-50 6v77Zm-112 0h50v-71l-50 5.68V-699Zm112 240h50v-178h-50v178Zm-112 0h50v-178h-50v178Z"/></svg>', variant: 'outlined', weight: 700 };

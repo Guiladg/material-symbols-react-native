@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSyncSavedLocally = exports.msSyncSavedLocally = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m438-388 236-237-67-67-169.333 170L353-606l-68 66 153 152ZM17-83v-72h926v72H17Zm38-132v-651h851v651H55Zm94-94h662v-462H149v462Zm0 0v-462 462Z"/></svg>', variant: 'sharp', weight: 700 };

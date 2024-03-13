@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPrintAddFill = exports.msPrintAddFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M292.649-172v-165H162v-273h636v113q-7.849-1.4-15.924-2.7Q774-501 765-501q-60 0-110.5 29T573-392H315v198h242.493q1.507 6 5.007 11.5T569-172H292.649ZM293-635v-121h374v121H293Zm462 493v-120H635v-22h120v-120h22v120h120v22H777v120h-22Z"/></svg>', variant: 'sharp', weight: 100 };

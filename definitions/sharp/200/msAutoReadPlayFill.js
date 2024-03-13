@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAutoReadPlayFill = exports.msAutoReadPlayFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M403.154-441.769 578.77-560 403.154-677.231v235.462ZM120-156.923V-840h720v560H243.077L120-156.923Z"/></svg>', variant: 'sharp', weight: 200 };

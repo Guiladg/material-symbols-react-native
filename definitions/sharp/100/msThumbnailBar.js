@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msThumbnailBar = exports.msThumbnailBar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-212v-536h696v536H132Zm216-22h458v-492H348v492Zm-22 0v-492H154v492h172Zm-172 0v-492 492Zm172 0h22-22Zm0-492h22-22Z"/></svg>', variant: 'sharp', weight: 100 };

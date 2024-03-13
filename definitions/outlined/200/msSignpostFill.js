@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignpostFill = exports.msSignpostFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M464.615-120v-173.846H255.384L160-389.231l95.384-95.384h209.231v-84.616H200V-760h264.615v-80h30.77v80h209.231L800-664.616l-95.384 95.385H495.385v84.616H760v190.769H495.385V-120h-30.77Z"/></svg>', variant: 'outlined', weight: 200 };

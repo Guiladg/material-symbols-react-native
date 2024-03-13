@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBedroomChildFill = exports.msBedroomChildFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M238-271h73v-63h338v63h73v-253h-64v-152H302v152h-64v253Zm137-256v-77h210v77H375Zm-64 121v-72h338v72H311ZM55-55v-851h851v851H55Z"/></svg>', variant: 'sharp', weight: 700 };

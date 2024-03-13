@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBluetoothFill = exports.msBluetoothFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M469-120v-333L256-240l-16-16 224-224-224-224 16-16 213 213v-333h11l188 188-172 172 172 172-188 188h-11Zm22-387 145-145-145-145v290Zm0 344 145-145-145-145v290Z"/></svg>', variant: 'sharp', weight: 100 };

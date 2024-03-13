@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msColorizeFill = exports.msColorizeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-95v-204l366-365.594L388-737l78-77 92.333 92L723-890l167 167-169 165.659L813-465l-76 76-72.406-72L299-95H95Zm94-94h74l346-346-74-74-346 346v74Z"/></svg>', variant: 'sharp', weight: 700 };

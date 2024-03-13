@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAirplay = exports.msAirplay = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m324-172 156-156 156 156H324Zm-192-80v-536h696v536H686v-22h120v-492H154v492h120v22H132Zm348-257Z"/></svg>', variant: 'sharp', weight: 100 };

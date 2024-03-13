@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMonitorWeightFill = exports.msMonitorWeightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-95v-771h771v771H95Zm384.882-385Q529-480 563.5-514.382q34.5-34.383 34.5-83.5Q598-647 563.618-681.5q-34.383-34.5-83.5-34.5Q431-716 396.5-681.618q-34.5 34.383-34.5 83.5Q362-549 396.382-514.5q34.383 34.5 83.5 34.5ZM397-578v-40h40v40h-40Zm63 0v-40h40v40h-40Zm63 0v-40h40v40h-40Z"/></svg>', variant: 'sharp', weight: 700 };

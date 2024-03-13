@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowsMoreUp = exports.msArrowsMoreUp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M520-240v-360H160v-30.769h390.769V-240H520Zm169.231-168.462v-360h-360v-30.769H720v390.769h-30.769Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShopTwoFill = exports.msShopTwoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M466.154-389.231 620-487.462l-153.846-97.461v195.692ZM80-152.307v-430.539h30.769v399.769h587.462v30.77H80Zm101.538-101.539v-466.462h232V-840H648v119.692h232v466.462H181.538Zm262.77-466.462h172.923v-88.923H444.308v88.923Z"/></svg>', variant: 'sharp', weight: 200 };

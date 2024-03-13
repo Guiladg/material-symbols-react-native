@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStraightenFill = exports.msStraightenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M151-221q-39.05 0-66.525-27.769Q57-276.538 57-316v-328q0-38.463 27.475-66.731Q111.95-739 151-739h119v259h60v-259h120v259h60v-259h120v259h60v-259h119q39.05 0 66.525 28.269Q903-682.463 903-644v328q0 39.462-27.475 67.231Q848.05-221 809-221H151Z"/></svg>', variant: 'outlined', weight: 700 };

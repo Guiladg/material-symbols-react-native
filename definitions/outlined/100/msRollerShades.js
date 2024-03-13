@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRollerShades = exports.msRollerShades = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-172v-22h80v-594h536v594h80v22H132Zm102-314h492v-280H234v280Zm0 292h492v-270H491v121q11 3.69 17.5 12.474Q515-321.741 515-310q0 14.5-10.783 24.75t-25 10.25Q465-275 455-285.25 445-295.5 445-310q0-12.114 6.5-21.206Q458-340.298 469-344v-120H234v270Zm0-572h492-492Z"/></svg>', variant: 'outlined', weight: 100 };

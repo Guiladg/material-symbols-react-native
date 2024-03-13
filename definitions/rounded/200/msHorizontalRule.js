@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHorizontalRule = exports.msHorizontalRule = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M215.384-464.615q-6.538 0-10.961-4.485Q200-473.586 200-480.216t4.423-10.899q4.423-4.27 10.961-4.27h529.232q6.538 0 10.961 4.485Q760-486.414 760-479.784t-4.423 10.899q-4.423 4.27-10.961 4.27H215.384Z"/></svg>', variant: 'rounded', weight: 200 };

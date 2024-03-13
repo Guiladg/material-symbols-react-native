@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNetworkPingFill = exports.msNetworkPingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M228-296v-22h256L169-633l16-15 295 294 208-207q-6-13-9-23.5t-3-17.635q0-26.243 17.789-44.054 17.788-17.811 44-17.811Q764-664 782-646.211q18 17.788 18 44Q800-576 782.11-558t-44.248 18Q732-540 724-542t-18-7L476-318h256v22H228Z"/></svg>', variant: 'outlined', weight: 100 };

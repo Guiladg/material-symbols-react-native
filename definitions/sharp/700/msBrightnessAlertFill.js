@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrightnessAlertFill = exports.msBrightnessAlertFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.772-255Q504-255 519.5-269.772t15.5-39Q535-333 519.728-349t-39.5-16Q456-365 440.5-349T425-308.772q0 24.228 15.272 39Q455.544-255 479.772-255ZM436-432h94v-270h-94v270ZM481-1 342-135H135v-207L-2-480l137-138v-208h207l139-137 137 137h208v208l137 138-137 138v207H618L481-1Z"/></svg>', variant: 'sharp', weight: 700 };

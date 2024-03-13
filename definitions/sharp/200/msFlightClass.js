@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlightClass = exports.msFlightClass = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M504.615-480v-280H680v280H504.615Zm30.77-30.769h113.846v-218.462H535.385v218.462ZM680-280H344.615L240-639.154V-760h30.769v114.154l97.483 335.077H680V-280ZM336.154-160v-30.769h343.077V-160H336.154Zm199.231-569.231h113.846-113.846Z"/></svg>', variant: 'sharp', weight: 200 };

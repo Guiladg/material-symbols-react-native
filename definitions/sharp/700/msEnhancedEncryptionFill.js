@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEnhancedEncryptionFill = exports.msEnhancedEncryptionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M444-328v125h72v-125h125v-72H516v-126h-72v126H319v72h125ZM135-57v-605h144v-74q0-85.19 58.366-144.595Q395.731-940 479.866-940 564-940 622.5-880.595 681-821.19 681-736v74h145v605H135Zm238-605h214v-73.769q0-46.731-30.647-77.981-30.647-31.25-76-31.25T404-813.75q-31 31.25-31 77.981V-662Z"/></svg>', variant: 'sharp', weight: 700 };

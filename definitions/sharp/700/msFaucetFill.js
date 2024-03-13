@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFaucetFill = exports.msFaucetFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-331v-95h193v-66H134v-94h208v160h90v-305q0-72.055 51.5-123.527Q535-906 608.4-906q48.6 0 88.918 26.433Q737.636-853.133 762-810l39 75-86 42-38-74q-11.196-19.435-29.55-31.717Q629.095-811 607.155-811 573-811 550-787.583 527-764.167 527-731v305h90v-160h209v94H712v66h194v95H55Zm80 236v-195h691v195H135Z"/></svg>', variant: 'sharp', weight: 700 };

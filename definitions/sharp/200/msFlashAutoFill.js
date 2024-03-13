@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlashAutoFill = exports.msFlashAutoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M240-206.153V-440H135.384v-400h291.539L360-608.461h156.154L240-206.153Zm334.692-310.924L721.615-889h20.693l148.461 371.923h-36l-46.846-113.538H655.231l-46.077 113.538h-34.462Zm91.923-143.615h130.693l-61.693-159.539H726l-59.385 159.539Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowsMoreDownFill = exports.msArrowsMoreDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M240-160v-390.769h30.769v360h360V-160H240Zm169.231-168.462v-390.769H440v360h360v30.769H409.231Z"/></svg>', variant: 'sharp', weight: 200 };

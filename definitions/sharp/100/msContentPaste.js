@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msContentPaste = exports.msContentPaste = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-616h256q2-20 16.5-34t35.5-14q21.495 0 35.748 14Q530-808 532-788h256v616H172Zm22-22h572v-572H640v71H320v-71H194v572Zm286.175-560q12.825 0 21.325-8.675 8.5-8.676 8.5-21.5 0-12.825-8.675-21.325-8.676-8.5-21.5-8.5-12.825 0-21.325 8.675-8.5 8.676-8.5 21.5 0 12.825 8.675 21.325 8.676 8.5 21.5 8.5Z"/></svg>', variant: 'sharp', weight: 100 };

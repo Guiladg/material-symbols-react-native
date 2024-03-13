@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVignetteFill = exports.msVignetteFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-212v-536h696v536H132Zm348-134q87.633 0 151.817-39.484Q696-424.969 696-480q0-55.031-64.183-94.516Q567.633-614 480-614q-87.633 0-151.317 39.484Q265-535.031 265-480q0 55.031 63.683 94.516Q392.367-346 480-346Z"/></svg>', variant: 'sharp', weight: 100 };

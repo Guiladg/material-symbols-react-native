@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMimoFill = exports.msMimoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M296.923-160v-58.384l33.923-33.924H175.384q-23.23 0-39.307-16.077Q120-284.461 120-307.692v-436.924q0-23.23 16.077-39.307T175.384-800h609.232q23.23 0 39.307 16.077T840-744.616v436.924q0 23.231-16.077 39.307-16.077 16.077-39.307 16.077H628.923l34.154 33.924V-160H296.923Z"/></svg>', variant: 'outlined', weight: 200 };

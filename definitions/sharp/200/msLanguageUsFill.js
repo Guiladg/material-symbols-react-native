@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLanguageUsFill = exports.msLanguageUsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M200-300v-360h30.769v329.231h176.154V-660h30.769v360H200Zm320 0v-70.769h30.769v40h178.462v-133.846H520V-660h240v70.769h-30.769v-40H550.769v133.846H760V-300H520Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms3gMobiledataBadgeFill = exports.ms3gMobiledataBadgeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M504.615-300H740v-196.615H640v30.769h69.461v135.077H535.385v-298.462H740V-660H504.615v360ZM220-300h193.923v-164.615l-15.385-15.154 15.385-15.616V-660H220v30.769h163.154v133.846H221.231v30.77h161.923v133.846H220V-300ZM80-160v-640h800v640H80Z"/></svg>', variant: 'sharp', weight: 200 };

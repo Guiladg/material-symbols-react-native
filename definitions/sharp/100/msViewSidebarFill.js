@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewSidebarFill = exports.msViewSidebarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M664-584v-164h164v164H664Zm0 186v-164h164v164H664ZM132-212v-536h510v536H132Zm532 0v-164h164v164H664Z"/></svg>', variant: 'sharp', weight: 100 };

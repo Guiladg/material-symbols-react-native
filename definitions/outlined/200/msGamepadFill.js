@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGamepadFill = exports.msGamepadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m480-601.769-75.616-76.616V-840h152.232v161.615L480-601.769Zm198.385 197.385L601.769-480l76.616-76.616H840v152.232H678.385Zm-558.385 0v-152.232h161.615L358.231-480l-76.616 75.616H120ZM404.384-120v-161.615L480-358.231l76.616 76.616V-120H404.384Z"/></svg>', variant: 'outlined', weight: 200 };

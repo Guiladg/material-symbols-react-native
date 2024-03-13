@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPictureInPictureSmall = exports.msPictureInPictureSmall = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-212v-22h642q12 0 22-10t10-22v-482h22v482q0 22.775-15.612 38.387Q796.775-212 774-212H132Zm260-128v-229h308v229H392Z"/></svg>', variant: 'outlined', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMicExternalOnFill = exports.msMicExternalOnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M222-660q-9-11-12.5-24.5T206-712q0-38.333 27.132-65.167Q260.265-804 298.353-804q38.088 0 64.868 26.833Q390-750.333 390-712q0 14-3.5 27.5T375.236-660H222Zm64 504v-123h-26l-34-336h144l-34 336h-28v101h201v-626h245v648h-22v-626H531v626H286Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWallLampFill = exports.msWallLampFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M88-103v-274h94v274H88Zm134-90v-94h231q8.25 0 14.125-5.875T473-307v-133H269q-23.818 0-37.409-19.5Q218-479 225-502l100-335q5-15 17-24t28-9h301q14.529 0 26.765 9Q710-852 715-837l101 335q6 23-7.591 42.5Q794.818-440 771-440H567v120q0 53.5-36.75 90.25T440-193H222Z"/></svg>', variant: 'outlined', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatteryShare = exports.msBatteryShare = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M426.154-304.615v-150.77h268.692L607.231-544l22-21.231L754.462-440 629.231-314.769 607-337l88.615-87.615H456.923v120h-30.769ZM315.384-120v-668.308h96.924V-840h135.384v51.692h96.924v143.077h-30.77v-113.077H346.154v607.539h267.692v-84h30.77V-120H315.384Z"/></svg>', variant: 'sharp', weight: 200 };

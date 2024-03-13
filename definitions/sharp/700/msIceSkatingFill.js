@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msIceSkatingFill = exports.msIceSkatingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M63-52v-94h160v-98H103v-613h351v155H310v30h149v44H310v30h173q18 19 41.623 30.8Q548.246-555.4 574-547l197 59v244H657v98h72.538q48.629 0 81.045-32.667Q843-211.333 843-259h94q0 86.545-60.547 146.772Q815.905-52 730-52H63Zm254-94h246v-98H317v98Z"/></svg>', variant: 'sharp', weight: 700 };

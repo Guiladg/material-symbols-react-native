@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatColorResetFill = exports.msFormatColorResetFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M781.375-268 306-743l174-173 242 239q49 47 76.5 109T826-432.557q0 42.138-12 84.847Q802-305 781.375-268ZM822-24 683.503-162Q645-131 592-113T479.563-95q-141.078 0-242.82-98.98Q135-292.959 135-435.39 135-496 151.5-546t53.5-95L25-821l51-51L873-75l-51 51Z"/></svg>', variant: 'outlined', weight: 700 };

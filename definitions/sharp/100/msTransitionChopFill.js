@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTransitionChopFill = exports.msTransitionChopFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-212v-536h696v536H132Zm14-22h660v-492H595l91 350-540 142Z"/></svg>', variant: 'sharp', weight: 100 };

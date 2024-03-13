@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrightnessEmptyFill = exports.msBrightnessEmptyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480.231-83.615 362.75-200H200v-162.75L82.153-480 200-597.25V-760h162.75l117.481-117.846L597.25-760H760v162.75L877.846-480 760-362.75V-200H597.25L480.231-83.615Z"/></svg>', variant: 'sharp', weight: 200 };

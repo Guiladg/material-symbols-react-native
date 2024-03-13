@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCheckFill = exports.msCheckFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m380.308-314.308 363-363.769q4.451-3.615 10.764-4 6.313-.385 11.467 4.053 4.384 5.206 4.384 11.5 0 6.293-4.384 10.678l-365.77 365.769q-8.231 8.231-19.461 8.231-11.231 0-19.462-8.231L194.231-456.692q-4.385-4.452-4.654-10.764-.269-6.313 4.937-11.467 5.207-4.385 11.116-4.385 5.908 0 11.062 4.385l163.616 164.615Z"/></svg>', variant: 'rounded', weight: 200 };

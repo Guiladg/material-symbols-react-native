@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTwoPagerFill = exports.msTwoPagerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-135v-691h851v691H55Zm465-94h291v-502H520v502Zm-321-88h191v-60H199v60Zm0-129h191v-60H199v60Zm0-129h191v-60H199v60Zm371 258h191v-60H570v60Zm0-129h191v-60H570v60Zm0-129h191v-60H570v60Z"/></svg>', variant: 'sharp', weight: 700 };

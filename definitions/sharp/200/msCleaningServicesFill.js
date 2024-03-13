@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCleaningServicesFill = exports.msCleaningServicesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-80v-411.539h233.077V-880h173.846v388.461H800v411.54H160Zm30.769-30.769h121.923v-160.769h30.77v160.769h121.153v-160.769h30.77v160.769h121.923v-160.769h30.769v160.769h121.154v-350H190.769v350Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatTextdirectionVertical = exports.msFormatTextdirectionVertical = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M205-222v-207q-76-6-130.5-55.994Q20-534.987 20-608q0-73.963 54.5-125.481Q129-785 205.264-785H544v95h-65v468h-95v-468h-85v468h-94Zm551 87L574-319l66-66 69 71v-471h95v471l69-71 67 66-184 184ZM209-527v-160q-36 0-63 22.5t-27 57.323q0 34.823 27.094 57.5T209-527Zm0-81Z"/></svg>', variant: 'outlined', weight: 700 };

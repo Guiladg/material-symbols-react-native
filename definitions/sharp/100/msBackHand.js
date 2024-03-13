@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackHand = exports.msBackHand = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M499-92q-80 0-148-40T243-242L116-465l24-24 192 128v-401h22v443L139-464l123 209q36 65 99.141 103Q424.282-114 499-114q110.891 0 188.946-77Q766-268 766-379v-369h22v369q0 119.875-84.354 203.438Q619.293-92 499-92Zm-22-417v-333h22v333h-22Zm145 0v-293h22v293h-22ZM453-312Z"/></svg>', variant: 'sharp', weight: 100 };

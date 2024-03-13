@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTaunt = exports.msTaunt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M197-419q-26.846 15-56.923 7.5T96-447q-16-33-5-67t46.786-46.374L513-691l42 83-358 189Zm36 316v-252l417-220-19-35 182-87 41 82-287 215v297H233Zm37.657-491Q209-594 166.5-637T124-741.657q0-61.656 42.636-104.5Q209.273-889 270.636-889 332-889 375-846.157q43 42.844 43 104.5Q418-680 375.157-637q-42.844 43-104.5 43Z"/></svg>', variant: 'outlined', weight: 700 };

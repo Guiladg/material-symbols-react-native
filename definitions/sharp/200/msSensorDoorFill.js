@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSensorDoorFill = exports.msSensorDoorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M204.615-124.615v-710.77h550.77v710.77h-550.77Zm415.457-320q14.774 0 25.043-10.342 10.27-10.342 10.27-25.115 0-14.774-10.342-25.043-10.342-10.27-25.115-10.27-14.774 0-25.043 10.342-10.27 10.342-10.27 25.115 0 14.774 10.342 25.043 10.342 10.27 25.115 10.27Z"/></svg>', variant: 'sharp', weight: 200 };

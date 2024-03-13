@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWarning = exports.msWarning = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m130-172 350-604 350 604H130Zm38-22h624L480-732 168-194Zm313.193-65q7.307 0 12.057-4.943t4.75-12.25q0-7.307-4.943-12.057t-12.25-4.75q-7.307 0-12.057 4.943t-4.75 12.25q0 7.307 4.943 12.057t12.25 4.75ZM470-336h22v-208h-22v208Zm10-127Z"/></svg>', variant: 'outlined', weight: 100 };

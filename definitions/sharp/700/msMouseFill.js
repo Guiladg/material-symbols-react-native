@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMouseFill = exports.msMouseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.977-55q-127.315 0-216.146-88.777Q175-232.554 175-360v-200h611v200q0 127-89.354 216T479.977-55ZM175-620q0-119 78.5-206T450-924v304H175Zm335 0v-304q118 11 197 97.987Q786-739.027 786-620H510Z"/></svg>', variant: 'sharp', weight: 700 };

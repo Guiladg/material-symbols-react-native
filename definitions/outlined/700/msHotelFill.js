@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHotelFill = exports.msHotelFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M17-166v-636h83v411h364v-326h311q69.3 0 118.65 49.35Q943-618.3 943-549v383h-83v-131H100v131H17Zm259.471-277q-50 0-84.236-34Q158-511 158-561t34-83.5q34-33.5 84-33.5t83.5 33.265q33.5 33.264 33.5 83.264 0 50-33.265 84.236Q326.471-443 276.471-443Z"/></svg>', variant: 'outlined', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAssignmentTurnedInFill = exports.msAssignmentTurnedInFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m421-304 288-289-63-63-225 225-112-112-62 62 174 177ZM95-95v-771h274q11-35 41-57.5t70-22.5q40 0 70 22.5t41 57.5h275v771H95Zm385-696q17.467 0 29.233-11.767Q521-814.533 521-832t-11.767-29.233Q497.467-873 480-873t-29.233 11.767Q439-849.467 439-832t11.767 29.233Q462.533-791 480-791Z"/></svg>', variant: 'sharp', weight: 700 };

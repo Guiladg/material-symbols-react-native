@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNotificationsFill = exports.msNotificationsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M135-175v-94h71v-279q0-92.693 53-168.347Q312-792 403-812.333V-906h154v93.741Q648-793 701.5-717T755-548v279h71v94H135ZM480.5-46q-36.45 0-62.475-26.144Q392-98.287 392-135h177q0 37-26.231 63-26.232 26-62.269 26Z"/></svg>', variant: 'sharp', weight: 700 };

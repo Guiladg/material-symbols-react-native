@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCrop_7_5Fill = exports.msCrop_7_5Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M215.384-240q-23.23 0-39.307-16.077T160-295.384v-369.232q0-23 16.077-39.192T215.384-720h529.232q23.23 0 39.307 16.192T800-664.616v369.232q0 23.23-16.077 39.307T744.616-240H215.384Z"/></svg>', variant: 'rounded', weight: 200 };

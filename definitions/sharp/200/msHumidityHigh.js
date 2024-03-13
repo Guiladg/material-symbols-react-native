@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHumidityHigh = exports.msHumidityHigh = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-140q-116.375 0-198.188-80.33Q200-300.659 200-415.187q0-55.002 22.192-105.247t59.5-89.67L480-804.616l198.308 194.512q37.308 39.425 59.5 89.701Q760-470.127 760-415.042q0 114.701-81.812 194.872Q596.375-140 480-140Z"/></svg>', variant: 'sharp', weight: 200 };

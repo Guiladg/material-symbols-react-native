@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDataTable = exports.msDataTable = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-616h616v616H172Zm22-418h572v-176H194v176Zm0 198h572v-176H194v176Zm0 198h572v-176H194v176Zm87-457v-54h54v54h-54Zm0 198v-54h54v54h-54Zm0 198v-54h54v54h-54Z"/></svg>', variant: 'sharp', weight: 100 };

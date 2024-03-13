@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAcuteFill = exports.msAcuteFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M590.433-212q-112.407 0-190.42-78.013Q322-368.026 322-480.433 322-592 400.013-670q78.013-78 190.42-78Q702-748 780-670q78 78 78 189.567 0 112.407-78 190.42Q702-212 590.433-212ZM694-360l16-15-109-109v-140h-22v148l115 116ZM142-629v-22h140v22H142Zm-40 160v-22h180v22H102Zm40 160v-22h140v22H142Z"/></svg>', variant: 'sharp', weight: 100 };

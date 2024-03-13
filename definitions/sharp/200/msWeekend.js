@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWeekend = exports.msWeekend = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-200v-407.462h76.615v-154.077h646.77v154.077H880V-200H80Zm142.769-193.615h514.462v-213.847h35.384v-123.307h-585.23v123.307h35.384v213.847Zm-112 162.846h738.462v-347.846H768v215.769H192v-215.769h-81.231v347.846ZM480-362.846Zm0-30.769Zm0 30.769Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVibration = exports.msVibration = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M0-365v-230h60v230H0Zm120 88v-406h60v406h-60Zm780-88v-230h60v230h-60Zm-120 88v-406h60v406h-60ZM335-120q-40.212 0-67.606-27.394Q240-174.788 240-215v-531q0-38.75 27.394-66.375T335-840h291q38.75 0 66.375 27.625T720-746v531q0 40.212-27.625 67.606Q664.75-120 626-120H335Zm0-95h291v-531H335v531Zm0 0v-531 531Z"/></svg>', variant: 'outlined', weight: 700 };

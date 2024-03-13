@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVotingChipFill = exports.msVotingChipFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M320-175q-126.789 0-215.895-89.149Q15-353.297 15-480.149 15-607 104.105-696 193.211-785 320-785h320q126.789 0 215.895 89.149Q945-606.703 945-479.851 945-353 855.895-264 766.789-175 640-175H320Zm0-190h70v-80h80v-70h-80v-80h-70v80h-80v70h80v80Zm295 0h70v-230H555v70h60v160Z"/></svg>', variant: 'outlined', weight: 700 };

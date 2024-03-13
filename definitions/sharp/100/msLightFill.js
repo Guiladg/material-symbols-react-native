@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLightFill = exports.msLightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-220q-46 0-77.5-31.5T371-329H173q-.889-5.6-.944-10.775Q172-344.95 172-351q-1-124 85-217t212-96v-104h22v104q126 3 212 96t85 217q0 6.05-.056 11.225Q787.889-334.6 787-329H589q0 46-31.5 77.5T480-220ZM194-351h572q0-121-83.5-206T480-642q-119 0-202.5 85T194-351Z"/></svg>', variant: 'sharp', weight: 100 };

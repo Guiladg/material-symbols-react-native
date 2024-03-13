@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms3kFill = exports.ms3kFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M520-360h50v-90l84 90h66L608-480l112-120h-66l-84 90v-90h-50v240Zm-271 0h170v-240H249v50h120v54h-73v33h73v53H249v50ZM95-95v-771h771v771H95Z"/></svg>', variant: 'sharp', weight: 700 };

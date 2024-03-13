@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarkdownFill = exports.msMarkdownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m633-365 120-120-42-43-48 48v-116h-60v116l-48-48-42 43 120 120ZM55-135v-691h851v691H55Zm164-230h50v-181h53v124h50v-124h60v181h50v-231H219v231Z"/></svg>', variant: 'sharp', weight: 700 };

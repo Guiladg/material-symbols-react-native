@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNightSightMaxFill = exports.msNightSightMaxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M709-549v-120H589v-22h120v-120h22v120h120v22H731v120h-22ZM440-149q-122.112 0-206.556-84.444Q149-317.888 149-440q0-111 73.5-194.5T409-729h-6q-16 25-24 60.638T371-600q0 111 79 190t190 79q18.933 0 37.467-2.5Q696-336 714-341q-31 85-105 138.5T440-149Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msClarifyFill = exports.msClarifyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M269-300h251v-60H269v60Zm362 0h60v-360h-60v360ZM269-450h251v-60H269v60Zm0-150h251v-60H269v60ZM47-95v-771h867v771H47Z"/></svg>', variant: 'sharp', weight: 700 };

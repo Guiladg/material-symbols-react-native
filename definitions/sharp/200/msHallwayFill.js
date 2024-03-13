@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHallwayFill = exports.msHallwayFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-120v-640h195.615l124.616-124.616L605.846-760H800v640H160Zm138.077-139.769h371.231l-111.846-149.77L447-270.923l-71.462-89-77.461 100.154ZM398-760h164.462l-82.231-82.231L398-760Z"/></svg>', variant: 'sharp', weight: 200 };

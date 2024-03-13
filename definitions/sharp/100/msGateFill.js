@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGateFill = exports.msGateFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M274-274v-305q0-45 31.312-76 31.313-31 75.688-31h88v195h-64v22h64v195H274Zm217 0v-195h64v-22h-64v-195h88q45 0 76 31t31 76v305H491Zm-313-64v-284h22v284h-22Zm582 0v-284h22v284h-22Z"/></svg>', variant: 'sharp', weight: 100 };

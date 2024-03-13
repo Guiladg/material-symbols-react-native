@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGiteFill = exports.msGiteFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-240v-305.231l144.769-150.923h61.538V-760h30.77v63.846h338.154L840-545.231V-240H120Zm480-30.769h209.231v-261L705.385-641 600-530.231v259.462Zm-449.231 0h418.462v-226.923H150.769v226.923Z"/></svg>', variant: 'outlined', weight: 200 };

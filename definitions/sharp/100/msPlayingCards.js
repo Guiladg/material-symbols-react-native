@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlayingCards = exports.msPlayingCards = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m593-414 29-107-92-63-29 107 92 63ZM203-169l-97-41 97-215v256Zm94 42v-276l101 276H297Zm188-36L286-707l349-126 201 542-351 128Zm14-30 306-112-181-499-307 112 182 499Zm62-306Z"/></svg>', variant: 'sharp', weight: 100 };

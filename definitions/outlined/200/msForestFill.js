@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msForestFill = exports.msForestFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M570.692-120v-129h58.847v129h-58.847Zm-240 0v-155.154H75.384l175.154-255.538H163.23L360-810.77l196.77 280.078h-86.308l174.385 255.538H389.539V-120h-58.847Zm345.001-155.154L520-504.538h86.847L495.923-662.385 600-810.77l196.77 280.078h-86.308l174.154 255.538H675.693Z"/></svg>', variant: 'outlined', weight: 200 };

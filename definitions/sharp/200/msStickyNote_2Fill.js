@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStickyNote_2Fill = exports.msStickyNote_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M769.231-390.769h-200v200l200-200ZM160-160v-640h640v411.539L571.539-160H160Zm164.615-270.769h150.77v-30.77h-150.77v30.77Zm0-158.462h310.77V-620h-310.77v30.769Z"/></svg>', variant: 'sharp', weight: 200 };

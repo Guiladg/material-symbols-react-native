@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSoundDetectionGlassBreakFill = exports.msSoundDetectionGlassBreakFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-323.538V-800h640v125.153L539.538-383.769l-159.769-159.77L160-323.538ZM160-160v-116l220-221 159.462 159.462L800-628.692V-160H160Z"/></svg>', variant: 'outlined', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFortFill = exports.msFortFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M12-86v-209l80-80v-250l-80-80v-170h82v80h89v-80h83v80h88v-80h83v170l-85 86v68h251v-74l-80-80v-170h83v80h88v-80h83v80h89v-80h83v170l-80 80v250l80 80v209H553v-148q0-30.988-21.006-51.994T480-307q-30.988 0-51.994 21.006T407-234v148H12Z"/></svg>', variant: 'outlined', weight: 700 };

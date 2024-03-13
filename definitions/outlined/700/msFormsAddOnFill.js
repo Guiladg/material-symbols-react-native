@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormsAddOnFill = exports.msFormsAddOnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M633-114v-120H513v-94h120v-120h94v120h120v94H727v120h-94ZM97-188v-95h94v95H97Zm154 0v-95h181q3 27 6 47.5t15 47.5H251ZM97-378v-94h94v94H97Zm154 0v-94h271q-23.25 18.286-39.625 42.643T455.981-378H251ZM97-567v-95h94v95H97Zm154 0v-95h532v95H251ZM97-757v-95h94v95H97Zm154 0v-95h532v95H251Z"/></svg>', variant: 'outlined', weight: 700 };

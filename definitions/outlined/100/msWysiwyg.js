@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWysiwyg = exports.msWysiwyg = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M226-172q-21.75 0-37.875-16.125T172-226v-508q0-21.75 16.125-37.875T226-788h508q21.75 0 37.875 16.125T788-734v508q0 21.75-16.125 37.875T734-172H226Zm0-22h508q14 0 23-9t9-23v-460H194v460q0 14 9 23t23 9Zm54-315v-22h397v22H280Zm0 160v-22h237v22H280Z"/></svg>', variant: 'outlined', weight: 100 };

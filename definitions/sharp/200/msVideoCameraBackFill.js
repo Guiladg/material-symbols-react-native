@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVideoCameraBackFill = exports.msVideoCameraBackFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M248.077-336.846h347.692L489.077-480.308 384.615-348l-67.923-80-68.615 91.154ZM139.23-200v-560h560.001v257.308L820.77-624.231v287.693L699.231-458.077V-200H139.23Z"/></svg>', variant: 'sharp', weight: 200 };

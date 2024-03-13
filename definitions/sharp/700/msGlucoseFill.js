@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGlucoseFill = exports.msGlucoseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479-67 175-421l102-75 133 86v-444h87v417h67v-257h87v257h58v-217h87v217h67v-137h87v507H479ZM180.116-543Q114-543 68.5-588.102 23-633.203 23-698.384 23-736 37.552-762.836 52.104-789.673 104-850l76-87 77 87q51 61 65.5 87.848t14.5 63.726Q337-633 291.055-588q-45.944 45-110.939 45Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMonitorHeartFill = exports.msMonitorHeartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-510v-316h851v316H659l-68-134h-62L400-388l-61-122H55Zm0 375v-315h246l68 135h62l129-257 61 122h285v315H55Z"/></svg>', variant: 'sharp', weight: 700 };

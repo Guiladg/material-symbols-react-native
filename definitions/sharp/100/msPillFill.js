@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPillFill = exports.msPillFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m611-366 126-126q24-24 37.5-55.961Q788-579.921 788-615q0-72.276-50.459-122.638Q687.081-788 614.667-788 580-788 548-774.5T492-737L366-611l245 245ZM345.333-172Q380-172 412-185.5t56-37.5l126-126-245-245-126 126q-24 24-37.5 55.961Q172-380.079 172-345q0 72.276 50.459 122.638Q272.919-172 345.333-172Z"/></svg>', variant: 'sharp', weight: 100 };

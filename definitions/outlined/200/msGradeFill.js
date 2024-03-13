@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGradeFill = exports.msGradeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m293-203.076 49.615-212.539-164.923-142.847 217.231-18.846L480-777.693l85.077 200.385 217.231 18.846-164.923 142.847L667-203.076 480-315.923 293-203.076Z"/></svg>', variant: 'outlined', weight: 200 };

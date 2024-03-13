@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCoffeeMakerFill = exports.msCoffeeMakerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M212-132v-696h536v22H634v58H349v-58H234v652h194q-35-19-57-50t-22-80v-146h285v146q0 49-22.5 80T555-154h193v22H212Zm279-428q11 0 19.5-8.213 8.5-8.212 8.5-19.287t-8.5-19.287Q502-615 491-615t-19.5 8.213q-8.5 8.212-8.5 19.287t8.5 19.287Q480-560 491-560Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGppBadFill = exports.msGppBadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m393-384 87-86 87 86 17-17-87-86 87-86-17-17-87 86-87-86-17 17 87 86-87 86 17 17Zm87 250q-115-37-191.5-143.5T212-518v-206l268-100 268 100v206q0 134-76.5 240.5T480-134Z"/></svg>', variant: 'sharp', weight: 100 };

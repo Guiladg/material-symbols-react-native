@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInkMarker = exports.msInkMarker = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m252-73-40-40-85 86-102-99 88-88-41-40 661-664 184 184L252-73Zm194-423L207-254l45 45 242-239-48-48Z"/></svg>', variant: 'sharp', weight: 700 };

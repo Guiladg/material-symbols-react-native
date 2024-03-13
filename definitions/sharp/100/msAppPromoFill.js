@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAppPromoFill = exports.msAppPromoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M603-519 480-397 357-519l16-16 96 96v-205h22v205l96-96 16 16ZM411-168h138v-28H411v28ZM252-92v-776h456v776H252Zm22-179h412v-490H274v490Z"/></svg>', variant: 'sharp', weight: 100 };

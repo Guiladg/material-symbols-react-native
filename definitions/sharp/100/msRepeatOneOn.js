@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRepeatOneOn = exports.msRepeatOneOn = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114-92q-8.55 0-15.275-6.725T92-114v-732q0-8.55 6.725-15.275T114-868h732q8.55 0 15.275 6.725T868-846v732q0 8.55-6.725 15.275T846-92H114Zm182-40 16-16-97-97h509v-182h-22v160H215l97-97-16-16-124 124 124 124Zm-60-401h22v-160h487l-97 97 16 16 124-124-124-124-16 16 97 97H236v182Zm242 156h25v-207h-68v25h43v182Z"/></svg>', variant: 'sharp', weight: 100 };

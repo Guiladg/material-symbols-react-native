@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRedoFill = exports.msRedoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M372-240q-78.077 0-133.115-55.154-55.039-55.154-55.039-133t55.039-132.231Q293.923-614.769 372-614.769h328.615L577.385-738l22-22L760-599.385 599.385-438.769l-22-22L700.615-584H371.769q-66.154 0-111.654 45.346t-45.5 110.5q0 65.923 45.5 111.654 45.5 45.731 111.654 45.731h301.539V-240H372Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToday = exports.msToday = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M358.817-304Q318-304 290-332.183q-28-28.183-28-69T290.183-470q28.183-28 69-28T428-469.817q28 28.183 28 69T427.817-332q-28.183 28-69 28ZM95-55v-791h150.2v-60H327v60h306v-60h82.2v60H866v791H95Zm94-94h582v-421H189v421Zm0-481h582v-121H189v121Zm0 0v-121 121Z"/></svg>', variant: 'sharp', weight: 700 };

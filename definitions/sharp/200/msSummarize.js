@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSummarize = exports.msSummarize = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M287.461-617.154h55.385v-55.385h-55.385v55.385Zm0 164.846h55.385v-55.384h-55.385v55.384Zm0 164.847h55.385v-55.385h-55.385v55.385ZM160-160v-640h464.308L800-624.308V-160H160Zm30.769-30.769h578.462v-413.616H604.385v-164.846H190.769v578.462Zm0-578.462v165.275-165.275 578.462-578.462Z"/></svg>', variant: 'sharp', weight: 200 };

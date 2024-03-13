@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRightClick = exports.msRightClick = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m507-294 8-24q56-12 93.5-57T646-480q0-69-48.5-117.5T480-646q-60 0-104.5 37T319-515l-25 7q11-69 63-114.5T480-668q79 0 133.5 54.5T668-480q0 71-46 123t-115 63Zm-130-54L194-164q-6 6-15 6t-15-6q-6-6-6-15t6-15l184-183-59-20q-10-3-10-13t10-13l167-50q7-2 13 4t4 13l-50 167q-3 10-13 10t-13-10l-20-59Z"/></svg>', variant: 'rounded', weight: 100 };

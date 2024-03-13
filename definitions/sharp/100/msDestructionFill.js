@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDestructionFill = exports.msDestructionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-172v-239h616v239H172Zm93-299-124-73 194-34-53-193 162 117 99-174 34 197 192-53-115 163 88 50H265Z"/></svg>', variant: 'sharp', weight: 100 };

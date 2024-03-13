@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWidthFullFill = exports.msWidthFullFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M120-200v-560h720v560H120Zm30.769-30.769h70.769v-498.462h-70.769v498.462Zm587.693 0h70.769v-498.462h-70.769v498.462Z"/></svg>', variant: 'sharp', weight: 200 };

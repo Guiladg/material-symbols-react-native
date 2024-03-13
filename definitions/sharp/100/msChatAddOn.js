@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChatAddOn = exports.msChatAddOn = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M146-223v-591h588v254h-14q-1.5 0-4 .167-2.5.166-4-1.167v-231H168v464h311q1.333 1.5 1.167 4-.167 2.5-.167 4v14H229l-83 83Zm140-409h308v-22H286v22Zm0 163h188v-22H286v22Zm423 280v-120H589v-22h120v-120h22v120h120v22H731v120h-22ZM168-328v-464 464Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineEndArrow = exports.msLineEndArrow = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M498-219q-24 15-48.5 1.691Q425-230.617 425-260v-173H110q-19.75 0-33.375-13.675Q63-460.351 63-480.175 63-500 76.625-513.5 90.25-527 110-527h315v-174q0-28.383 24.5-41.692Q474-756 498-741l347 222q22 13.786 22 38.893T845-441L498-219Zm22-125 211-136-211-136v272Zm0-136Z"/></svg>', variant: 'rounded', weight: 700 };

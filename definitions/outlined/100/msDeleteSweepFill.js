@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDeleteSweepFill = exports.msDeleteSweepFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M594-263v-22h104v22H594Zm0-334v-22h228v22H594Zm0 167v-22h187v22H594ZM180-651h-42v-21.714h149V-696h77v23h149v22h-42v345q0 22.775-15.612 38.388Q439.775-252 417-252H234q-22.775 0-38.387-15.612Q180-283.225 180-306v-345Z"/></svg>', variant: 'outlined', weight: 100 };

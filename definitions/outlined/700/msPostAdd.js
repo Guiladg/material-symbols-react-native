@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPostAdd = exports.msPostAdd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M189-95q-39.05 0-66.525-27.475Q95-149.95 95-189v-582q0-39.463 27.475-67.231Q149.95-866 189-866h383v95H189v582h582v-383h95v383q0 39.05-27.769 66.525Q810.463-95 771-95H189Zm132-182v-60h319v60H321Zm0-127v-60h319v60H321Zm0-127v-60h319v60H321Zm376.5-71v-96H602v-71h96v-97h71v97h97v71.5h-97v95.5h-71.5Z"/></svg>', variant: 'outlined', weight: 700 };

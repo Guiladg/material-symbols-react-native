@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineAxisFill = exports.msLineAxisFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m140-224.231-22.923-22.154 272.308-272.307 160 160.23 106.846-121.692-264.385-248.769L140-477.077 117.077-500l272.308-272.308 286.846 269.231 158.846-182.692 22 20.231-158.615 183.461 158.384 148.308-21.461 21.462-156.923-146.847-127.539 146.847-161.538-161.308L140-224.231Z"/></svg>', variant: 'outlined', weight: 200 };

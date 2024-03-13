@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalPoliceFill = exports.msLocalPoliceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m366-350 114-84 112 84-46-137 114-82H522.022L480-703l-42.022 134H301l111 82-46 137ZM479.937-55q-151.063-38-248-172.605Q135-362.209 135-522.674V-778l345-129 346 129.033V-523q0 160.589-97.5 295.294Q631-93 479.937-55Z"/></svg>', variant: 'outlined', weight: 700 };

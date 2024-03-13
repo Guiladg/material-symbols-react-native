@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlightLand = exports.msFlightLand = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M744.692-338.692 160-501v-172.077L181.846-667l30.462 90.615 212.077 60.231V-840l34.154 7.846 112.692 356.308 197.308 56.384q14.384 3.462 22.923 15.116Q800-392.692 800-378.077 800-357 782.885-345q-17.116 12-38.193 6.308ZM160-160v-30.769h640V-160H160Z"/></svg>', variant: 'outlined', weight: 200 };

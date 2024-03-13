@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPunchClockFill = exports.msPunchClockFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-55v-721h144v-174h482v174h145v721H95Zm238-721h293v-80H333v80Zm147 548q78 0 133-54.593t55-132.583Q668-492 613-547.5 558-603 480-603t-132.5 55.382q-54.5 55.383-54.5 133Q293-337 347.5-282.5T480-228Zm45-106 35-36-55-55v-94h-51v114l71 71Z"/></svg>', variant: 'sharp', weight: 700 };

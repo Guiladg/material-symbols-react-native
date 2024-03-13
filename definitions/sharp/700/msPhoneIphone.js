@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhoneIphone = exports.msPhoneIphone = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M177-17v-926h606v926H177Zm94-184v90h418v-90H271Zm209.175 75q12.825 0 21.325-8.675 8.5-8.676 8.5-21.5 0-12.825-8.675-21.325-8.676-8.5-21.5-8.5-12.825 0-21.325 8.675-8.5 8.676-8.5 21.5 0 12.825 8.675 21.325 8.676 8.5 21.5 8.5ZM271-261h418v-498H271v498Zm0-558h418v-30H271v30Zm0 618v90-90Zm0-618v-30 30Z"/></svg>', variant: 'sharp', weight: 700 };

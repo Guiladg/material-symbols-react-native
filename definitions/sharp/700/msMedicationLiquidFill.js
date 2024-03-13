@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMedicationLiquidFill = exports.msMedicationLiquidFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M64-810v-95h560v95H64Zm224 568h112v-105h106v-112H400v-105H288v105H182v112h106v105ZM19-56v-694h650v694H19Zm799-345q-40-21-64.5-65.718T729-569q0-76 39.289-128.5 39.29-52.5 97-52.5Q923-750 962.5-697.5T1002-569q0 57.564-24.5 102.282Q953-422 913-401v345h-95v-345Z"/></svg>', variant: 'sharp', weight: 700 };

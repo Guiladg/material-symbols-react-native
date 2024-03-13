@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatterySaverFill = exports.msBatterySaverFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M662.692-120v-107.308H558.077v-30.769h104.615v-104.615h30.77v104.615H800v30.769H693.462V-120h-30.77Zm-347.308 0v-668.308h96.924V-840h135.384v51.692h96.924v328.385q-80.308 10.769-134.731 72.456-54.423 61.688-54.423 145.39 0 34.923 10.654 65.923 10.653 31 29.807 56.154H315.384Z"/></svg>', variant: 'sharp', weight: 200 };

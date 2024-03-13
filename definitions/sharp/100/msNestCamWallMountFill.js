@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestCamWallMountFill = exports.msNestCamWallMountFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M215.779-322Q191-322 174-339.67q-17-17.67-17-41.376V-615.82Q157-641 174.221-658t42-17Q240-675 257-658q17 17 17 41 26-51 75.73-82 49.729-31 110.27-31 41.741 0 79.871 16Q578-698 607-669l192 192-293 295-193-193q-12-11-22-24.5T274-427v46q0 23.688-17.221 41.344-17.221 17.656-41 17.656Z"/></svg>', variant: 'sharp', weight: 100 };

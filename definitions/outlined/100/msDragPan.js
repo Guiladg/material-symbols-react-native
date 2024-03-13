@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDragPan = exports.msDragPan = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-116 348-248l16-16 105 105v-310H159l103 104-16 15-130-130 131-131 16 16-104 104h310v-310L366-698l-16-16 130-130 130 130-16 16-103-103v310h310L698-595l16-15 130 130-130 130-16-16 103-103H491v310l105-105 16 16-132 132Z"/></svg>', variant: 'outlined', weight: 100 };

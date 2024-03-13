@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHomePinFill = exports.msHomePinFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M374-451h67v-95h78v95h67v-173l-106-70-106 70v173ZM480-55Q307-199 221-318.5T135-555q0-159.719 104.253-255.36Q343.506-906 480-906q136.494 0 241.247 95.64Q826-714.719 826-555q0 117-86.5 236.5T480-55Z"/></svg>', variant: 'outlined', weight: 700 };

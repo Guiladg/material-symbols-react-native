@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEventBusyFill = exports.msEventBusyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m384.846-252.615-22.231-22.231L458-370l-95.385-95.154 22.231-22.231L480-392l95.154-95.385 22.231 22.231L502-370l95.385 95.154-22.231 22.231L480-348l-95.154 95.385ZM160-120v-649.231h138.077v-80h35.769v80h295.385v-80h33.462v80H800V-120H160Zm30.769-30.769h578.462V-540H190.769v389.231Z"/></svg>', variant: 'sharp', weight: 200 };

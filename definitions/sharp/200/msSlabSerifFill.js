@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSlabSerifFill = exports.msSlabSerifFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M237.692-240H416v-33.077h-98.077l48.308-127.308h220.538l49.308 127.308H539V-240h183.308v-33.077h-46.385L499.692-720h-43.231l-175.23 446.923h-43.539V-240ZM380-434.231l94.077-241.923h5.385l94.307 241.923H380ZM120-120v-720h720v720H120Z"/></svg>', variant: 'sharp', weight: 200 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCrosswordFill = exports.msCrosswordFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M349-54v-241h260v241H349ZM54-350v-259h240v259H54Zm295 0v-259h260v259H349Zm315 0v-259h242v259H664Zm0-314v-242h242v242H664Z"/></svg>', variant: 'outlined', weight: 700 };

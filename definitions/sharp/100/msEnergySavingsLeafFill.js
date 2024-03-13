@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEnergySavingsLeafFill = exports.msEnergySavingsLeafFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m433-330 160-144-9-26-119-11 78-103-15-18-159 144 8 27 119 10-77 105 14 16Zm48 130q-55.026 0-104.013-19.5T289.592-274L211-196l-15-15 78-78.592Q239-328 219.5-376.987 200-425.974 200-481q0-116.806 82-197.903T480.863-760H760v279.137Q760-364 678.903-282T481-200Z"/></svg>', variant: 'sharp', weight: 100 };

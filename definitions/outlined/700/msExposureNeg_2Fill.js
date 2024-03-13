@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExposureNeg_2Fill = exports.msExposureNeg_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M473-177v-91l211.142-232.172Q716-534 730.5-560q14.5-26 14.5-50.698 0-37.642-20.25-57.972T670-689q-36 0-61.5 19.5T570-614l-90-37q24-64 75.5-98t114.048-34q75.327 0 123.39 47Q841-689 841-613q0 46.487-21.5 86.744Q798-486 753-436L598-268l1 1h260v90H473Zm-69-222H101v-82h303v82Z"/></svg>', variant: 'outlined', weight: 700 };

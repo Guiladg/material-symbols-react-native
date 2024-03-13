@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSortFill = exports.msSortFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-280v-30.769h190V-280H160Zm0-184.615v-30.77h414.616v30.77H160Zm0-184.616V-680h640v30.769H160Z"/></svg>', variant: 'outlined', weight: 200 };

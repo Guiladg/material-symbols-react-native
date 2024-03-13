@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCakeFill = exports.msCakeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-132v-268h616v268H172Zm82-290v-214h215v-62q-17-11-28.5-24.5T429-753.846q0-11.154 4-20.764 4-9.609 11-16.39l36-37 36 37.353q7 6.647 11.5 16.147 4.5 9.5 4.5 20.654Q532-736 520-722.5T491-698v62h215v214H254Z"/></svg>', variant: 'sharp', weight: 100 };

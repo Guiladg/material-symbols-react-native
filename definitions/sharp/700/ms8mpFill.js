@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms8mpFill = exports.ms8mpFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M373-501h170v-240H373v240Zm50-136v-64h70v64h-70Zm0 103v-70h70v70h-70ZM233-219h50v-181h53v123h50v-123h60v181h50v-231H233v231Zm323 0h50v-59h120v-172H556v231Zm50-109v-72h70v72h-70ZM95-95v-771h771v771H95Z"/></svg>', variant: 'sharp', weight: 700 };

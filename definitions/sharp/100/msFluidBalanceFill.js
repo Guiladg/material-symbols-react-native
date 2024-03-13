@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFluidBalanceFill = exports.msFluidBalanceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M130-212v-536h700v54H438v120H266v22h172v144H266v22h173q2 50 19.5 95.5T511-212H130Zm539 84v-96q-58-5-97.5-47.291T532-372v-228h296v228q0 58-39.5 100.5T691-224v74h123v22H669Zm81-255h58v-197H553v117h37q25.186 0 48.675 11.732Q662.163-439.536 679-418q11.5 17 30.688 26 19.187 9 40.312 9Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHeadsetMicFill = exports.msHeadsetMicFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M481-124v-22h285v-64H658v-217h108v-92q0-119-83.273-203-83.272-84-202-84Q362-806 278-722t-84 203v92h108v217H172v-308.872q0-63.491 24-120.063t66-98.918q42-42.346 98.938-66.247Q417.877-828 481.204-828q63.328 0 119.562 24 56.234 24 97.786 65.985 41.551 41.985 65.5 98.868Q788-582.264 788-519v395H481Z"/></svg>', variant: 'sharp', weight: 100 };

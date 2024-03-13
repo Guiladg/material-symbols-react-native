@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenshotFill = exports.msScreenshotFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M502-231v-50h107v-101h50v151H502ZM301-568v-161h160v50H351v111h-50ZM177-17v-926h606v926H177Zm94-184h418v-558H271v558Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardFill = exports.msKeyboardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M132-252v-456h696v456H132Zm194-82h308v-50H326v50ZM213-455h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50ZM213-577h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50Zm121 0h50v-50h-50v50Z"/></svg>', variant: 'sharp', weight: 100 };

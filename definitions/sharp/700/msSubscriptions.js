@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSubscriptions = exports.msSubscriptions = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55-55v-611h851v611H55Zm94-94h662v-422H149v422Zm258-62 221-149-221-148v297ZM149-726v-60h662v60H149Zm131-120v-60h400v60H280ZM149-149v-422 422Z"/></svg>', variant: 'sharp', weight: 700 };

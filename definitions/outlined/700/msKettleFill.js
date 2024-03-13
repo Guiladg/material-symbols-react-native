@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKettleFill = exports.msKettleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M233-209v-515L115-906h612v130h85q38.75 0 66.375 27.625T906-682v205q0 40.212-27.625 67.106Q850.75-383 812-383h-85v174H233Zm494-268h85v-205h-85v205ZM487-363h86v-389h-86v389ZM125-55v-94h741v94H125Z"/></svg>', variant: 'outlined', weight: 700 };

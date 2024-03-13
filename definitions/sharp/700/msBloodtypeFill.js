@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBloodtypeFill = exports.msBloodtypeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.897-55q-147.659 0-246.278-101.165Q135-257.329 135-408q0-105.91 85.5-231.455Q306-765 480-913q174 148 260 273.545Q826-513.91 826-408q0 150.671-99.222 251.835Q627.556-55 479.897-55ZM360-265h240v-60H360v60Zm90-100h60v-90h90v-60h-90v-90h-60v90h-90v60h90v90Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwitchAccessShortcutAdd = exports.msSwitchAccessShortcutAdd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M743-319v-102.5H641V-481h102.5v-103H803v103h103v59.5H803V-319h-60ZM617-55q-138-46-221.5-162.719T312-480q0-94.458 38.043-181.033Q388.087-747.608 459-811H304v-95h313v313h-95v-144q-55 48-85.5 115.181T406-480q0 106.265 57 193.855Q520-198.555 617-156v101Z"/></svg>', variant: 'sharp', weight: 700 };

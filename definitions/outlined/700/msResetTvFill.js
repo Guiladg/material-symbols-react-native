@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msResetTvFill = exports.msResetTvFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M317-95v-80H149q-39.025 0-66.513-27.487Q55-229.975 55-269v-502q0-39.438 27.487-67.219Q109.975-866 149-866h662q39.438 0 67.219 27.781Q906-810.438 906-771v212H501l84-84-50-50-170 170 170 169 50-50-84-83h405v218q0 39.025-27.781 66.513Q850.438-175 811-175H644v80H317Z"/></svg>', variant: 'outlined', weight: 700 };

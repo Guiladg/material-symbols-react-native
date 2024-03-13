@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarkEmailReadFill = exports.msMarkEmailReadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M617.615-109.231 478.923-247.154l22.231-22.231 116.461 115.693L853.154-390l22.231 22.231-257.77 258.538ZM120-205.846V-760h718.539v284.769L616.385-253.846 501.154-368.308 379.539-245.923l41.077 40.077H120Zm358.769-281.923 329-217-14.23-24.462-314.77 206.077-314-206.077-14 24.462 328 217Z"/></svg>', variant: 'sharp', weight: 200 };

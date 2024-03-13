@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEventUpcoming = exports.msEventUpcoming = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M590-55v-94h181v-421H189v203H95v-384q0-39.463 27.475-67.231Q149.95-846 189-846h56v-60h82v60h306v-60h82v60h56q39.463 0 67.231 27.769Q866-790.463 866-751v602q0 39.05-27.769 66.525Q810.463-55 771-55H590ZM320 10l-66-66 96-97H33v-94h317l-96-97 66-66 211 210L320 10ZM189-630h582v-121H189v121Zm0 0v-121 121Z"/></svg>', variant: 'outlined', weight: 700 };

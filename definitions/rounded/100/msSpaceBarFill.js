@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSpaceBarFill = exports.msSpaceBarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M266-412q-21.5 0-37.75-16.25T212-466v-123q0-4.675 3.228-7.838 3.228-3.162 8-3.162t7.772 3.162q3 3.163 3 7.838v123q0 14 9 23t23 9h428q14 0 23-9t9-23v-123q0-4.675 3.228-7.838 3.228-3.162 8-3.162t7.772 3.162q3 3.163 3 7.838v123q0 21.5-16.25 37.75T694-412H266Z"/></svg>', variant: 'rounded', weight: 100 };

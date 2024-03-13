@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRotate_90DegreesCwFill = exports.msRotate_90DegreesCwFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M427-54q-78 0-147-30t-121.5-82Q106-218 76-287.5T46-435q0-154 108.5-266T417-816h39l-68-68 61-59 173 174-173 174-61-60 67-67h-38q-116 5-196.5 88.5T140-435q0 119 84.5 203T427-148q51 0 96.5-12.5T608-206l67 70q-50 43-115 62.5T427-54Zm282-142L465-441l244-245 246 245-246 245Z"/></svg>', variant: 'sharp', weight: 700 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPriorityFill = exports.msPriorityFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M357-172q-77.333 0-131.167-53.833Q172-279.667 172-357v-246q0-77.333 53.833-131.167Q279.667-788 357-788h246q77.333 0 131.167 53.833Q788-680.333 788-603v246q0 77.333-53.833 131.167Q680.333-172 603-172H357Zm83-186 204-204-16-16-188 188-91-90-16 16 107 106Z"/></svg>', variant: 'outlined', weight: 100 };

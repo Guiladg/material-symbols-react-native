@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddAd = exports.msAddAd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M732-192v-125H607v-22h125v-124h22v124h124v22H754v125h-22ZM82-172v-621h621v236h-22v-120H104v483h534v22H82Zm22-527h577v-72H104v72Zm0 0v-72 72Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextSelectStartFill = exports.msTextSelectStartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M463-172v-34h34v34h-34Zm0-582v-34h34v34h-34Zm146 582v-34h34v34h-34Zm0-582v-34h34v34h-34Zm145 582v-34h34v34h-34Zm0-146v-34h34v34h-34Zm0-145v-34h34v34h-34Zm0-146v-34h34v34h-34Zm0-145v-34h34v34h-34ZM172-172v-22h81v-572h-81v-22h184v22h-81v572h81v22H172Z"/></svg>', variant: 'sharp', weight: 100 };

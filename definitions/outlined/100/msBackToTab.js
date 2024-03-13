@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackToTab = exports.msBackToTab = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M399-466 154-710v170h-22v-208h208v22H169l246 245-16 15ZM186-212q-22.775 0-38.387-15.613Q132-243.225 132-266v-177h22v177q0 14 9 23t23 9h282v22H186Zm620-240v-242q0-14-9-23t-23-9H437v-22h337q22.775 0 38.388 15.612Q828-716.775 828-694v242h-22Zm22 94v146H562v-146h266Z"/></svg>', variant: 'outlined', weight: 100 };

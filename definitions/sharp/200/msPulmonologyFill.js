@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPulmonologyFill = exports.msPulmonologyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M464.615-860h30.77v293.385L605.231-456l36.308-37.077L540-596.154V-740h171.385L840-406.539V-140H520v-170.769l18.923-168.308L480-538l-59.692 59.692L440-310.769V-140H120v-266.539L248.615-740H420v144.615L318.461-493.077 354.769-456l109.846-110.615V-860Z"/></svg>', variant: 'sharp', weight: 200 };

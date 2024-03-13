@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEditCalendarFill = exports.msEditCalendarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M160-120v-649.231h138.077v-80h35.769v80h295.385v-80h33.462v80H800v283.077h-30.769V-540H190.769v389.231h292.308V-120H160Zm409.231 0v-88.385l238.384-237.384L895-357.615 657.616-120h-88.385Zm238.384-199.385 37-38.23-37-37.77-38 38 38 38Z"/></svg>', variant: 'sharp', weight: 200 };

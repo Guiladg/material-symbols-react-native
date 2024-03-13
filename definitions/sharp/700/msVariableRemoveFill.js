@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVariableRemoveFill = exports.msVariableRemoveFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95-255v-451h771v221q-14-5-27.5-7.5T812-495q-78 0-132.5 54.5T625-309q0 14 2.5 27.5T635-255H95Zm638 73-48-48 79-79-79-78 48-48 79 78 78-78 48 48-79 78 79 79-48 48-78-79-79 79Z"/></svg>', variant: 'sharp', weight: 700 };

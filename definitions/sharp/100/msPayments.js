@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPayments = exports.msPayments = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M528-464q-29 0-48.5-19.5T460-532q0-29 19.5-48.5T528-600q29 0 48.5 19.5T596-532q0 29-19.5 48.5T528-464ZM224-328v-408h608v408H224Zm88-22h432q0-27 19.625-46.5T810-416v-232q-27 0-46.5-19.625T744-714H312q0 27-19.625 46.5T246-648v232q27 0 46.5 19.625T312-350ZM128-232v-386h22v364h564v22H128Zm118-118v-364 364Z"/></svg>', variant: 'sharp', weight: 100 };

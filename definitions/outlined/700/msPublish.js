@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPublish = exports.msPublish = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M433-135v-323L319-343l-68-66 229-229 229 229-68 66-114-115v323h-94ZM135-588v-143q0-39 27.475-67T229-826h502q39.463 0 67.231 27.769Q826-770.463 826-731v143h-95v-143H229v143h-94Z"/></svg>', variant: 'outlined', weight: 700 };

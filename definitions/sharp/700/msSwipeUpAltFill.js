@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwipeUpAltFill = exports.msSwipeUpAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-135q-90 0-153.5-63.622Q263-262.243 263-353.288q0-83.28 50.5-137.996Q364-546 433-565v-161l-83 83-67-66 197-197 197 197-67 66-83-83v161q69 19 119.5 73.716Q697-436.568 697-353.288q0 91.045-63.5 154.666Q570-135 480-135Z"/></svg>', variant: 'sharp', weight: 700 };

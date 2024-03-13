@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHeadphonesBattery = exports.msHeadphonesBattery = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M202-266h-90v-216q0-86.667 60.735-147.333Q233.471-690 320.235-690 407-690 467.5-629.333 528-568.667 528-482v216h-90v-162h68v-54q0-77.5-54.147-131.75T320.353-668Q243-668 188.5-613.75 134-559.5 134-482v54h68v162Zm474 0v-398h75v-26h22v26h77v398H676Zm22-22h130-130Zm0 0h130v-354H698v354Z"/></svg>', variant: 'sharp', weight: 100 };

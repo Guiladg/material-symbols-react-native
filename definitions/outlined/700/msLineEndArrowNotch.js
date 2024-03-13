@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineEndArrowNotch = exports.msLineEndArrowNotch = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m425-173 136-260H73v-94h488L425-787l483 307-483 307Z"/></svg>', variant: 'outlined', weight: 700 };

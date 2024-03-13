@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatLetterSpacing = exports.msFormatLetterSpacing = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m333.923-119.231-126-126 126-124.231 22 21.231-88.615 87.616h424.615l-86.615-87.616 22-21.231 124.231 124.231-126 126-21.231-22 88.615-88.615H267.539l87.384 88.615-21 22ZM240-500v-340h30.769v340H240Zm224.615 0v-340h30.77v340h-30.77Zm224.616 0v-340H720v340h-30.769Z"/></svg>', variant: 'sharp', weight: 200 };

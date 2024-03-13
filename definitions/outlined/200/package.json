@@ -1,0 +1,32 @@
+{
+   "name": "@material-symbols-react-native/outlined-200",
+   "version": "1.0.0",
+   "description": "Latest optimized definitions for SVGs for Material Symbols. Variant: outlined. Weight: 200.",
+   "types": "index.d.ts",
+   "files": [
+      "*.js",
+      "*.d.ts"
+   ],
+   "license": "Apache-2.0",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/guiladg/material-symbols-react-native.git",
+      "directory": "definitions/outlined/200"
+   },
+   "bugs": {
+      "url": "https://github.com/guiladg/material-symbols-react-native/issues"
+   },
+   "homepage": "https://guiladg.github.io/material-symbols-react-native#readme",
+   "keywords": [
+      "material design",
+      "symbols",
+      "icons",
+      "android"
+   ],
+   "publishConfig": {
+      "access": "public"
+   },
+   "peer-dependencies": {
+      "@material-symbols-react-native": "*"
+   }
+}

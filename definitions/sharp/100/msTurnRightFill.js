@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTurnRightFill = exports.msTurnRightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M305-212v-358h440l-97-98 15-16 125 125-125 124-15-16 97-97H327v336h-22Z"/></svg>', variant: 'sharp', weight: 100 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msClimateMiniSplitFill = exports.msClimateMiniSplitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M58-458v-451h845v451H713v-261H247v261H58Zm215 70h94q0 90-62.65 152T153-174v-95q50 0 85-34.708 35-34.709 35-84.292Zm61-70v-174h292v174H334Zm99 325v-255h94v255h-94Zm161-255h94q0 50 34.708 84.5Q757.417-269 807-269v95q-89 0-151-61.783Q594-297.565 594-388Z"/></svg>', variant: 'sharp', weight: 700 };
