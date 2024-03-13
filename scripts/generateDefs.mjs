@@ -55,7 +55,12 @@ Object.defineProperty(exports, '__esModule', { 	value: true }); const ${name} = 
 		'utf-8'
 	);
 
-	writeFileSync(dTsFile, `import { MsIconDefinition } from 'material-symbols-react-native'; export declare const ${name}: MsIconDefinition;`, 'utf-8');
+	writeFileSync(
+		dTsFile,
+		`import { MsIconDefinition } from 'material-symbols-react-native';
+export declare const ${name}: MsIconDefinition;`,
+		'utf-8'
+	);
 }
 
 function toCamelCase(str) {
