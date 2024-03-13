@@ -10,7 +10,7 @@ It also works with ExpoGo.
 
 1. Make sure that you have installed the react-native-svg library:
 
-See https://github.com/react-native-community/react-native-svg#installation
+   See https://github.com/react-native-community/react-native-svg#installation
 
 2. Install this library.
 
