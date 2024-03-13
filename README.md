@@ -8,7 +8,7 @@ It also works with ExpoGo.
 
 ## Installation
 
-1. Make sure that you have installed the react-native-svg library:
+1. Make sure that you have installed the react-native-svg library.
 
    See https://github.com/react-native-community/react-native-svg#installation
 
