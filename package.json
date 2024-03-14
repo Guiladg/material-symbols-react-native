@@ -1,6 +1,6 @@
 {
   "name": "material-symbols-react-native",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An icon placer component for Google's Material Symbols to use with React Native.",
   "types": "index.d.ts",
   "files": [
