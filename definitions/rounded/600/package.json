@@ -1,0 +1,32 @@
+{
+   "name": "@material-symbols-react-native/rounded-600",
+   "version": "1.0.0",
+   "description": "Latest optimized definitions for SVGs for Material Symbols. Variant: rounded. Weight: 600.",
+   "types": "index.d.ts",
+   "files": [
+      "*.js",
+      "*.d.ts"
+   ],
+   "license": "Apache-2.0",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/guiladg/material-symbols-react-native.git",
+      "directory": "definitions/rounded/600"
+   },
+   "bugs": {
+      "url": "https://github.com/guiladg/material-symbols-react-native/issues"
+   },
+   "homepage": "https://guiladg.github.io/material-symbols-react-native#readme",
+   "keywords": [
+      "material design",
+      "symbols",
+      "icons",
+      "android"
+   ],
+   "publishConfig": {
+      "access": "public"
+   },
+   "peer-dependencies": {
+      "@material-symbols-react-native": "*"
+   }
+}
