@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRipplesFill = exports.msRipplesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M544.456-777.848q-12.282 20.761-17.923 43.604-5.642 22.844-5.642 46.244 0 68.344 48.383 116.726Q617.656-522.891 686-522.891q24.078 0 47.582-5.642 23.505-5.641 44.266-17.923v-231.392H544.456ZM114.022-114.022v-732.196h732.196v732.196H114.022Z"/></svg>', variant: 'sharp', weight: 500 };

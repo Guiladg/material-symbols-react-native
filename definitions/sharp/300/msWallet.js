@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWallet = exports.msWallet = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-180.001v-599.998h759.998v599.998H100.001Zm45.384-442.691h669.23v-111.923h-669.23v111.923Zm488.461 242.307 180.769-151.923v-45h-669.23v78.077l488.461 118.846Z"/></svg>', variant: 'sharp', weight: 300 };

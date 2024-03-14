@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRoomServiceFill = exports.msRoomServiceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-185.652v-68.37h812.196v68.37H74.022Zm30-128.37V-337q0-155.717 88.26-251.913 88.261-96.196 221.74-125.866v-94.547h132.196v94.543q133.239 29.674 221.619 125.87Q856.218-492.717 856.218-337v22.978H104.022Z"/></svg>', variant: 'sharp', weight: 500 };

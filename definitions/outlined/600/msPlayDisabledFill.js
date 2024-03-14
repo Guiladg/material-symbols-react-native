@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlayDisabledFill = exports.msPlayDisabledFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M651.392-388.652 317.869-715.175v-73.826L798.567-483l-147.175 94.348ZM795.826-58.26 537.087-315.87l-219.218 138.87v-358.088L59.26-795.261l46.522-45.957 736.436 736.436-46.392 46.522Z"/></svg>', variant: 'outlined', weight: 600 };

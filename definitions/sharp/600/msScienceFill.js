@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScienceFill = exports.msScienceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M172-105.869q-51.609 0-72.783-46.913-21.174-46.914 14.043-86.262l244.609-276.043v-255.304H279.26v-79.218h402.045v79.218h-78.609v255.304l244.609 276.043q34.652 39.348 13.478 86.262-21.174 46.913-72.783 46.913H172Z"/></svg>', variant: 'sharp', weight: 600 };

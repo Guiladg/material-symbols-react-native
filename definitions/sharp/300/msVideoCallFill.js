@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVideoCallFill = exports.msVideoCallFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M388.54-330.001h45.383v-128.923h128.538v-45.383H433.923v-128.538H388.54v128.538H259.617v45.383H388.54v128.923Zm-278.922 150v-599.998h599.997v266.154l140.767-140.768v348.842L709.615-446.539v266.538H109.618Z"/></svg>', variant: 'sharp', weight: 300 };

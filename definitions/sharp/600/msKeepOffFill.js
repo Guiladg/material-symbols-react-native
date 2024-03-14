@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeepOffFill = exports.msKeepOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M678.696-863.175v79.218h-30v391.739L336.957-703.957l-31.088-111.088h-30v-48.13h402.827ZM480-26.999l-39.609-39.61v-239.304H225.869v-79.783l80-77v-85.696L36.912-817.349l46.522-46.522L857.305-89l-45.957 46.522-263.435-263.435-28.304.565v238.74L480-27Z"/></svg>', variant: 'sharp', weight: 600 };

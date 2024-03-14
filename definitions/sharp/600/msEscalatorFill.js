@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEscalatorFill = exports.msEscalatorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M239.609-256.218h169.633l193.367-348.13h117.782v-100H550.758l-193.367 348.13H239.609v100Zm-133.74 150.349v-748.827h748.827v748.827H105.869Z"/></svg>', variant: 'sharp', weight: 600 };

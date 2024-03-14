@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCandlestickChartFill = exports.msCandlestickChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M274.022-154.022v-90h-81.435v-472.196h81.435v-90h68.13v90h81.435v472.196h-81.435v90h-68.13Zm343.826 0v-210h-81.435v-272.196h81.435v-170h68.37v170h81.434v272.196h-81.434v210h-68.37Z"/></svg>', variant: 'sharp', weight: 500 };

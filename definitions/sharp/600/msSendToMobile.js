@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSendToMobile = exports.msSendToMobile = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m686-328-42-42 82-81H480v-60h246l-82-81 42-42 153 153-153 153ZM186.999-27V-933h586.002V-714h-79.219v-49.782H266.218v567.564h427.564V-246h79.219v219H186.999Zm79.219-109.218v30h427.564v-30H266.218Zm0-687.564h427.564v-30H266.218v30Zm0 0v-30 30Zm0 687.564v30-30Z"/></svg>', variant: 'sharp', weight: 600 };

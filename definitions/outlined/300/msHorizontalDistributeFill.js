@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHorizontalDistributeFill = exports.msHorizontalDistributeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-100.001v-759.998h50v759.998h-50Zm337.307-190v-379.998h85.384v379.998h-85.384Zm372.691 190v-759.998h50v759.998h-50Z"/></svg>', variant: 'outlined', weight: 300 };

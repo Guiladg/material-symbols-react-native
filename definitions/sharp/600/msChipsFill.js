@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChipsFill = exports.msChipsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M247-445.782h466v-72.436H247v72.436ZM105.869-105.869v-748.827h748.827v748.827H105.869Z"/></svg>', variant: 'sharp', weight: 600 };

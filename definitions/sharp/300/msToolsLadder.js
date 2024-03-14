@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToolsLadder = exports.msToolsLadder = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m211.463-130.001 194.615-699.998h42.615l-34.847 127.307h254.461l36.231-127.307h43.383L554.537-130.001h-43.23l34.231-127.307h-254.46l-35.616 127.307h-43.999Zm147.383-372.691h254.461l43.231-154.616H401.693l-42.847 154.616Zm-56 200h255.461l42.847-154.616H345.693l-42.847 154.616Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLaptopChromebookFill = exports.msLaptopChromebookFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M20.002-193.849v-45.383H100v-569.997h759.998v569.997h80v45.383H20.001Zm377.152-45.383h167.307v-37H397.154v37Z"/></svg>', variant: 'sharp', weight: 300 };

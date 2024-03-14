@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalPharmacyFill = exports.msLocalPharmacyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M101.347-93.999v-76.957l86.435-252.174-86.435-252.739v-76.957h538.305l63.696-180.175 92.305 36.044-50.869 144.131h113.869v76.957L771.784-423.13l86.869 252.174v76.957H101.347Zm347.262-174.566h66.782v-121.739H637.13v-66.217H515.391V-578.26h-66.782v121.739H327.435v66.217h121.174v121.739Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenRotationUp = exports.msScreenRotationUp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m567.522-16.912-56.131-55.566 73.391-73.391H225.869V-646l79.783 79.218v341.695h279.13l-72.826-73.391 55.566-55.566 169.566 168.566L567.522-16.912ZM734.131-314l-79.783-79.784v-341.129H374.784l72.825 73.391-55.566 55.566-170.131-168.566 170.131-168.566 55.566 55.566-72.825 72.826h359.347V-314Z"/></svg>', variant: 'sharp', weight: 600 };

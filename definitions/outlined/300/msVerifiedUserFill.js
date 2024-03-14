@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVerifiedUserFill = exports.msVerifiedUserFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m436.385-364.847 213.768-213.768-31.615-30.999-179.923 179.538-97.153-97.154-33.23 33.23 128.153 129.153ZM480-101.386q-130.384-35.769-215.191-155.192Q180.001-376 180.001-521.077v-225.691L480-859.075l299.999 112.307v225.691q0 145.077-84.808 264.499Q610.384-137.155 480-101.386Z"/></svg>', variant: 'outlined', weight: 300 };

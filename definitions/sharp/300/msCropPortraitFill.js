@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCropPortraitFill = exports.msCropPortraitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M180.001-100.001v-759.998h599.998v759.998H180.001Z"/></svg>', variant: 'sharp', weight: 300 };

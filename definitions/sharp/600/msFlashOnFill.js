@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlashOnFill = exports.msFlashOnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M387.565-39.302v-331.305H265.304v-522.394h431.653l-75.478 263.043h175.262L387.565-39.302Z"/></svg>', variant: 'sharp', weight: 600 };

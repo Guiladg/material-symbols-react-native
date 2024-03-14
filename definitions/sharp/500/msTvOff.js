@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTvOff = exports.msTvOff = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m868.5-218.326-50.652-50.413v-509.109H308.739l-68.13-68.37h645.609v627.892H868.5ZM154.174-844.065l65.978 66.217h-78v515.696h504.109L25.174-883l44.913-44.913 810.826 809.826L836-73.174 715.152-194.022h-81.804v80H326.891v-80H74.021v-650.043h80.153Zm265.152 355.739Zm146.587-31.587Z"/></svg>', variant: 'sharp', weight: 500 };

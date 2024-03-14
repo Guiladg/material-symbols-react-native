@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTempleHinduFill = exports.msTempleHinduFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m314.5-686.935 47.804-160.413v-79.587h68.131v80h98.13v-80h68.37v74.587L645.5-686.935h-331ZM71.87-69v-457.935H140V-440h99.348l6.956-22.63h467.631l6.717 22.63H820v-86.935h68.37V-69H531.435v-219.565h-102.87V-69H71.869Zm192.434-453.63L296.5-626.935h367l32.435 104.305H264.304Z"/></svg>', variant: 'outlined', weight: 500 };

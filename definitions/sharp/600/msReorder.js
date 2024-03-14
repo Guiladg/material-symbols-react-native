@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msReorder = exports.msReorder = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-185.869v-75.261h748.827v75.261H105.869Zm0-171.522v-75.261h748.827v75.261H105.869Zm0-169.957v-75.261h748.827v75.261H105.869Zm0-172.087v-75.261h748.827v75.261H105.869Z"/></svg>', variant: 'sharp', weight: 600 };

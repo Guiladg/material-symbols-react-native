@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwapVertFill = exports.msSwapVertFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M338.386-461.155v-312.538l-126.385 126.77-32-31.999 181.077-181.077 181.076 181.077-32 31.999-126.385-126.77v312.538h-45.383Zm260.152 361.154L417.462-281.078l31.999-31.999 126.385 126.77v-312.538h45.384v312.538l126.769-126.77 31.615 31.999-181.076 181.077Z"/></svg>', variant: 'outlined', weight: 300 };

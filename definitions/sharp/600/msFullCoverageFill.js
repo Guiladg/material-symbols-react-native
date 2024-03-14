@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFullCoverageFill = exports.msFullCoverageFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M60.782-93.999v-581.219H140v501.436h627.001v79.783H60.781ZM249-284.782v-568.219h690.784v568.219H249ZM408.001-482h161.217v-215H408.001v215Zm204.217 0h168v-88h-168v88Zm0-127h168v-88h-168v88Z"/></svg>', variant: 'sharp', weight: 600 };

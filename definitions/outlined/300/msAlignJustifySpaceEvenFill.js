@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignJustifySpaceEvenFill = exports.msAlignJustifySpaceEvenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M814.615-100.001v-759.998h45.384v759.998h-45.384Zm-714.614 0v-759.998h45.384v759.998h-45.384Zm477.307-197.307v-365.384h85.384v365.384h-85.384Zm-280 0v-365.384h85.384v365.384h-85.384Z"/></svg>', variant: 'outlined', weight: 300 };

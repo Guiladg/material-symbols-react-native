@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msIframeFill = exports.msIframeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M400-360v-200h320v200H400ZM74.022-154.022v-652.196h812.196v652.196H74.022Zm68.13-68.13h675.696v-427.87H142.152v427.87Z"/></svg>', variant: 'sharp', weight: 500 };

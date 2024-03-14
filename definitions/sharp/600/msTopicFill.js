@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTopicFill = exports.msTopicFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869v-668.827h348.913L481-747.913h413.696v602.044H65.869ZM250-336.609h300v-60H250v60Zm0-160h460v-60H250v60Z"/></svg>', variant: 'sharp', weight: 600 };

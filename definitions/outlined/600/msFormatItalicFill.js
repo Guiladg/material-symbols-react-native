@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatItalicFill = exports.msFormatItalicFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M213.26-184.869v-99.783h136.827l135.043-397.13H330.087v-99.219h399.218v99.219H593.044l-135.043 397.13h155.043v99.783H213.26Z"/></svg>', variant: 'outlined', weight: 600 };

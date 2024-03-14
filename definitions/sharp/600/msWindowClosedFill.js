@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWindowClosedFill = exports.msWindowClosedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M150.391-110.391v-739.218h659.218v739.218H150.391Zm109.218-409.218h170.782v-40h99.218v40h170.782v-220.782H259.609v220.782Zm0 300h440.782v-220.782H259.609v220.782Zm-30 30h500.782v-580.782H229.609v580.782Z"/></svg>', variant: 'sharp', weight: 600 };

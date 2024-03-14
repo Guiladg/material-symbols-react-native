@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVideoChatFill = exports.msVideoChatFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M290.001-416.693h294.921V-541l83.539 83.538v-208.922l-83.539 83.538v-124.307H290.001v290.46Zm-190 298.229v-741.535h759.998v599.998h-618.46L100.001-118.464Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLteMobiledataFill = exports.msLteMobiledataFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M153.782-313.782v-332.436H220V-380h123v66.218H153.782Zm290.827 0V-580h-85v-66.218h236.782V-580h-85v266.218h-66.782Zm215.782 0v-332.436h189.218V-580h-123v70h123v60h-123v70h123v66.218H660.391Z"/></svg>', variant: 'outlined', weight: 600 };

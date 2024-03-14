@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewKanbanFill = exports.msViewKanbanFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M281.826-279.826h60v-400.913h-60v400.913Zm168.174-200h60v-200.913h-60v200.913Zm168.739 120h60v-320.913h-60v320.913Zm-512.87 253.957v-748.827h748.827v748.827H105.869Z"/></svg>', variant: 'sharp', weight: 600 };

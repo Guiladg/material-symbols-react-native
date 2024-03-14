@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSettopComponent = exports.msSettopComponent = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-300.001v-359.998h759.998v359.998H100.001Zm45.384-45.384h669.23v-269.23h-669.23v269.23Zm79.231-111.923h203.845v-45.384H224.616v45.384Zm328.46 6.154h57.693v-57.692h-57.693v57.692Zm120 0h57.693v-57.692h-57.693v57.692ZM145.385-345.385v-269.23 269.23Z"/></svg>', variant: 'sharp', weight: 300 };

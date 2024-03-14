@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChargingStationFill = exports.msChargingStationFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M461.539-295.386v-147.691h-73.846l110.768-221.537v147.691h73.846L461.539-295.386ZM220.001-60.001V-900h519.998v839.998H220.001Zm45.384-133.461h429.23v-573.076h-429.23v573.076Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToolsPhillipsFill = exports.msToolsPhillipsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M300.001-140.001v-45.384h359.998v45.384H300.001Zm0-99.999v-373.46l140-186.537h79.998l140 186.537V-240H300.001Zm45.384-228.306 111.923-111.923v-167.539L345.385-598.075v129.769Zm269.23 0v-129.769L502.692-747.768v167.539l111.923 111.923Z"/></svg>', variant: 'sharp', weight: 300 };

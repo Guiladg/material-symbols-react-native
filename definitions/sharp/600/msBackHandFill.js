@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackHandFill = exports.msBackHandFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M503.043-25.869q-97.917 0-181.589-50.609T186.955-212.174L53.217-438.129l73.392-76.219 147.739 106.869v-447.217h71.304v370.348h99.087v-452.609h70.74v452.609h99.086v-410.348h70.74v410.348h98.086v-330.348h71.305v446.497q0 143.982-103.152 243.156-103.153 99.174-248.501 99.174Z"/></svg>', variant: 'sharp', weight: 600 };

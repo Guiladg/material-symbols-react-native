@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSyncAlt = exports.msSyncAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M279.462-133.847 100.001-313.308l180.461-180.461 31.615 32L186.307-336h633.692v45.384H186.307l125.154 124.77-31.999 31.999Zm401.076-332.384-31.999-32L773.693-623H140.001v-45.384h633.692l-125.77-125.77 31.615-31.999 180.461 180.461-179.461 179.461Z"/></svg>', variant: 'outlined', weight: 300 };

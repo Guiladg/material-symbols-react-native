@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGarageDoor = exports.msGarageDoor = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M214.463-140.001v-423.154l-127.308 95.77L60-502.846 480-819.999l420.383 317.153-28.153 35.461-127.308-96.385v423.769h-45.383v-419H259.846v419h-45.383Zm120.537-40v-45.384h290v45.384H335Zm0-126.539v-45.383h290v45.383H335Zm0-125.923v-45.383h290v45.383H335Zm-66.539-171.921h422.463L480-763.461 268.461-604.384Z"/></svg>', variant: 'outlined', weight: 300 };

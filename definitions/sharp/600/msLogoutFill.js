@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLogoutFill = exports.msLogoutFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-105.869v-748.827h376.522v79.783H185.087v589.826h297.304v79.218H105.869Zm554.479-178.782-56.566-56.001 99.173-99.739H356.609v-79.218h344.346l-99.173-99.739 56.566-56.001L854.696-479 660.348-284.651Z"/></svg>', variant: 'sharp', weight: 600 };

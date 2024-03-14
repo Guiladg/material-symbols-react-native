@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFiberNewFill = exports.msFiberNewFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M27-145.869v-668.827H933v668.827H26.999ZM137.912-357h45.186v-170l112.988 170h45.826v-246h-45v170L184.609-603h-46.696v246Zm242.217 0h154.74v-46.13H430.13v-52.66h104.74v-45.404H430.13v-54.676h104.74V-603H380.13v246Zm206.522 0h237v-246H775.26v196h-50.173v-155h-45v155h-45.609v-196h-47.826v246Z"/></svg>', variant: 'sharp', weight: 600 };

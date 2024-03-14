@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGavelFill = exports.msGavelFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M139.651-93.999v-66.783h499.784v66.783H139.651Zm233.305-212L137.39-541.565l83.566-85.565 237.566 235.565-85.566 85.566Zm272.088-272.653L409.478-816.218l85.566-83.566 236.131 235.566-86.131 85.566ZM838-143.043 288.434-692.609 344-748.74l549.566 550.131L838-143.043Z"/></svg>', variant: 'sharp', weight: 600 };

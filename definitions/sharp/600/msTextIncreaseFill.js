@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextIncreaseFill = exports.msTextIncreaseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m28.695-200 229.609-560h98.088l226.783 560h-97.61l-54.59-143.782H178.218L122.913-200H28.695Zm175.218-214H405.13l-98.227-260.26h-3.816L203.913-414Zm524.391 100.218v-130h-130v-72.436h130v-130h73.001v130h130v72.436h-130v130h-73.001Z"/></svg>', variant: 'sharp', weight: 600 };

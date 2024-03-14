@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLivingFill = exports.msLivingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-74.022v-812.196h812.196v812.196H74.022ZM199.152-241h561.696v-312.674h-54v-158.283H253.152v158.283h-54V-241Zm52.87-52.63V-513h84v133.63h287.956V-513h84v219.37H252.022ZM388.652-432v-127.63h-82.63v-99.457h347.956v99.457h-82.63V-432H388.652Z"/></svg>', variant: 'sharp', weight: 500 };

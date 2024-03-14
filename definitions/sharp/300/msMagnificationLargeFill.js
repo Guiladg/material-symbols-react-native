@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMagnificationLargeFill = exports.msMagnificationLargeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M205.539-375.693h460.999v-298.768H205.539v298.768ZM100.001-180.001v-599.998h759.998v599.998H100.001Z"/></svg>', variant: 'sharp', weight: 300 };

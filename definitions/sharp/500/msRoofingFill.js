@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRoofingFill = exports.msRoofingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M358.869-154.022v-242.5H601.37v242.5H358.869Zm-284.065-296-40.782-54.217L480-847.218l174.174 133.609v-92.609h108.13v176.305l163.914 125.674-41.022 54.217L480-760.935 74.804-450.022Z"/></svg>', variant: 'sharp', weight: 500 };

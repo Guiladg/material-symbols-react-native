@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCancelPresentation = exports.msCancelPresentation = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m363-331.001 117-117 117 117L628.999-363l-117-117 117-117L597-628.999l-117 117-117-117L331.001-597l117 117-117 117L363-331.001Zm-262.999 151v-599.998h759.998v599.998H100.001Zm45.384-45.384h669.23v-509.23h-669.23v509.23Zm0 0v-509.23 509.23Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignJustifyStretchFill = exports.msAlignJustifyStretchFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M814.913-65.869v-828.827h79.783v828.827h-79.783Zm-749.044 0v-828.827h79.218v828.827H65.869ZM510-560.39v-119.218h209.609v119.218H510Zm-269.609 0v-119.218H450v119.218H240.391Zm269.609 280v-119.218h209.609v119.218H510Zm-269.609 0v-119.218H450v119.218H240.391Z"/></svg>', variant: 'sharp', weight: 600 };

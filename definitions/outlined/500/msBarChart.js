@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBarChart = exports.msBarChart = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M660.478-154.022V-442.63h145.74v288.608h-145.74Zm-253.108 0v-652.196h145.26v652.196H407.37Zm-253.348 0v-452.196h145.5v452.196h-145.5Z"/></svg>', variant: 'outlined', weight: 500 };

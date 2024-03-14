@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFullscreenExit = exports.msFullscreenExit = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M244.521-105.869v-138.652H105.869v-79.784h218.436v218.436h-79.784Zm391.739 0v-218.436h218.436v79.784H716.044v138.652H636.26ZM105.869-636.26v-79.784h138.652v-138.652h79.784v218.436H105.869Zm530.391 0v-218.436h79.784v138.652h138.652v79.784H636.26Z"/></svg>', variant: 'sharp', weight: 600 };

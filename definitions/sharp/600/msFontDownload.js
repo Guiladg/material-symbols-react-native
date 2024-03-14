@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFontDownload = exports.msFontDownload = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M257.782-240h74.348l43.975-120.043h208.33L627.739-240h74.479L517.087-720h-75.174L257.782-240ZM398.13-420.13 479-647.87h1.435l80.304 227.74H398.13ZM65.869-65.869v-828.827h828.827v828.827H65.869Zm80.218-79.218h669.826v-669.826H146.087v669.826Zm0 0v-669.826 669.826Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStylusFill = exports.msStylusFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m330.615-172.54-200.306 42.231 42.231-200.306L330.615-172.54Zm38.537-26.691L199.231-369.152 675-844.536 844.536-675 369.152-199.231Z"/></svg>', variant: 'sharp', weight: 300 };

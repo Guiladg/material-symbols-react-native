@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewListFill = exports.msViewListFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M353.587-154.022h532.631v-178.065H353.587v178.065ZM74.022-627.913h219.565v-178.305H74.022v178.305Zm0 236.826h219.565v-176.826H74.022v176.826Zm0 237.065h219.565v-178.065H74.022v178.065Zm279.565-237.065h532.631v-176.826H353.587v176.826Zm0-236.826h532.631v-178.305H353.587v178.305Z"/></svg>', variant: 'sharp', weight: 500 };

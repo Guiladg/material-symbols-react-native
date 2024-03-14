@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDesk = exports.msDesk = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.739-234.978V-725.5H885.5v490.522h-68.13v-96.413h-184.5v96.413h-68.131V-657.13H142.87v422.152H74.739ZM632.87-560.717h184.5v-96.413h-184.5v96.413Zm0 162.869h184.5v-96.413h-184.5v96.413Z"/></svg>', variant: 'sharp', weight: 500 };

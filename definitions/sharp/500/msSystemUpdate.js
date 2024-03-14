@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSystemUpdate = exports.msSystemUpdate = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M194.5-34.5v-891h571v891h-571Zm68.13-98.13v30h434.74v-30H262.63Zm0-60h434.74v-574.74H262.63v574.74Zm217.49-124.413L324.761-472.761l43-43L450-433.043V-628h60v194.957l82.478-82.718 43 43L480.12-317.043ZM262.63-827.37h434.74v-30H262.63v30Zm0 0v-30 30Zm0 694.74v30-30Z"/></svg>', variant: 'sharp', weight: 500 };

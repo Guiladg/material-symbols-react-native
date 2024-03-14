@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatteryLow = exports.msBatteryLow = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M157.847-297.694v-108.46h-57.846v-147.692h57.846v-108.46h702.152v364.612H157.847Zm44.999-45.383h491.769v-273.846H202.846v273.846Z"/></svg>', variant: 'sharp', weight: 300 };

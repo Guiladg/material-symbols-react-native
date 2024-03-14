@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChecklistFill = exports.msChecklistFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M222.957-208.261 74.978-356l47.979-47.739 100 99 179-179.239L449.696-435 222.957-208.261Zm0-320L74.978-676l47.979-47.739 100 99 179-179.239L449.696-755 222.957-528.261Zm298 242.326v-68.13h364.065v68.13H520.957Zm0-320v-68.13h364.065v68.13H520.957Z"/></svg>', variant: 'outlined', weight: 500 };

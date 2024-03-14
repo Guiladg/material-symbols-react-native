@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlagFill = exports.msFlagFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M194.022-114.022v-692.196h354l19.08 86h239.116v382.196h-267.24l-19-85H262.152v309h-68.13Z"/></svg>', variant: 'sharp', weight: 500 };

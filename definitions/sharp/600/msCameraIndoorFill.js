@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCameraIndoorFill = exports.msCameraIndoorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-105.869v-501.479L480-858.088l334.696 250.74v501.479H145.869ZM317-274h245v-88l82 43v-153l-82 43v-88H317v243Z"/></svg>', variant: 'sharp', weight: 600 };

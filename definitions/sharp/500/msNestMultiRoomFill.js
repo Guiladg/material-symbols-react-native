@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNestMultiRoomFill = exports.msNestMultiRoomFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M154.022-602.152 480-847.891l326.218 245.739H154.022Zm0 488.13v-184.065H530v184.065H154.022Zm435.978 0v-184.065h216.218v184.065H590ZM154.022-358.087v-184.065H370v184.065H154.022Zm275.978 0v-184.065h376.218v184.065H430Z"/></svg>', variant: 'sharp', weight: 500 };

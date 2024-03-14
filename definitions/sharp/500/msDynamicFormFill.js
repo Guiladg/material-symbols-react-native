@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDynamicFormFill = exports.msDynamicFormFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M73.304-510v-298.37h465.261V-510H73.305Zm0 358.131V-450h545.261v298.131H73.305Zm605.261 0V-510h-80v-298.37h287.653l-80 229.805h80.239L678.565-151.869ZM192.37-270.935h60v-60h-60v60Zm0-358.13h60v-60h-60v60Z"/></svg>', variant: 'sharp', weight: 500 };

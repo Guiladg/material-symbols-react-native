@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRollerShadesClosedFill = exports.msRollerShadesClosedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M60.782-100.782v-79.783h80v-678.653h678.436v678.653h80v79.783H545.652q0 27.312-19.296 46.2-19.297 18.888-46.457 18.888t-46.357-18.888q-19.198-18.888-19.198-46.2H60.782Zm159.783-79.783h223.783v-103.783H220.565v103.783Zm295.087 0h223.783v-103.783H515.652v103.783Z"/></svg>', variant: 'outlined', weight: 600 };

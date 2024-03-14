@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExposureNeg_1Fill = exports.msExposureNeg_1Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M406.218-403.782H113.782v-72.436h292.436v72.436ZM650-186.999v-483.392l-99 71-41.218-62.61 153-111h73.61v586.002H650Z"/></svg>', variant: 'sharp', weight: 600 };

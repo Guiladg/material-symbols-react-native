@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowUpwardAlt = exports.msArrowUpwardAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M442.391-230.434v-386.434L282-459.477l-55.566-56.566L481-770.609l254.566 254.566L680-460.477 521.609-618.868v388.434h-79.218Z"/></svg>', variant: 'outlined', weight: 600 };

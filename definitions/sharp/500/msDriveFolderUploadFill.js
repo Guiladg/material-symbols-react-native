@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDriveFolderUploadFill = exports.msDriveFolderUploadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-154.022v-652.196H418.37l62.63 62.87h405.218v589.326H74.022Zm373.587-125.021h64.782v-215.522l68.5 68.5 45.348-45.109L480-617.413 333.761-471.174l45.348 45.109 68.5-68.5v215.522Z"/></svg>', variant: 'sharp', weight: 500 };

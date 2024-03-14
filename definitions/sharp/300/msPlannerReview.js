@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlannerReview = exports.msPlannerReview = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M497.77-90 357.385-737.926 255-253.847H90v-44.383h127.924l112-533.385h53.691l140 650.002 91.616-404.925h56.461l71 288.308h127.307v44.383H707.846l-63.769-252.155L548.23-90.001h-50.46Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowSplitFill = exports.msArrowSplitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-438.956v-79.218h316.174l217.304-217.304H569.913v-79.218h244.783v244.218h-79.783v-108.434L494.957-438.956H145.869Zm424.044 293.087v-79.783h108.869L523.435-381.999l55.566-55.566 155.912 154.781v-107.868h79.783v244.783H569.913Z"/></svg>', variant: 'outlined', weight: 600 };

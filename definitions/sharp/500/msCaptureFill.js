@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCaptureFill = exports.msCaptureFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M232.152-312.152h495.696v-335.696H232.152v335.696Zm-158.13 158.13v-652.196h812.196v652.196H74.022Z"/></svg>', variant: 'sharp', weight: 500 };

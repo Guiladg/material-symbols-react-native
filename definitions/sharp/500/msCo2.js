@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCo2 = exports.msCo2 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M404.565-364.565v-230.87h190.87v230.87h-190.87Zm50.87-50.87h89.13v-129.13h-89.13v129.13Zm-330.87 50.87v-230.87h190.87v70.87h-50.87v-20h-89.13v129.13h89.13v-20h50.87v70.87h-190.87Zm560 120v-130.87h120v-49.13h-120v-50.87h170.87v130.87h-120v49.13h120v50.87h-170.87Z"/></svg>', variant: 'sharp', weight: 500 };

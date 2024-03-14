@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLegendToggle = exports.msLegendToggle = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M155.935-191.869V-260h648.13v68.131h-648.13Zm0-174.066v-68.13h648.13v68.13h-648.13Zm0-175.674v-80.804l244.304-147.392L600-628.044l204.065-144.869v85.043L600-543.761 396.761-688 155.935-541.609Z"/></svg>', variant: 'sharp', weight: 500 };

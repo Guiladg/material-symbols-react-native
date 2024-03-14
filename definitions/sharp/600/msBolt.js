@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBolt = exports.msBolt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M399.218-174.044 670.304-501.13H494.826l34.304-273.565-246.217 355.26h151.174l-34.869 245.391Zm-91.653 109.87 40-279.999H139.086L521.13-896.392h98.654l-40 320h251.305L405.087-64.173h-97.522ZM477.391-474.87Z"/></svg>', variant: 'sharp', weight: 600 };

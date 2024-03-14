@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewAgendaFill = exports.msViewAgendaFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-152.31v-287.305h679.998v287.305H140.001Zm0-368.075V-807.69h679.998v287.305H140.001Z"/></svg>', variant: 'sharp', weight: 300 };

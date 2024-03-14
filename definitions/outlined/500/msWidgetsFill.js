@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWidgetsFill = exports.msWidgetsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M680.913-460.5 460.5-680.913l220.413-220.413 220.413 220.413L680.913-460.5Zm-576.935-72v-311.522H415.5V-532.5H103.978ZM532.5-103.978V-415.5h311.522v311.522H532.5Zm-428.522 0V-415.5H415.5v311.522H103.978Z"/></svg>', variant: 'outlined', weight: 500 };

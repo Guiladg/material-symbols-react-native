@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTypeSpecimenFill = exports.msTypeSpecimenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M377.5-365.261h47.587l37.565-97.848h162.109l37.565 97.848h48.544L566.739-723.348h-45.348L377.5-365.261Zm98.913-136L542.065-674h4l65.652 172.739H476.413ZM198.087-198.087v-692.196h692.196v692.196H198.087ZM69.717-69.717v-692.196h68.37v623.826h623.826v68.37H69.717Z"/></svg>', variant: 'sharp', weight: 500 };

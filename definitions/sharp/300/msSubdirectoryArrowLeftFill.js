@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSubdirectoryArrowLeftFill = exports.msSubdirectoryArrowLeftFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M395.539-140.001 180.001-357.769l214.922-214.922 32.615 32.615L266.307-379.23h428.308v-400.769h45.384v446.152H267.307l160.846 161.231-32.614 32.615Z"/></svg>', variant: 'sharp', weight: 300 };

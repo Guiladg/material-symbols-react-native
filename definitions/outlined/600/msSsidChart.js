@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSsidChart = exports.msSsidChart = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m480.435-100.782-248-240-126.566 90.044v-97.74l134.261-95.74 245 238 167.479-134.173h202.087v79.218H679.391L480.435-100.782Zm0-399-175-175-199.566 144.609v-97.74L313.13-779.218l175 175 366.566-264.61v97.741L480.435-499.782Z"/></svg>', variant: 'outlined', weight: 600 };

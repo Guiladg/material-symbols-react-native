@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExposurePlus_1Fill = exports.msExposurePlus_1Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M243.782-273.782v-130h-130v-72.436h130v-130h72.436v130h130v72.436h-130v130h-72.436ZM650-186.999v-483.392l-99 71-41.218-62.61 153-111h73.61v586.002H650Z"/></svg>', variant: 'sharp', weight: 600 };

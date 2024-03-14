@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUnfoldLessFill = exports.msUnfoldLessFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M343-154.261 294.261-203 480-388.739 665.739-203 617-154.261l-137-137-137 137Zm137-417L294.261-757 343-805.739l137 137 137-137L665.739-757 480-571.261Z"/></svg>', variant: 'sharp', weight: 500 };

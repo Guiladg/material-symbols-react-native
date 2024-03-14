@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenshotRegionFill = exports.msScreenshotRegionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M697.609-54.022v-140h-140v-68.369h140v-140h68.369v140h140v68.369h-140v140h-68.369Zm-503.587-140v-208.369h68.369v140h140v68.369H194.022Zm0-363.587v-208.369h208.369v68.369h-140v140h-68.369Zm503.587 0v-140h-140v-68.369h208.369v208.369h-68.369Z"/></svg>', variant: 'outlined', weight: 500 };

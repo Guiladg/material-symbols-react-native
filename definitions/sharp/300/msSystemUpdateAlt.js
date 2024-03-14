@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSystemUpdateAlt = exports.msSystemUpdateAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-180.001v-599.998h276.536v45.384H145.385v509.23h669.23v-509.23H583.463v-45.384h276.536v599.998H100.001ZM480-354.616 293.847-540.769l32.615-32.615 130.846 130.462v-337.077h45.384v337.077l130.846-130.462 32.615 32.615L480-354.616Z"/></svg>', variant: 'sharp', weight: 300 };

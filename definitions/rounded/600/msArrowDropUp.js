@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowDropUp = exports.msArrowDropUp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M304.695-390.391q-8.813 0-14.45-6.049-5.637-6.05-5.637-14.493 0-2.11 6.696-13.937l167.722-166.722q4.017-4.017 9.544-6.3 5.527-2.282 11.481-2.282t11.43 2.282q5.476 2.283 9.495 6.302l167.787 166.787q3.064 3.064 4.846 6.598 1.783 3.534 1.783 7.411 0 8.577-5.637 14.49t-14.45 5.913h-350.61Z"/></svg>', variant: 'rounded', weight: 600 };

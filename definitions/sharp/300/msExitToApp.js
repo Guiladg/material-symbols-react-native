@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExitToApp = exports.msExitToApp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-236.536h45.384v191.152h589.23v-589.23h-589.23v191.152h-45.384v-236.536h679.998v679.998H140.001Zm281.846-166.616-34.23-33.845 116.846-116.846H140.001v-45.384h364.462L387.617-619.538l34.23-33.845L595.23-480 421.847-306.617Z"/></svg>', variant: 'sharp', weight: 300 };

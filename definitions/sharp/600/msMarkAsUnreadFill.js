@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarkAsUnreadFill = exports.msMarkAsUnreadFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-269.956v-446.827l353.609-177.913 436.394 226.74H684.174L420.043-805.652 145.652-667.478v397.522H65.869Zm109.783 164.087v-532.087h719.044v532.087H175.652Zm359.522-252.913 279.739-136.521v-67.957L535.174-429.738 254.871-563.26v67.957l280.303 136.521Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardDoubleArrowUpFill = exports.msKeyboardDoubleArrowUpFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m285.846-238.463-31.999-31.999L480-496.615l226.153 226.153-31.999 31.999L480-433.001 285.846-238.463Zm0-249.538L253.847-520 480-746.153 706.153-520l-31.999 31.999L480-682.539 285.846-488.001Z"/></svg>', variant: 'outlined', weight: 300 };

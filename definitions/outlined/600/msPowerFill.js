@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPowerFill = exports.msPowerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M362.782-105.869v-131.566L225.869-388.348v-215.565q0-33.507 22.856-56.645 22.855-23.138 56.362-23.138h68.043l-39.609 39.044v-210.044h79.784v171H547.26v-171h79.219v210.044l-39.609-39.044h68.043q33.74 0 56.762 23.138 23.021 23.138 23.021 56.645v215.565L597.784-237.435v131.566H362.782Z"/></svg>', variant: 'outlined', weight: 600 };

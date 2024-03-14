@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextDecreaseFill = exports.msTextDecreaseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m52.309-210.001 218.076-539.998h54.614l218.077 539.998h-56.922l-58.539-149.23h-261l-58.923 149.23H52.309ZM184.46-406.692h224.924L299.692-687.308h-4.769L184.461-406.692ZM615-457.308v-45.384h292.691v45.384H615Z"/></svg>', variant: 'sharp', weight: 300 };

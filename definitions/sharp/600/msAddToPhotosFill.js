@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddToPhotosFill = exports.msAddToPhotosFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M519.609-387.609h60v-132h132v-60h-132v-132h-60v132h-132v60h132v132ZM195.478-195.478v-708.828h708.828v708.828H195.478ZM55.694-55.694v-708.828h79.784v629.044h629.044v79.784H55.694Z"/></svg>', variant: 'sharp', weight: 600 };

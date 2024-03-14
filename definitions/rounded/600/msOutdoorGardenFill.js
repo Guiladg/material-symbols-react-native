@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOutdoorGardenFill = exports.msOutdoorGardenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M68-106.999h251.652v-626.002L193.826-856.392 67.999-733.001v626.002Zm286.174 0h251.652v-626.002L480-856.392 354.174-733.001v626.002Zm286.174 0h251.653v-626.002L766.174-856.392 640.348-733.001v626.002Z"/></svg>', variant: 'rounded', weight: 600 };

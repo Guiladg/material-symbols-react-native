@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarkChatRead = exports.msMarkChatRead = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m702.196-151.869-139.74-139.979 47.74-47.739 92 91 177-177.239 47.739 48.978-224.739 224.979ZM74.022-74.022v-812.196h812.196v372.153h-68.37v-303.783H142.152v587.565l65.87-71.869h277.913v68.13H234.022l-160 160Zm68.13-228.13v-515.696 515.696Z"/></svg>', variant: 'sharp', weight: 500 };

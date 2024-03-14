@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCarpenter = exports.msCarpenter = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M579.783-17.433 392.869-204.347l60.087-59.522L91.911-773.392l162.784-162.219 621.35 620.351L579.783-17.433Zm-69.261-303.132 122.043-123.044-377.87-379.304-59.347 58.217 315.174 444.131Zm68.261 192 186.13-186.695-74.217-73.217-185.695 186.13 73.782 73.782Zm-68.261-192 122.043-123.044-122.043 123.044Z"/></svg>', variant: 'sharp', weight: 600 };

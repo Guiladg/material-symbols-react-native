@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardReturn = exports.msKeyboardReturn = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M365.539-253.847 140.001-479.385l225.538-225.152 32.615 32.614-170.847 170.847h547.308v-168.923h45.384v213.306H227.922l170.232 170.231-32.615 32.615Z"/></svg>', variant: 'outlined', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFloorFill = exports.msFloorFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M115.935-85.935v-68.13h150v-180h180v-180h180v-180h180v-150h68.13v218.13h-180v180h-180v180h-180v180h-218.13Z"/></svg>', variant: 'outlined', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTune = exports.msTune = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M423.609-106.999V-345h73v83h353v73.001h-353v82h-73Zm-313.218-82V-262h260v73.001h-260Zm187-172.783v-82h-187v-72.436h187v-84h73v238.436h-73Zm126.218-82v-72.436h426v72.436h-426Zm166-171.218v-238.001h73v82h187V-698h-187v83h-73Zm-479.218-83v-73.001h426V-698h-426Z"/></svg>', variant: 'sharp', weight: 600 };

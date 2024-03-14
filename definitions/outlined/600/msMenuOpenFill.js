@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMenuOpenFill = exports.msMenuOpenFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-225.869v-78.653h525.652v78.653H105.869Zm693.261-53.696L601.652-481 798.13-681.435l56.566 56.565L713.653-481l142.043 144.87-56.566 56.565ZM105.869-442.391v-79.218h409.044v79.218H105.869Zm0-213.087v-79.218h525.652v79.218H105.869Z"/></svg>', variant: 'outlined', weight: 600 };

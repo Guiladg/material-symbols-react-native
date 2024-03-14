@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHouseWithShieldFill = exports.msHouseWithShieldFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480.123-260.652q59.181-14.435 97.551-67.457 38.369-53.021 38.369-117.469v-86.495L480-599.913l-135.478 67.84v86.495q0 64.448 38.523 117.487t97.078 67.439ZM145.869-105.869v-501.479L480-858.088l334.696 250.74v501.479H145.869Z"/></svg>', variant: 'outlined', weight: 600 };

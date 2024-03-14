@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWysiwygFill = exports.msWysiwygFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M106.999-106.999v-746.002h746.002v746.002H106.999ZM180-180h600v-520H180v520Zm100-310v-60h390v60H280Zm0 160v-60h230v60H280Z"/></svg>', variant: 'sharp', weight: 600 };

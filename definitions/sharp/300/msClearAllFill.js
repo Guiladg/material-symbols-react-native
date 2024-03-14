@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msClearAllFill = exports.msClearAllFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-302.309v-45.384h524.998v45.384H140.001Zm77.308-154.999v-45.384h524.997v45.384H217.309Zm77.692-154.999v-45.384h524.998v45.384H295.001Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardCapslockBadge = exports.msKeyboardCapslockBadge = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M290.891-286.891h378.457v-64.544H290.891v64.544ZM336-448.022l144-143.76 144 143.76 45.348-45.108L480-682.478 290.891-493.13 336-448.022Zm-221.978 334v-732.196h732.196v732.196H114.022Zm68.13-68.13h595.696v-595.696H182.152v595.696Zm0-595.696v595.696-595.696Z"/></svg>', variant: 'sharp', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEventSeatFill = exports.msEventSeatFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M170.001-133.847v-205.384h619.998v205.384h-45.383v-160H215.384v160h-45.383Zm-30-280.384v-85.384h85.384v85.384h-85.384Zm155.385 5v-414.614h369.228v414.614H295.386Zm439.229-5v-85.384h85.384v85.384h-85.384Z"/></svg>', variant: 'sharp', weight: 300 };

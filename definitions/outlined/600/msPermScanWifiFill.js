@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPermScanWifiFill = exports.msPermScanWifiFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-87.216 0-600q98.435-96.261 220.152-151.805Q341.87-807.348 480-807.348t259.848 55.543Q861.565-696.261 960-600L480-87.216ZM450-343.87h60v-220h-60v220Zm30-267.173q12 0 21-9t9-21q0-12-9-21t-21-9q-12 0-21 9t-9 21q0 12 9 21t21 9Z"/></svg>', variant: 'outlined', weight: 600 };

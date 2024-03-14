@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMimoDisconnectFill = exports.msMimoDisconnectFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M824.218-67.956 660.652-232.087H652l54.218 52.218v80.783H253.782v-79.783L307-232.087H65.869v-619.218h69.044v94.479L18.956-872.218l47.522-48.087 805.827 804.827-48.087 47.522Zm13.783-165.261L215.956-854.696h679.74v621.479h-57.695Z"/></svg>', variant: 'sharp', weight: 600 };

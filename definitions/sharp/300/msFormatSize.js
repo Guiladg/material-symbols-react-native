@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatSize = exports.msFormatSize = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M583.847-180.001v-529.615H378.078v-70.383h481.921v70.383H654.23v529.615h-70.383Zm-357.307 0v-331.538H100.001v-70.383h323.075v70.383H296.537v331.538H226.54Z"/></svg>', variant: 'sharp', weight: 300 };

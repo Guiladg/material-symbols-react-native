@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEmojiFlags = exports.msEmojiFlags = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M185.869-105.869v-708.827H554.87l19.189 86h240.637v398.827H532.13l-18.934-85H265.087v309h-79.218ZM500-572Zm99.522 162.913h135.391v-239.826H506.438l-18.96-86H265.087v240.826h315.465l18.97 85Z"/></svg>', variant: 'outlined', weight: 600 };

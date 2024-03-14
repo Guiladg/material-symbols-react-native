@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInstallDesktop = exports.msInstallDesktop = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M322.652-105.869v-80H65.869v-668.827H500v79.783H145.087v509.826h669.826v-147.914h79.783v227.132H637.913v80H322.652ZM680-420.218 489.478-611.305 536-657.827l110.609 111.174v-308.043h66.782v308.043L824-657.827l46.522 46.522L680-420.218Z"/></svg>', variant: 'sharp', weight: 600 };

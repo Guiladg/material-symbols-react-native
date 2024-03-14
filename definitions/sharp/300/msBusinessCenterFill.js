@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBusinessCenterFill = exports.msBusinessCenterFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-140.001v-237.923h302.538v55.385h156.152v-55.385h301.308v237.923H100.001Zm347.922-227.922v-65.385h65.385v65.385h-65.385Zm-347.922-55.384v-276.692h240v-139.998h279.998v139.998h240v276.692H558.691v-55.384H402.539v55.384H100.001Zm285.384-276.692h189.23v-94.615h-189.23v94.615Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGoToLine = exports.msGoToLine = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M425.935-695.935v-108.13h108.13v108.13h-108.13Zm0 540v-108.13h108.13v108.13h-108.13Z"/></svg>', variant: 'sharp', weight: 500 };

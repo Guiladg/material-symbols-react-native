@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHighlightFill = exports.msHighlightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m219.022-656.913-88.827-87.826 48.74-48.74 87.826 88.827-47.739 47.739ZM445.935-762.63v-125.74h68.13v125.74h-68.13Zm295.283 107.717-48.74-48.739 89.587-88.305 47.74 48.218-88.587 88.826ZM351.869-69.717V-274.5l-120-120v-209.326H728.37V-394.5l-120 120v204.783H351.869Z"/></svg>', variant: 'outlined', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTornadoFill = exports.msTornadoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M33.782-843.587h892.436L804.696-634.065H155.304L33.782-843.587Zm160.544 277.652h571.587l-76.217 131.87H270.304l-75.978-131.87Zm116 200h338.587L480-72.825l-169.674-293.11Z"/></svg>', variant: 'outlined', weight: 500 };

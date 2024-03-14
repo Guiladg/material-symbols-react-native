@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHighDensityFill = exports.msHighDensityFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-297.693v-522.306h522.69v522.306h-522.69Zm0 157.692v-50h50v50h-50Zm157.692 0v-50h50v50h-50Zm157.307 0v-50h50v50h-50Zm157.692 0v-50h49.999v50h-49.999Zm157.307 0v-50h50v50h-50Zm0-157.692v-50h50v50h-50Zm0-157.307v-50h50v50h-50Zm0-157.692v-49.999h50v49.999h-50Zm0-157.307v-50h50v50h-50Z"/></svg>', variant: 'outlined', weight: 300 };

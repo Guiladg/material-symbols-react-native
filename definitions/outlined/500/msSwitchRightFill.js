@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwitchRightFill = exports.msSwitchRightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M401.435-182.543 103.978-480l297.457-297.457v594.914Zm157.13 0v-594.914L856.261-480 558.565-182.543Zm66.24-159.544L762.478-480 624.805-617.913v275.826Z"/></svg>', variant: 'outlined', weight: 500 };

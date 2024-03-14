@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSpaceDashboard = exports.msSpaceDashboard = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-105.869v-748.827h748.827v748.827H105.869Zm79.218-79.218H450v-589.826H185.087v589.826Zm324.913 0h264.913V-481H510v295.913ZM510-541h264.913v-233.913H510V-541Z"/></svg>', variant: 'sharp', weight: 600 };

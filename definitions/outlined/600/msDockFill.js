@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDockFill = exports.msDockFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M313.782-33.782v-60h332.436v60H313.782Zm-20.781-120q-32.507 0-55.863-23.356t-23.356-55.863v-613.998q0-32.507 23.356-55.863t55.863-23.356h373.998q32.507 0 55.863 23.356t23.356 55.863v613.998q0 32.507-23.356 55.863t-55.863 23.356H293.001Zm0-199.219h373.998v-373.998H293.001v373.998Z"/></svg>', variant: 'outlined', weight: 600 };

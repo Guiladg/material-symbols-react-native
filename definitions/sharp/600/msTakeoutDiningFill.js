@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTakeoutDiningFill = exports.msTakeoutDiningFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M169.39-550.869 53.999-673.391l56.566-56.566 89.739 92.739-5-49.869 165.044-167.609h239.87l164.478 167.609-5 49.869 89.739-92.739 56.566 56.566L790.61-550.869H169.39Zm65.609 405-28-369.782h546.002l-28 369.782H234.999Z"/></svg>', variant: 'sharp', weight: 600 };

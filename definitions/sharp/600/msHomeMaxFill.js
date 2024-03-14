@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHomeMaxFill = exports.msHomeMaxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M265.869-145.869v-30h-90.391q-62.957 0-106.283-43.326T25.87-325.478v-299.044q0-62.957 43.326-106.566 43.326-43.608 106.283-43.608h609.044q62.957 0 106.566 43.608 43.608 43.609 43.608 106.566v299.044q0 62.957-43.608 106.283-43.609 43.326-106.566 43.326h-89.826v30H265.869Z"/></svg>', variant: 'sharp', weight: 600 };

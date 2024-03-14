@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVerticalShades = exports.msVerticalShades = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M60.782-100.782v-79.783h80v-678.653h678.436v678.653h80v79.783H60.782Zm159.783-79.783h96.522v-598.87h-96.522v598.87Zm167.261 0h184.348v-598.87H387.826v598.87Zm255.087 0h96.522v-598.87h-96.522v598.87Zm-422.348 0v-598.87 598.87Zm518.87 0v-598.87 598.87Z"/></svg>', variant: 'outlined', weight: 600 };

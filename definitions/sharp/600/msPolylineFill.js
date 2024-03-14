@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPolylineFill = exports.msPolylineFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M613.782-67v-104.043L315.087-320.391H100.782v-246.001h200.436l112.564-125.869v-207.523h246.002v246.002H476.826L346.218-506.609v121.763L613.782-252.74v-60.261h246.002v246.002H613.782Z"/></svg>', variant: 'sharp', weight: 600 };

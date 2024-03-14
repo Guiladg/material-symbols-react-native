@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFaxFill = exports.msFaxFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M310.391-150.391v-676.741h426.001v217.523h160v459.218H310.391ZM50.607-104.173h229.784v-552.219H50.607v552.219ZM389.61-609.609h267v-138.304h-267v138.304Zm30 326.218h140v-193.218h-140v193.218Zm178.304-113.218h80v-80h-80v80Zm113.217 0h80v-80h-80v80ZM597.913-283.391h80v-80h-80v80Zm113.217 0h80v-80h-80v80Z"/></svg>', variant: 'sharp', weight: 600 };

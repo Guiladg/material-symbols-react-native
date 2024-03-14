@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msForumFill = exports.msForumFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M236.891-230.674v-148.369h505.022v-344.783h148.37V-70L729.609-230.674H236.891Zm-167.174-45.5V-891h612.196v451.957H232.587L69.717-276.174Z"/></svg>', variant: 'sharp', weight: 500 };

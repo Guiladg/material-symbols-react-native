@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSchool = exports.msSchool = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479-114.348 183.348-275.609v-240L27.565-600 479-846.218 932.435-600v323.218h-73v-280.87l-84.217 42.043v240L479-114.348Zm0-322.131L778.173-600 479-760.521 181.827-600 479-436.479Zm0 239.435 222.652-123.043V-472.26L479-353.782 256.348-474.26v154.173L479-197.044Zm1-239.435Zm-1 79.653Zm0 0Z"/></svg>', variant: 'sharp', weight: 600 };

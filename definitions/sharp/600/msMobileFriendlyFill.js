@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMobileFriendlyFill = exports.msMobileFriendlyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M146.999-27V-933h586.002V-714h-79.219v-49.782H226.218v567.564h427.564V-246h79.219v219H146.999Zm467.958-290.739L438.74-494.522l54.305-53.87 121.912 121.913L848.87-660.392l54.305 53.87-288.218 288.783Z"/></svg>', variant: 'sharp', weight: 600 };

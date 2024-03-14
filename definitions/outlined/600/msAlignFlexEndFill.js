@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignFlexEndFill = exports.msAlignFlexEndFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-65.869v-79.218h828.827v79.218H65.869ZM420.39-240.39v-574.522h119.218v574.522H420.391Z"/></svg>', variant: 'outlined', weight: 600 };

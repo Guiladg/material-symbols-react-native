@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextFormat = exports.msTextFormat = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M190.391-193.782v-79.219h579.218v79.219H190.391Zm81.087-172.436 175-440h70.435l175 440h-75.348L574.956-477.87H385.044l-41.043 111.652h-72.523Zm130.566-165.695h157.043L482.565-735.26h-4l-76.521 203.347Z"/></svg>', variant: 'sharp', weight: 600 };

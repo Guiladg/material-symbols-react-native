@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMuseumFill = exports.msMuseumFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-74.022v-72.196h83v-398.804h-83v-56.087L480-887.413l406.218 286.304v56.087h-82v398.804h82v72.196H74.022ZM324-241h60v-184l96 145 97-145v184h60v-274h-65l-92 140-92-140h-64v274Z"/></svg>', variant: 'sharp', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignVerticalBottom = exports.msAlignVerticalBottom = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-110.002v-45.384h759.998v45.384H100.001ZM301.155-261.54v-588.842h86.152v588.842h-86.152Zm271.538 0v-348.842h86.152v348.842h-86.152Z"/></svg>', variant: 'sharp', weight: 300 };

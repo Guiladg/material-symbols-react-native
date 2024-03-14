@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStopFill = exports.msStopFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M225.869-305.087v-349.826q0-33.49 22.981-56.637 22.98-23.146 56.237-23.146h349.826q33.49 0 56.637 23.146 23.146 23.147 23.146 56.637v349.826q0 33.257-23.146 56.237-23.147 22.981-56.637 22.981H305.087q-33.257 0-56.237-22.981-22.981-22.98-22.981-56.237Z"/></svg>', variant: 'rounded', weight: 600 };

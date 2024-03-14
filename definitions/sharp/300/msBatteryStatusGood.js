@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatteryStatusGood = exports.msBatteryStatusGood = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M638-137.385 549.385-226 581-257.999l57 56.384 141-141L810.999-311 638-137.385Zm-294.923-8Zm-45.383 45.384v-702.152h108.46v-57.846h147.692v57.846h108.46v345.691q-12.153.769-23.499 2.385-11.346 1.615-21.884 5.461v-308.538H343.077v611.769h140.461q6.977 12.915 15.565 24.188t18.357 21.196H297.694Z"/></svg>', variant: 'sharp', weight: 300 };

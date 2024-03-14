@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLdaFill = exports.msLdaFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M440.391-63.043v-123.956L184.738-294.825v-224.61h255.653v-106.999H304.738v-270.523h350.524v270.523H519.609v106.999h255.653v224.61L519.609-186.999v123.956h-79.218Zm0-210.435v-166.173H264.522v91.825l175.869 74.348Zm79.218-.565 176.434-73.783v-91.825H519.609v165.608Z"/></svg>', variant: 'sharp', weight: 600 };

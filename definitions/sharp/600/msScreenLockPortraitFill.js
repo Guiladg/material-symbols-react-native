@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScreenLockPortraitFill = exports.msScreenLockPortraitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M360-320v-200h40v-40q0-33 23.5-56.5T480-640q33 0 56.5 23.5T560-560v40h40v200H360Zm70-200h100v-40q0-20-15-33.5T480-607q-20 0-35 13.513-15 13.512-15 33.487v40ZM186.999-27V-933h586.002v906.002H186.999Zm79.219-169.218h427.564v-567.564H266.218v567.564Z"/></svg>', variant: 'sharp', weight: 600 };

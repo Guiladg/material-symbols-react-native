@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFitScreen = exports.msFitScreen = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M821.13-611.13v-130h-130v-73.566h203.566v203.566H821.13Zm-755.261 0v-203.566H268.87v73.566h-130v130H65.869ZM691.13-145.869v-73.001h130v-130h73.566v203.001H691.13Zm-625.261 0V-348.87h73.001v130h130v73.001H65.869ZM198.87-278.87v-402.26h562.26v402.26H198.87Zm73-73h416.26v-256.26H271.87v256.26Zm0 0v-256.26 256.26Z"/></svg>', variant: 'sharp', weight: 600 };

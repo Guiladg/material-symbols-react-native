@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextRotateUpFill = exports.msTextRotateUpFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M773.609-150.391h-73v-556.956l-52 52-51.044-51.044 139.826-139.827 140.697 139.827-52.479 51.044-52-52v556.956Zm-231.697-124.13-440-164v-79.001l440-164v75.349L441.26-569.999v187.912l100.652 35.043v72.523Zm-156.13-124.566V-554.13l-214.347 75.521v4l214.347 75.522Z"/></svg>', variant: 'sharp', weight: 600 };

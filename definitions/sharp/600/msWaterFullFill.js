@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWaterFullFill = exports.msWaterFullFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M216.087-618.827q51-29.739 109.804-45.608 58.805-15.87 117.544-16.87 31.13 0 61.478 4.283 30.348 4.282 58.478 11.717 51.566 14.565 78.283 19.283 26.717 4.717 57.152 4.717h48.087l18.739-173.608H194.348l21.739 196.086ZM197.26-65.869l-91.391-828.827h748.827L763.305-65.869H197.26Z"/></svg>', variant: 'sharp', weight: 600 };

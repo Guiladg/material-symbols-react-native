@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUnarchive = exports.msUnarchive = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-578.174 323.435-421.609l46.783 47.914 74.13-73.565v172.173h71.304V-447.26l74.13 74.13 47.348-47.913L480-578.174Zm-294.913-76.042v469.129h589.826v-469.129H185.087Zm-79.218 548.347v-615.783l104.044-133.044h539.739l105.044 133.044v615.783H105.869Zm105.827-623.609h535.608l-36-46H247.696l-36 46ZM480-419.652Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardDoubleArrowDown = exports.msKeyboardDoubleArrowDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-179.651 226.434-433.782 282-489.348l198 198.565 198-198.565 55.566 55.566L480-179.651Zm0-266.001L226.434-699.218 282-755.349l198 198.565 198-198.565 55.566 56.131L480-445.652Z"/></svg>', variant: 'sharp', weight: 600 };

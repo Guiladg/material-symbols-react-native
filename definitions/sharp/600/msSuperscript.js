@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSuperscript = exports.msSuperscript = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M784.262-636.218v-108.478h114.217v-31.522H784.262v-38.478h152.695v108.478H822.74v31.522h114.217v38.478H784.262ZM218.608-145.869l194.044-305.696-180.479-283.131h104.088L470.13-523.392h-1.695l133.304-211.304h104.653L525.348-451.565l194.044 305.696H615.739L468.435-378.738h1.695L322.261-145.869H218.608Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalHospitalFill = exports.msLocalHospitalFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M430.935-277.565h98.13v-153.37h153.37v-98.13h-153.37v-153.37h-98.13v153.37h-153.37v98.13h153.37v153.37ZM114.022-114.022v-732.196h732.196v732.196H114.022Z"/></svg>', variant: 'sharp', weight: 500 };

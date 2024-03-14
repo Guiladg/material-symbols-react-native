@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatInkHighlighterFill = exports.msFormatInkHighlighterFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80 0v-134.001h800V0H80Zm66.609-240.001 125.087-124.522-44.217-44.217v-56.132L439.957-677.35l226.002 226.001L454.48-239.305h-57.131l-47.653-48.218-48.087 47.522h-155Zm337.479-480.914L698-935.393l226.001 226.002-214.477 214.477-225.436-226.001Z"/></svg>', variant: 'sharp', weight: 600 };

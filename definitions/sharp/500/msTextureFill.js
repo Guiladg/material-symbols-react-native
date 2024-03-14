@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextureFill = exports.msTextureFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M117.543-115.022v-50.799l677.935-678.397h47.74v49.8L164.522-115.022h-46.979Zm-3.521-271.499v-97.957l361.5-361.74h97.957L114.022-386.521Zm0-320.957v-138.74h138.5l-138.5 138.74Zm593.456 593.456 138.74-138.5v138.5h-138.74Zm-320.957 0 459.697-459.457v97.957l-361.74 361.5h-97.957Z"/></svg>', variant: 'sharp', weight: 500 };

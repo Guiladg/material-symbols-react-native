@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msReply = exports.msReply = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M774.615-220.001v-137.153q0-61.154-40.923-102.077-40.923-40.923-102.077-40.923H227.922l168.001 167.615-32.615 33-223.307-223.307 223.307-223.307 32.615 32.615-168.001 168h403.693q79.999 0 134.191 54 54.193 54 54.193 134.384v137.153h-45.384Z"/></svg>', variant: 'sharp', weight: 300 };

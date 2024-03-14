@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDisabledByDefaultFill = exports.msDisabledByDefaultFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-105.869v-748.827h748.827v748.827H105.869ZM336-289.478l144-144 144 144L670.522-336l-144-144 144-144L624-670.522l-144 144-144-144L289.478-624l144 144-144 144L336-289.478Z"/></svg>', variant: 'sharp', weight: 600 };

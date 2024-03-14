@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrokenImageFill = exports.msBrokenImageFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-105.869v-352.349l121.653 121.653L396.13-505.173l167.74 167.174 167.608-168.174 123.218 123.218v277.086H105.869Zm0-748.827h748.827v357.914L732.043-618.87 563.87-450.696 396.13-617.87 227.522-449.262 105.869-571.48v-283.216Z"/></svg>', variant: 'sharp', weight: 600 };

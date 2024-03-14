@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTooltipFill = exports.msTooltipFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-69 370.891-234.022H74.021v-652.196h812.197v652.196h-296.87L480-69Z"/></svg>', variant: 'sharp', weight: 500 };

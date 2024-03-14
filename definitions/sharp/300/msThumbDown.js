@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msThumbDown = exports.msThumbDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M63.847-345.694v-147.921l140.308-326.384H677.23v474.305L413.462-76.156l-42.614-34.077 48.538-235.461H63.848Zm567.999-428.921H232.923L109.231-480.231v89.154h365.307l-49.153 240.153 206.461-214v-409.691Zm0 409.691V-774.615v409.691Zm45.384 19.23v-45.383h138v-383.538h-138v-45.384h183.384v474.305H677.23Z"/></svg>', variant: 'sharp', weight: 300 };

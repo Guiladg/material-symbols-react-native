@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLanguageUsDvorakFill = exports.msLanguageUsDvorakFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M225.087-359.784h126.26v-240.998h-126.26v240.998ZM145.869-280v-400h205.478q33.74 0 56.762 23.277 23.021 23.278 23.021 55.941v240.998q0 33.49-23.146 56.637Q384.837-280 351.347-280H145.869Zm480.783 0L491.739-680h79.784l101.564 300.912 103.391-301.477h79.218L718.088-280h-91.436Z"/></svg>', variant: 'outlined', weight: 600 };

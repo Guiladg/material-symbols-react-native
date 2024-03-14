@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPanToolAltFill = exports.msPanToolAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M344.304-106.869 39.782-472.435l79.566-87.957 155 107v-446.392h71.304v429.133h99.087v-289.698h70.74v289.698h99.086v-215.567h70.74v215.567h98.086v-112.61h71.305v476.392H344.304Z"/></svg>', variant: 'sharp', weight: 600 };

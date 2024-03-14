@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTableRowsNarrowFill = exports.msTableRowsNarrowFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m105.869-299.173 720-30.523L854.696-450l-720 30.523-28.827 120.304Zm0-210.827 720-30.523 28.827-120.304-720 30.523L105.869-510Zm0-210.827 720-30.523 28.827-120.304-720 30.524-28.827 120.303Zm748.827 614.958v-748.827 748.827ZM105.869-88.911l720-30.524 28.827-119.738-720 30.523-28.827 119.739Z"/></svg>', variant: 'sharp', weight: 600 };

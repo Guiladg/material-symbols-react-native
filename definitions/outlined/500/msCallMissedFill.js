@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallMissedFill = exports.msCallMissedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M484.043-260.261 182.152-562.152v206.261h-68.13v-326.37h319.13v68.37H227.131l256.912 257.152 315.196-315.196 47.979 48.739-363.175 362.935Z"/></svg>', variant: 'outlined', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSkipNext = exports.msSkipNext = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M683.109-228.761v-502.478h68.13v502.478h-68.13Zm-474.348 0v-502.478L571.739-480 208.761-228.761ZM276.891-480Zm0 120.935L451.913-480 276.891-600.935v241.87Z"/></svg>', variant: 'sharp', weight: 500 };

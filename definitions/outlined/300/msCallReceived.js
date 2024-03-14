@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallReceived = exports.msCallReceived = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M220.001-220.001v-377.153h45.384v299.77l482.614-482.615 32 32-482.615 482.614h299.77v45.384H220.001Z"/></svg>', variant: 'outlined', weight: 300 };

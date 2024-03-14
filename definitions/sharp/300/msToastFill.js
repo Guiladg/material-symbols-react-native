@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToastFill = exports.msToastFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M250.001-250.001h459.998v-45.383H250.001v45.383Zm-110 110v-679.998h679.998v679.998H140.001Z"/></svg>', variant: 'sharp', weight: 300 };

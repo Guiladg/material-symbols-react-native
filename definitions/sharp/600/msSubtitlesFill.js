@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSubtitlesFill = exports.msSubtitlesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869v-668.827h828.827v668.827H65.869Zm179.218-208.653h349.826v-60H245.087v60Zm409.826 0h60v-60h-60v60Zm-409.826-120h60v-60h-60v60Zm120 0h349.826v-60H365.087v60Z"/></svg>', variant: 'sharp', weight: 600 };

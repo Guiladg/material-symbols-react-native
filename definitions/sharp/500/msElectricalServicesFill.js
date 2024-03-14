@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msElectricalServicesFill = exports.msElectricalServicesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M719.065-360v-62.63h130.74V-360h-130.74Zm0 162.63V-260h130.74v62.63h-130.74Zm-232.652 41.435v-80h-95.478v-148.13h95.478v-80h202.652v308.13H486.413Zm-378.848-120v-318.13h295v-141.87h-255v-68.13h323.37v278.13h-295v181.87h185v68.13h-253.37Z"/></svg>', variant: 'sharp', weight: 500 };

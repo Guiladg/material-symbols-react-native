@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStackedEmailFill = exports.msStackedEmailFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M162.63-241.435v-605.5H925.5v605.5H162.63ZM34.5-113.304v-624.261h68.13v556.13h720v68.131H34.5Zm509.565-338.392L857.37-705.043v-73.522L544.065-525.218 231-778.565v73.522l313.065 253.347Z"/></svg>', variant: 'sharp', weight: 500 };

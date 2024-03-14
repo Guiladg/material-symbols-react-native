@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCarpenterFill = exports.msCarpenterFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M569.923-69.693 417.77-222.231l54.231-54.615-335.538-475.538 133.383-133.384 558.461 557.845-258.384 258.23Zm-.231-63.614 195.001-195.001L676-416.385 481.615-221l88.077 87.693Z"/></svg>', variant: 'sharp', weight: 300 };

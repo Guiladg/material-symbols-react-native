@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextFieldsAltFill = exports.msTextFieldsAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80-111.869V-180h800v68.131H80ZM780-280v-560h45.5v560H780Zm-627.174 0 224.065-560h87.892l222.63 560h-84.565l-56.283-148.37H292.478L235.957-280h-83.131Zm164.37-214h204.891L421.761-760.456h-4L317.196-494Z"/></svg>', variant: 'sharp', weight: 500 };

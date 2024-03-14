@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msQueuePlayNextFill = exports.msQueuePlayNextFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M447.565-369h62.87v-128.804H639v-62.631H510.435V-689h-62.87v128.565H319v62.631h128.565V-369ZM794.348-57.609l-48.674-47.674 124-124-123-123 47.674-47.674 171.674 170.674L794.348-57.609Zm-467.457-56.413v-80H74.021v-652.196h812.197V-483H687.674v288.978h-52.413v80h-308.37Z"/></svg>', variant: 'sharp', weight: 500 };

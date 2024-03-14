@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlexDirection = exports.msFlexDirection = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869V-440H442.26v294.131H65.869Zm0-374.131v-294.696H442.26V-520H65.869Zm79.218-79.784h217.39v-135.129h-217.39v135.129Zm592.304 453.915L533.304-345.435l60.087-55.566 104.391 102.826v-516.521h79.219v516.521l104.39-102.826 56.132 55.566-200.132 199.566Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLayersFill = exports.msLayersFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.435-92.129 96.26-390.782l65.827-48.87 317.348 247.218 318.478-247.218 65.827 48.87L479.435-92.128Zm0-176.305L96.26-566.522l383.175-298.653 383.74 298.653-383.74 298.088Z"/></svg>', variant: 'sharp', weight: 600 };

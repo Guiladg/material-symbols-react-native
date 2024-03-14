@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCurrencyFranc = exports.msCurrencyFranc = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M280.391-105.869v-130h-90v-79.218h90v-539.609h449.218v79.783h-370v255.304h330v79.218h-330v125.304h160v79.218h-160v130h-79.218Z"/></svg>', variant: 'sharp', weight: 600 };

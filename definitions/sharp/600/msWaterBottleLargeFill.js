@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWaterBottleLargeFill = exports.msWaterBottleLargeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M192.652-64.173V-317.74h80v-188.13h-80v-253.566h207.739v-60h-50v-79.218h259.218v79.218h-50v60h208.304v253.566h-80v188.13h80v253.566H192.652Z"/></svg>', variant: 'sharp', weight: 600 };

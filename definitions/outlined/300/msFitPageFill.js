@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFitPageFill = exports.msFitPageFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-679.998h50v679.998h-50Zm629.998 0v-679.998h50v679.998h-50ZM297.693-455v-50h50v50h-50ZM455-140.001v-50h50v50h-50Zm0-157.692v-50h50v50h-50ZM455-455v-50h50v50h-50Zm0-157.692v-49.999h50v49.999h-50Zm0-157.307v-50h50v50h-50ZM612.692-455v-50h49.999v50h-49.999Z"/></svg>', variant: 'outlined', weight: 300 };

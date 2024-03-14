@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMoreDownFill = exports.msMoreDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M194.5-194.5v-448.13h68.13v380h380v68.13H194.5Zm202.87-202.87V-845.5h68.13v380h380v68.13H397.37Z"/></svg>', variant: 'outlined', weight: 500 };

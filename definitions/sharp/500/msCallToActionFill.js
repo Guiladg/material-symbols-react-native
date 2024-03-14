@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallToActionFill = exports.msCallToActionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M236-276.152h488v-105H236v105ZM74.022-154.022v-652.196h812.196v652.196H74.022Z"/></svg>', variant: 'sharp', weight: 500 };

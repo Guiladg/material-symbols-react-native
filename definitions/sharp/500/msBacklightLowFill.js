@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBacklightLowFill = exports.msBacklightLowFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M75.935-370v-68.37h118.13V-370H75.935ZM261-575.326l-90.978-90.739L218-714.044l90.978 90.979L261-575.326Zm14.935 343.457V-340h408.13v108.131h-408.13Zm170-448.131v-128.37h68.13V-680h-68.13ZM698-574.326l-47.739-48.739L741-714.044l47.739 48.979L698-574.326ZM765.935-370v-68.37h118.13V-370h-118.13Z"/></svg>', variant: 'sharp', weight: 500 };

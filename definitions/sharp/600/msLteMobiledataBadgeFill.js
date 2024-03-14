@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLteMobiledataBadgeFill = exports.msLteMobiledataBadgeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M165.087-313.782H341.87V-380H231.305v-266.218h-66.218v332.436Zm241.783 0h66.782V-580h76.522v-66.218H325.826V-580h81.044v266.218Zm207.304 0h180.739V-380H680.391v-70h74.522v-60h-74.522v-70h114.522v-66.218H614.174v332.436ZM25.869-105.869v-748.827h908.827v748.827H25.869Z"/></svg>', variant: 'sharp', weight: 600 };

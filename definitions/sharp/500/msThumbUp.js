@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msThumbUp = exports.msThumbUp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M266.5-109.717v-518.696l275.369-285.369 64.457 50.065-51.761 235.304h364.979v169.087L767.957-109.717H266.5Zm65.5-68.131h392.456l126.479-300.195v-82.239H473.152L524-800.434 332-597.435v419.587Zm0-419.587v419.587-419.587ZM70.87-109.717v-518.696H266.5v68.131H139v382.434h127.5v68.131H70.87Z"/></svg>', variant: 'sharp', weight: 500 };

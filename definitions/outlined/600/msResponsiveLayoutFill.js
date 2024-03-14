@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msResponsiveLayoutFill = exports.msResponsiveLayoutFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M636.305-105.869v-533.827H369.609v-221.218h487.914v755.045H636.305Zm-266.696 0v-454.044h186.912v454.044H369.609Zm-267.132 0v-454.044H290.39v454.044H102.477Z"/></svg>', variant: 'outlined', weight: 600 };

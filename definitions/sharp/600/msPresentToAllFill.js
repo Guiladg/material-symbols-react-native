@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPresentToAllFill = exports.msPresentToAllFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M446.478-318.956h68.609V-511.26l75.043 77.608 49.783-49.218-160.348-159.348L319.652-482.87l49.783 49.218 77.043-77.043v191.739ZM65.868-145.869v-668.827h828.828v668.827H65.869Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowInsert = exports.msArrowInsert = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M718.385-258.693 304.077-672.616v382.615h-45.384v-459.998h459.999v45.383H336.076l413.923 414.308-31.614 31.615Z"/></svg>', variant: 'outlined', weight: 300 };

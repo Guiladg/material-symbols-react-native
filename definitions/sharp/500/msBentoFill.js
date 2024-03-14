@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBentoFill = exports.msBentoFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M614.065-514.065h270v-250h-270v250Zm-538.13 318.13h470v-568.13h-470v568.13Zm235.014-230q-21.688 0-37.884-16.181-16.196-16.182-16.196-38.37t16.182-37.884q16.182-15.695 38.37-15.695t37.883 15.765Q365-502.535 365-480.014q0 21.688-15.765 37.884-15.765 16.195-38.286 16.195Zm303.116 230h270v-250h-270v250Z"/></svg>', variant: 'sharp', weight: 500 };

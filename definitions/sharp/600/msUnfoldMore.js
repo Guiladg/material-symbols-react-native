@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUnfoldMore = exports.msUnfoldMore = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-106.434 285.304-301.13l57.566-57.566L480-221.001l137.13-137.695 57.566 57.566L480-106.434ZM342.87-598.999 285.304-656 480-850.696 674.696-656l-57.566 57.001L480-736.13 342.87-598.999Z"/></svg>', variant: 'sharp', weight: 600 };

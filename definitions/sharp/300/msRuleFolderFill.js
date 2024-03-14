@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRuleFolderFill = exports.msRuleFolderFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-180.001v-599.998h307.152l65.385 65.385h387.461v534.613H100.001ZM313-344l173.615-173.615L454-550.23 312.385-408.614l-56.616-56.616-31.999 32L313-344Zm263 0 64-64 64 64 31.615-31.615-64-64 64-64L704-535.23l-64 64-64-64-31.615 31.615 64 64-64 64L576-344Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhotoAlbumFill = exports.msPhotoAlbumFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M154.022-74.022v-812.196h652.196v812.196H154.022ZM284-237h397L553-408 448-272l-70-88-94 123Zm202.478-314.848 97-56 97 56v-266h-194v266Z"/></svg>', variant: 'sharp', weight: 500 };

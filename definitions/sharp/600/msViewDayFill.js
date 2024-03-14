@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewDayFill = exports.msViewDayFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M99.086-132.868v-79.784h761.828v79.784H99.086Zm0-184.001v-326.827h761.828v326.827H99.086Zm0-431.044v-79.219h761.828v79.219H99.086Z"/></svg>', variant: 'sharp', weight: 600 };

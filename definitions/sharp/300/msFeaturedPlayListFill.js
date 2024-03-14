@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFeaturedPlayListFill = exports.msFeaturedPlayListFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M247.77-460.154h340.614v-45.384H247.77v45.384Zm0-126.692h340.614v-45.384H247.77v45.384ZM100.001-180.001v-599.998h759.998v599.998H100.001Z"/></svg>', variant: 'sharp', weight: 300 };

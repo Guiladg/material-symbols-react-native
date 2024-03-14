@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExpandLessFill = exports.msExpandLessFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m283-339.5-48.739-48.739L480-633.978l245.739 244.739L677-340.5l-197-197-197 198Z"/></svg>', variant: 'outlined', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMarkunreadMailbox = exports.msMarkunreadMailbox = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M252.309-412.384v-151.462H145.385v418.461h669.23v-418.461H370.77v-45.384h489.229v509.229H100.001V-609.23h152.308v-250.769h275.382v152.308H297.692v295.307h-45.383ZM145.385-563.846v151.462-151.462 418.461-418.461Z"/></svg>', variant: 'sharp', weight: 300 };

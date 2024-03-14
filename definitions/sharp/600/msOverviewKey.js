@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOverviewKey = exports.msOverviewKey = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M27-185.869v-588.827h588.827v588.827H26.999Zm79.218-79.218h429.825v-429.826H106.218v429.826Zm601.695 79.218v-588.827h66.783v588.827h-66.783Zm158.305 0v-588.827h66.783v588.827h-66.783Zm-760-79.218v-429.826 429.826Z"/></svg>', variant: 'sharp', weight: 600 };

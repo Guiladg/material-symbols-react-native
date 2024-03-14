@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msElectricBoltFill = exports.msElectricBoltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m280.022-73.022 168.13-304.847-341.304-40.957 508.391-468.392h64.739L510.891-580.935l342.022 40.717L344.761-73.022h-64.739Z"/></svg>', variant: 'sharp', weight: 500 };

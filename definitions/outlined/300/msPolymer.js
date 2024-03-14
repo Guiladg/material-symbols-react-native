@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPolymer = exports.msPolymer = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M219.54-184.617 55.387-480 221.54-775.383h130.846L186.848-480l108.076 193.306 299.767-488.689h143.154L904.613-480 738.46-184.617H607.614L773.152-480 664.46-672.075 365.539-184.617H219.54Z"/></svg>', variant: 'outlined', weight: 300 };

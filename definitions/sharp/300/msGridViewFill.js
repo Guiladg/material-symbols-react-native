@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGridViewFill = exports.msGridViewFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-512.693v-307.306h307.306v307.306H140.001Zm0 372.692v-307.306h307.306v307.306H140.001Zm372.692-372.692v-307.306h307.306v307.306H512.693Zm0 372.692v-307.306h307.306v307.306H512.693Z"/></svg>', variant: 'sharp', weight: 300 };

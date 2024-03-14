@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msApprovalFill = exports.msApprovalFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M180.001-130.773v-281.536h599.998v281.536H180.001Zm45.384-139.998h509.23v-96.154h-509.23v96.154ZM480-412.309 300.617-660.768v-3.846q0-74.923 52.358-127.461T480-844.613q74.667 0 127.025 52.538 52.358 52.538 52.358 127.461v3.846L480-412.309Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNewLabel = exports.msNewLabel = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M444.065-194.022v-68.13h164.544L760.935-480 608.564-697.848H182.152v173.783h-68.13v-242.153h529.652L846.218-480 643.674-194.022H444.065ZM472.043-480ZM195.935-155.935v-120h-120v-68.13h120v-120h68.13v120h120v68.13h-120v120h-68.13Z"/></svg>', variant: 'sharp', weight: 500 };

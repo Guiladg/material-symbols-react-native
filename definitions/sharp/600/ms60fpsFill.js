@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms60fpsFill = exports.ms60fpsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M73.782-196.609v-566.782H372v86.782H160v131.218h255v348.782H73.782ZM160-283.391h168.782v-175.218H160v175.218Zm428.218 0H800v-393.218H588.218v393.218ZM502-196.609v-566.782h384.218v566.782H502Z"/></svg>', variant: 'sharp', weight: 600 };

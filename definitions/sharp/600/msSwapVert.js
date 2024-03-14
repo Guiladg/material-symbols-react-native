@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwapVert = exports.msSwapVert = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M312.26-449.435V-743.39L201.435-631.999l-55.566-55.566 206.566-207.131 206.566 207.131-55.566 55.566L392.044-743.39v293.955H312.26ZM608.13-65.869 401.565-272.435l55.565-55.566 110.826 110.826V-511.13h79.784v293.955l111.39-110.826 55.566 55.566L608.13-65.869Z"/></svg>', variant: 'sharp', weight: 600 };

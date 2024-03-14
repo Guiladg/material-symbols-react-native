@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCollapseContent = exports.msCollapseContent = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M445.087-445.652v259.783h-79.218v-180h-180v-79.783h259.218Zm149.609-329.044v180h180v79.783H514.913v-259.783h79.783Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatTextOverflow = exports.msFormatTextOverflow = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M185.002-170.001v-619.998h45.383v619.998h-45.383Zm472.382-193.384L625.769-395l62.308-62.308H340.386v-45.384h347.691L625.769-565l31.615-31.999L774.998-480 657.384-363.385ZM496.538-170.001v-177.306h45.384v177.306h-45.384Zm0-442.692v-177.306h45.384v177.306h-45.384Z"/></svg>', variant: 'outlined', weight: 300 };

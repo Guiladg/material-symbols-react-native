@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHowToVoteFill = exports.msHowToVoteFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.782-67v-271l146.87-160.87 56.566 57.131L187.913-315h584.739L662.217-439.87l57.131-57.131L859.784-338v271H100.782ZM483.87-340.87 224.912-604.218l315.523-315.523 260.653 261.653L483.87-340.87ZM483-462.262l198.956-198.956-141.521-139.826-198.956 198.956L483-462.262Z"/></svg>', variant: 'sharp', weight: 600 };

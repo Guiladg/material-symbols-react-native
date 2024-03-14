@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChevronLeftFill = exports.msChevronLeftFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M561-226.434 306.434-481 561-735.566 617.566-679l-198 198 198 198L561-226.434Z"/></svg>', variant: 'outlined', weight: 600 };

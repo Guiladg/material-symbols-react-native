@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatUnderlined = exports.msFormatUnderlined = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M190.391-106.085v-79.784h579.218v79.784H190.391ZM480-259.086q-108.479 0-171.196-61.891-62.718-61.892-62.718-168.675v-348.652h101.088v345.826q0 63 35.413 99.022Q418-357.435 480-357.435t97.413-36.021q35.413-36.022 35.413-99.022v-345.826h101.653v348.652q0 106.783-63 168.675-63 61.891-171.479 61.891Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextFields = exports.msTextFields = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M276.999-146.999V-700h-210v-113.001H600V-700H390v553.001H276.999Zm373.001 0v-340H520V-600h373.001v113.001h-130v340H650Z"/></svg>', variant: 'outlined', weight: 600 };

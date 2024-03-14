@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlutter = exports.msFlutter = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M221.869-335.956 77.39-480l468.334-468.262h288.451L221.869-335.956ZM545.652-11.738 293.391-263.999l252.295-252.262h288.489L581.851-263.999 834.175-11.738H545.652Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlaylistRemove = exports.msPlaylistRemove = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M570.043-74.26 521.304-123l114-113-114-113 48.739-48.739 113 114 113-114L845.022-349l-114 113 114 113-48.979 48.74-113-114.001-113 114ZM114.978-323.305v-68.37h311.24v68.37h-311.24Zm0-170.739v-68.131h478.37v68.131h-478.37Zm0-170.501v-68.13h478.37v68.13h-478.37Z"/></svg>', variant: 'outlined', weight: 500 };

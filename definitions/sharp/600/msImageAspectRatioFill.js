@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msImageAspectRatioFill = exports.msImageAspectRatioFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M239.87-497.87h66.217v-66.217H239.87v66.217Zm170 0h66.217v-66.217H409.87v66.217Zm168 175h66.217v-66.217H577.87v66.217Zm0-175h66.217v-66.217H577.87v66.217ZM65.869-145.869v-668.827h828.827v668.827H65.869Z"/></svg>', variant: 'sharp', weight: 600 };

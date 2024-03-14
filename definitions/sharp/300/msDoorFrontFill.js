@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDoorFrontFill = exports.msDoorFrontFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001h679.998v-45.384h-80v-634.614H220.001v634.614h-80v45.384Zm429.692-311.307q-13.297 0-22.11-8.813-8.813-8.814-8.813-22.11t8.813-22.109q8.813-8.814 22.11-8.814 13.296 0 22.109 8.814 8.813 8.813 8.813 22.109 0 13.296-8.813 22.11-8.813 8.813-22.109 8.813Z"/></svg>', variant: 'sharp', weight: 300 };

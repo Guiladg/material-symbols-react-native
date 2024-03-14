@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowForwardFill = exports.msArrowForwardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M662.825-440.391H145.869v-79.218h516.956L423.869-758.565 480-814.696 814.696-480 480-145.869l-56.131-55.566 238.956-238.956Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMergeTypeFill = exports.msMergeTypeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M682-145.869 436.391-391.478v-310.477L324-589.565l-56.566-56.565L476-854.696 684.566-646.13 628-589.565l-112.391-112.39v278.129l221.957 221.391L682-145.869Zm-409.565 0-56.001-56.566 162-162 56.001 56.566-162 162Z"/></svg>', variant: 'sharp', weight: 600 };

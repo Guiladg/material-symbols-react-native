@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSpellcheck = exports.msSpellcheck = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M563-66.434 397.782-231.652l53.305-53.87L563-173.609l234.913-234.913 53.305 53.87L563-66.434ZM111.521-312l202.261-527h80.131l201.696 527h-81.131l-53.435-139.739H239.13L186.261-312h-74.74Zm147.74-202.826h182.217L352.87-759.782h-5l-88.609 244.956Z"/></svg>', variant: 'outlined', weight: 600 };

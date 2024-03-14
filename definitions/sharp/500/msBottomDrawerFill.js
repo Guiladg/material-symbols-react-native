@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBottomDrawerFill = exports.msBottomDrawerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114.022-114.022v-732.196h732.196v732.196H114.022Zm68.13-663.826v360.913l57.326-57.087h481.283l57.087 57.087v-360.913H182.152Z"/></svg>', variant: 'sharp', weight: 500 };

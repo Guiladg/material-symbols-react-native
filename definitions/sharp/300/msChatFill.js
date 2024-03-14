@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChatFill = exports.msChatFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-118.464v-741.535h759.998v599.998h-618.46L100.001-118.464Zm150-290.921h294.921v-45.384H250.001v45.384Zm0-127.308h459.998v-45.383H250.001v45.383Zm0-127.307h459.998v-45.384H250.001V-664Z"/></svg>', variant: 'sharp', weight: 300 };

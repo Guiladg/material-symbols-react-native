@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGarageHomeFill = exports.msGarageHomeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-105.869v-501.479L480-858.088l334.696 250.74v501.479H674.913v-419.218H285.087v419.218H145.869Zm212.219-73.001h243.824v-100.39H358.088v100.39Zm0-173.391h243.824v-100.391H358.088v100.391Z"/></svg>', variant: 'outlined', weight: 600 };

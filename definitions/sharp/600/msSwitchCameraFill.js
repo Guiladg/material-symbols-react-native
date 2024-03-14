@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwitchCameraFill = exports.msSwitchCameraFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-105.869v-661.827h213.783l78.652-87h243.392l79.217 87h213.783v661.827H65.869ZM373.39-280l45-47-83-84h288.218l-84 84 47 47 156-156-156-157-45 45 81 79H335.391l81-79-43-46-156 158 156 156Z"/></svg>', variant: 'sharp', weight: 600 };

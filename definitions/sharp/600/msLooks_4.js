@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLooks_4 = exports.msLooks_4 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-105.869v-748.827h748.827v748.827H105.869Zm79.218-79.218h589.826v-589.826H185.087v589.826Zm0 0v-589.826 589.826ZM535-277h66.218v-406H535v167.609H425V-683h-66.218v234.391H535V-277Z"/></svg>', variant: 'sharp', weight: 600 };

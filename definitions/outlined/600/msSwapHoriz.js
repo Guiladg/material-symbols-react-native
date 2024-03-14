@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSwapHoriz = exports.msSwapHoriz = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M272.435-145.869 65.869-352.435l206.566-206.566 55.566 55.566-110.826 111.391H511.13v79.784H217.175l110.826 110.825-55.566 55.566Zm415.13-255.696-55.566-55.565L743.39-567.956H449.435v-79.784H743.39L631.999-759.13l55.566-55.566L894.696-608.13 687.565-401.565Z"/></svg>', variant: 'outlined', weight: 600 };

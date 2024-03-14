@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUpgradeFill = exports.msUpgradeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M270.391-145.869v-79.218h419.218v79.218H270.391Zm170-189.218v-345.826L329-569.522l-55.566-55.566L480-831.654l206.566 206.566L631-569.522 519.609-680.913v345.826h-79.218Z"/></svg>', variant: 'outlined', weight: 600 };

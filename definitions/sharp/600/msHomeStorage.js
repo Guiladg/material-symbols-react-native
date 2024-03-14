@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHomeStorage = exports.msHomeStorage = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M192.652-92.303 109.826-589.26h740.348L767.348-92.303H192.652Zm66.957-79.784h441.347l53.609-337.955H206.001l53.608 337.955Zm100.782-175.129h239.218v-79.783H360.391v79.783Zm-160-302.044v-79.219h559.218v79.219H200.391Zm80-139.219v-79.783h399.218v79.783H280.391Zm-20.782 616.392h441.347-441.347Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAutoAwesomeMotionFill = exports.msAutoAwesomeMotionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M306.999-53.999V-653h599.002v599.002H306.999ZM180.782-179.782v-600.002h599.436V-700H260v520.218h-79.218Zm-126.783-120v-606.219h606.219v79.783H133.782v526.436H53.999Z"/></svg>', variant: 'sharp', weight: 600 };

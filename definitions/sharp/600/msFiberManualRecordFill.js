@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFiberManualRecordFill = exports.msFiberManualRecordFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M479.987-185.869q-120.83 0-207.474-86.561-86.644-86.562-86.644-207.392t86.561-207.852q86.562-87.022 207.392-87.022t207.852 86.939q87.022 86.939 87.022 207.77 0 120.83-86.939 207.474-86.939 86.644-207.77 86.644Z"/></svg>', variant: 'sharp', weight: 600 };

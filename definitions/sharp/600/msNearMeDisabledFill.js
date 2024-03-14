@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNearMeDisabledFill = exports.msNearMeDisabledFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M509.477-105.869 394.347-402.26 97.955-517.391v-62.218l224.349-84.392-221.827-222.391 46.957-46.957 785.915 785.915-46.957 46.957-230.305-229.175-83.826 223.783h-62.784ZM708.74-466.522 458.609-716.088l403.436-153.87L708.74-466.522Z"/></svg>', variant: 'sharp', weight: 600 };

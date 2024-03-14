@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msThermostatCarbonFill = exports.msThermostatCarbonFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-41.152 41.152-480 480-918.848 918.848-480 480-41.152Z"/></svg>', variant: 'sharp', weight: 500 };

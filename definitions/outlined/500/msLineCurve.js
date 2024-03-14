@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineCurve = exports.msLineCurve = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M725.935-155.935q0-118.175-45-222.087-45-103.913-122-180.913-77-77-180.913-122-103.912-45-222.087-45v-68.13q132.674 0 248.601 50.225 115.928 50.226 202.5 136.754 86.573 86.527 136.801 202.53 50.228 116.004 50.228 248.621h-68.13Z"/></svg>', variant: 'outlined', weight: 500 };

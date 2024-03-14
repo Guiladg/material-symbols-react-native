@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAddRoad = exports.msAddRoad = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M734.5-38.565V-154.5H618.565v-68.13H734.5v-115.935h68.13v115.935h115.935v68.13H802.63v115.935H734.5Zm0-396.37V-805.5h68.13v370.565H734.5ZM143.5-154.5v-651h68.369v651H143.5ZM439-653v-152.5h68.37V-653H439Zm0 248.63v-152.26h68.37v152.26H439Zm0 249.87V-308h68.37v153.5H439Z"/></svg>', variant: 'outlined', weight: 500 };

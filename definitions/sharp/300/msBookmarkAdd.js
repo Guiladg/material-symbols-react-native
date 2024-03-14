@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBookmarkAdd = exports.msBookmarkAdd = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-261.668 220.001-150.002v-673.843h321.921v45.384H265.385v558.999L480-310.539l214.615 91.077v-318.999h45.384v388.459L480-261.668ZM265.385-778.461h276.537H265.385Zm429.23 174.615v-87.308h-87.308v-45.383h87.308v-87.308h45.384v87.308h87.307v45.383h-87.307v87.308h-45.384Z"/></svg>', variant: 'sharp', weight: 300 };

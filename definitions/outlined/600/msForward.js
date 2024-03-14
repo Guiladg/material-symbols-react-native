@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msForward = exports.msForward = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M645.13-274.434 588.565-331l193-193-193-193 56.565-56.566L894.696-524 645.13-274.434ZM66.869-185.869V-356q0-88.391 59.326-148 59.326-59.609 148.283-59.609h259.78L381.433-717l56-56.566L686.999-524 437.433-274.434l-56-56.566 152.825-153.391h-259.78q-56.608 0-92.5 35.891-35.891 35.891-35.891 92.5v170.131H66.869Z"/></svg>', variant: 'outlined', weight: 600 };

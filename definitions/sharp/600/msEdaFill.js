@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEdaFill = exports.msEdaFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M112.652-32.652V-333h242.913L472.26-177.697l150.173-150.608L827.391-444.74l99.914 90.61L605.744-32.652H112.652ZM276.26-490v-397.913h75.262v392.826h91.521v-432.826h75.044v432.826h90.956v-352.826h75.479v396.129L486.304-259.088 382.739-396.392H127.913v-435.827l54.348 15.262L192.435-490h83.825Z"/></svg>', variant: 'sharp', weight: 600 };

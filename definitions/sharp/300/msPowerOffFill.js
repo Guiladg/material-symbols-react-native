@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPowerOffFill = exports.msPowerOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M397.001-140.001v-111.462l-137-147.153v-248.459h48.384v64.383l-236-236.001 31.999-31.999 746.154 746.154-31.615 32-218.539-218.54-37.385 39.615v111.462H397.001Zm281.921-228.461L363.155-684.229v-135.77h45.384v167.923h142.922v-167.923h45.384v167.923h103.154v259.691l-21.077 23.923Z"/></svg>', variant: 'sharp', weight: 300 };

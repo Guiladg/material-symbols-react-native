@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewCompactAlt = exports.msViewCompactAlt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M318.782-318.782H465V-465H318.782v146.218Zm0-176.218H465v-146.218H318.782V-495ZM495-318.782h146.218V-465H495v146.218ZM495-495h146.218v-146.218H495V-495ZM65.869-145.869v-668.827h828.827v668.827H65.869Zm79.218-79.218h669.826v-509.826H145.087v509.826Zm0 0v-509.826 509.826Z"/></svg>', variant: 'sharp', weight: 600 };

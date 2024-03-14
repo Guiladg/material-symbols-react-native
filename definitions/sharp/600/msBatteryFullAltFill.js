@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBatteryFullAltFill = exports.msBatteryFullAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M129.869-262.477v-127.914h-64v-179.218h64v-127.914h764.827v435.046H129.869Z"/></svg>', variant: 'sharp', weight: 600 };

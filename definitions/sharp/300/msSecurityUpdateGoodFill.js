@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSecurityUpdateGoodFill = exports.msSecurityUpdateGoodFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M442-373.847 343.847-472l31.999-31.999L442-437.846l152.154-152.153L626.153-558 442-373.847ZM220.001-60.002v-839.997h519.998v839.998H220.001Zm45.384-133.46h429.23v-573.076h-429.23v573.076Z"/></svg>', variant: 'sharp', weight: 300 };

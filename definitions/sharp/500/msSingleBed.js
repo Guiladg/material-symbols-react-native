@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSingleBed = exports.msSingleBed = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M260.544-190.435h-39.391l-19.697-83.587h-47.434v-287h86v-205.196h479.196v205.196h87v287h-47.674l-19.783 83.587h-39.522l-19.783-83.587H281.544l-21 83.587ZM510-556h140.848v-141.848H510V-556Zm-201.848 0H450v-141.848H308.152V-556Zm-86 213.848h515.696V-496H222.152v153.848Zm515.696 0H222.152h515.696Z"/></svg>', variant: 'sharp', weight: 500 };

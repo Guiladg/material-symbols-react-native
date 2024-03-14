@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCasesFill = exports.msCasesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M27-53.999v-538.783h79.218v459H709v79.783H27Zm130.739-130.174V-778h236.913v-155.001h301.436V-778h236.913v593.827H157.739ZM473.87-778h143v-75.782h-143V-778Z"/></svg>', variant: 'sharp', weight: 600 };

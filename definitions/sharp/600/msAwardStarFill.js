@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAwardStarFill = exports.msAwardStarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m363-310 117-71 117 71-31-133 104-90-137-11-53-126-53 126-137 11 104 90-31 133ZM481-13.173 343.739-145.87h-197.87v-197.87L10.173-480 145.87-616.261v-198.435h197.87L481-950.392l135.261 135.696h198.435v198.435L950.392-480 814.696-343.739v197.87H616.261L481-13.173Z"/></svg>', variant: 'sharp', weight: 600 };

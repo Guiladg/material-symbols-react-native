@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTamperDetectionOnFill = exports.msTamperDetectionOnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M448.479-204.348v-423.74H65.869v-245.087h668.827v289.696l160-160v410l-160-160v289.131H448.479Zm-80 63.697H130.696l-132.87-132.87 36.26-34.957 71.392 72.522v-287.479h46.218v156.392h26.043v-216.392h46.783v216.392H250v-176.392h46.218v176.392h26.043v-130.175h46.218v356.567Z"/></svg>', variant: 'sharp', weight: 600 };

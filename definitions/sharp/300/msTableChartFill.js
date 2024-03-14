@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTableChartFill = exports.msTableChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-629.384v-190.615h679.998v190.615H140.001Zm0 488.767V-584H315v443.383H140.001Zm504.999 0V-584h174.999v443.383H645Zm-284.616 0V-584h239.232v443.383H360.384Z"/></svg>', variant: 'sharp', weight: 300 };

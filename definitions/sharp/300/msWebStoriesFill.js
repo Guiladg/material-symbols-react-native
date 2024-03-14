@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWebStoriesFill = exports.msWebStoriesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M696.923-153.463v-653.459h53.076v653.459h-53.076ZM122.311-95.386v-769.228h499.998v769.228H122.311ZM824.613-211.77v-535.845h33.076v535.845h-33.076Z"/></svg>', variant: 'sharp', weight: 300 };

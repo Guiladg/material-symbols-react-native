@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowBackFill = exports.msArrowBackFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m266.307-457.308 245.692 245.307-31.999 32L180.001-480 480-779.999l31.999 32-245.692 245.307h513.692v45.384H266.307Z"/></svg>', variant: 'sharp', weight: 300 };

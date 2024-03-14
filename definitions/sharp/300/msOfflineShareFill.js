@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOfflineShareFill = exports.msOfflineShareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M190.002-72.31V-745.77h45.384v628.075h448.151v45.384H190.002ZM300.771-183.08v-709.227h469.227v709.227H300.771Zm45.383-155.382h378.46v-398.462h-378.46v398.462Zm71.539-107.386v-116.692H583l-43.692-43.692 29.076-29.076 93.769 93.383-93.769 93.769-29.076-29.076L583-521.539H458.692v75.692h-40.999Z"/></svg>', variant: 'sharp', weight: 300 };

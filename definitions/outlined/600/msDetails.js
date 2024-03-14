@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDetails = exports.msDetails = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M53.999-105.869 480-871.654l426.001 765.785H53.999Zm135.349-79.218h251.043v-451.477L189.348-185.087Zm330.261 0h251.043L519.609-636.564v451.477Z"/></svg>', variant: 'outlined', weight: 600 };

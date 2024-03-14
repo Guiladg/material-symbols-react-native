@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms18UpRatingFill = exports.ms18UpRatingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M343.308-366.154h40.384v-227.692H281.078v40.384h62.23v187.308Zm127.308 0H631v-227.692H470.616v227.692ZM511-399.923v-64h79.616v64H511Zm0-96.154v-64h79.616v64H511ZM140.001-140.001v-679.998h679.998v679.998H140.001Z"/></svg>', variant: 'sharp', weight: 300 };

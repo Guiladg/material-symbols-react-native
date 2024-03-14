@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChromeReaderModeFill = exports.msChromeReaderModeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869v-668.827h828.827v668.827H65.869Zm447.522-79.218h301.522v-509.826H513.391v509.826Zm44-354.304h214.522v-56.218H557.391v56.218Zm0 115.782h214.522v-56.782H557.391v56.782Zm0 115.218h214.522v-56.218H557.391v56.218Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowDropDown = exports.msArrowDropDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M459.024-367.41 291.237-534.197q-3.064-3.064-4.847-6.598-1.782-3.534-1.782-7.411 0-8.577 5.637-14.49t14.45-5.913h350.61q8.813 0 14.45 6.049 5.637 6.05 5.637 14.493 0 2.11-6.696 13.937L500.974-367.408q-4.017 4.017-9.544 6.3-5.527 2.282-11.481 2.282t-11.43-2.282q-5.476-2.283-9.495-6.302Z"/></svg>', variant: 'rounded', weight: 600 };

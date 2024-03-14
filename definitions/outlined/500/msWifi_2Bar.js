@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWifi_2Bar = exports.msWifi_2Bar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-127q-36 0-63-27t-27-63q0-36 27-63t63-27q36 0 63 27t27 63q0 36-27 63t-63 27ZM235.826-353.174 169-419.761q70-70 146.5-105.119Q392-560 480-560t164.5 35Q721-490 791-420l-66.826 66.826q-61-60.522-121.565-85.924Q542.043-464.5 480-464.5q-62.043 0-122.609 25.402-60.565 25.402-121.565 85.924Z"/></svg>', variant: 'outlined', weight: 500 };

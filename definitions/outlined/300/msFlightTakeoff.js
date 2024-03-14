@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFlightTakeoff = exports.msFlightTakeoff = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-45.384h679.998v45.384H140.001Zm55.154-187.614-94.538-161.922 34.538-6.847 70.769 62 222.538-59.846L259.77-777.768l45.691-13.538 281.923 253.154 209.846-55.693q23.538-6.846 42.846 8.346 19.307 15.193 19.307 39.962 0 16.692-9.769 29.768-9.769 13.077-25.461 17.308L195.155-327.615Z"/></svg>', variant: 'outlined', weight: 300 };

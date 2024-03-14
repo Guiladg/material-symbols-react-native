@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHealthMetricsFill = exports.msHealthMetricsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M260.782-69.26v-191.522H69.26v-181.305H345.18l95.473 123.261h13.696l77.348-199.478 59.391 76.217h300.218v181.305H699.784V-69.26H260.782ZM433.696-436.61l-58.826-76.217H69.26v-186.958h191.522v-191.521h439.002v191.521h191.521v186.958H620.261l-94.957-124.826H511.74l-78.044 201.043Z"/></svg>', variant: 'sharp', weight: 600 };

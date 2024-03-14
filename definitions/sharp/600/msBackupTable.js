@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackupTable = exports.msBackupTable = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M274.696-274.696h241.522v-241.522H274.696v241.522Zm0-308.305h549.826v-241.521H274.696v241.521Zm308.305 308.305h241.521v-241.522H583.001v241.522Zm-387.523 79.218v-708.828h708.828v708.828H195.478ZM55.694-55.694v-708.828h79.784v629.044h629.044v79.784H55.694Z"/></svg>', variant: 'sharp', weight: 600 };

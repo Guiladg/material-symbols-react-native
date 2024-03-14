@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTabCloseFill = exports.msTabCloseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m465.609-410.043 84-84 84 84 56.131-55.566-84-84 84-84-56.131-56.131-84 84-84-84-55.566 56.131 84 84-84 84 55.566 55.566ZM195.478-195.478v-708.828h708.828v708.828H195.478ZM55.694-55.694v-708.828h79.784v629.044h629.044v79.784H55.694Z"/></svg>', variant: 'sharp', weight: 600 };

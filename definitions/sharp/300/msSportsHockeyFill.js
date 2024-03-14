@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSportsHockeyFill = exports.msSportsHockeyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M95.386-177.694v-99.228h57.692v99.228H95.386Zm100.538 0v-99.228h175l43.385-95.539 34.768 67.767-58.308 127H195.924Zm610.998 0v-99.228h57.692v99.228h-57.692Zm-42.846 0H569.231L295.694-782.306h63.767L480-516.536l120.539-265.77h63.767L513.153-445.077l75.923 168.155h175v99.228Z"/></svg>', variant: 'sharp', weight: 300 };

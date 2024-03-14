@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHeatPumpBalanceFill = exports.msHeatPumpBalanceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M170.001-672.921v428.073H379.23v-382.69h118.078v382.69h209.23v-422.69h153.694l-65.693 63.308 31.615 32.615L945.768-690.23 826.154-809.844l-31.615 32.614 64.308 64.309H661.154v422.69H542.692v-382.69H333.847v382.69H215.384v-382.69h-45.383Zm-110 556.92v-365.768H900v365.768H60.001Z"/></svg>', variant: 'sharp', weight: 300 };

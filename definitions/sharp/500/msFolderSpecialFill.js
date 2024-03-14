@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFolderSpecialFill = exports.msFolderSpecialFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m508-301 88-61 87 61-33-106 87-73H631l-35-104-36 104H454l87 73-33 106ZM74.022-154.022v-652.196H418.37l62.63 62.87h405.218v589.326H74.022Z"/></svg>', variant: 'sharp', weight: 500 };

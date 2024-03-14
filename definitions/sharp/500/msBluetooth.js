@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBluetooth = exports.msBluetooth = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M448.565-92.087V-404.89L256-212.087 212.087-256l224-224-224-224L256-747.913l192.565 192.565v-312.565H480L695.913-652l-172 172 172 172L480-92.087h-31.435Zm62.87-463.261L608.087-652l-96.652-94.891v191.543Zm0 342L608.087-308l-96.652-96.891v191.543Z"/></svg>', variant: 'sharp', weight: 500 };

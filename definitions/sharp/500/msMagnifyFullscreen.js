@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMagnifyFullscreen = exports.msMagnifyFullscreen = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-154.022v-652.196h812.196v652.196H74.022Zm68.13-68.13h675.696v-515.696H142.152v515.696Zm0 0v-515.696 515.696Zm423.783-173.783h68.13v-90h90v-68.13h-90v-90h-68.13v90h-90v68.13h90v90Z"/></svg>', variant: 'sharp', weight: 500 };

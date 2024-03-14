@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLeftPanelCloseFill = exports.msLeftPanelCloseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M675.435-330.999v-298.002L525.87-480l149.565 149.001ZM403.392-185.087h371.521v-589.826H403.392v589.826Zm-297.523 79.218v-748.827h748.827v748.827H105.869Z"/></svg>', variant: 'sharp', weight: 600 };

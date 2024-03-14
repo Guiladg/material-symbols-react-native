@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInsertPageBreakFill = exports.msInsertPageBreakFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M154.022-74.022v-231.913h652.196v231.913H154.022Zm394.826-557.826h189l-189-186v186ZM348.565-365.935v-68.13h262.87v68.13h-262.87Zm322.87 0v-68.13h252.63v68.13h-252.63Zm-635.5 0v-68.13h252.63v68.13H35.935Zm118.087-128.13v-392.153H583.63L806.218-663.63v169.565H154.022Z"/></svg>', variant: 'sharp', weight: 500 };

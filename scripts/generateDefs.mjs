@@ -12,15 +12,17 @@ const weights = readdirSync(iconsDir);
 weights.forEach((weight) => {
 	const variants = readdirSync(`${iconsDir}/${weight}`);
 	variants.forEach((variant) => {
+		if (variant === '.gitkeep') return;
 		const files = readdirSync(`${iconsDir}/${weight}/${variant}`);
 		total = total + files.length;
 	});
 });
 
 // Set progress bar
-const bar = new ProgressBar(':bar (:current/:total) :eta :file', {
+const bar = new ProgressBar(':bar :percentage (:current/:total) :eta secs. remaining. File: :file', {
 	total,
-	complete: '█',
+	complete: '▓',
+	head: '▒',
 	incomplete: '░',
 	width: 30
 });
@@ -29,6 +31,7 @@ const bar = new ProgressBar(':bar (:current/:total) :eta :file', {
 weights.forEach((weight) => {
 	const variants = readdirSync(`${iconsDir}/${weight}`);
 	variants.forEach((variant) => {
+		if (variant === '.gitkeep') return;
 		const path = `${iconsDir}/${weight}/${variant}`;
 		const files = readdirSync(path);
 		files.forEach((file) => {

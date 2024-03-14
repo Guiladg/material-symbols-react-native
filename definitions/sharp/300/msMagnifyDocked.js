@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMagnifyDocked = exports.msMagnifyDocked = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-180.001v-599.998h759.998v599.998H100.001Zm45.384-132.076h669.23v-422.538h-669.23v422.538ZM577.308-410h45.384v-91.154h91.154v-45.384h-91.154v-91.154h-45.384v91.154h-91.154v45.384h91.154V-410Z"/></svg>', variant: 'sharp', weight: 300 };

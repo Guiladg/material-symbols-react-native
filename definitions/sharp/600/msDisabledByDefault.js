@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDisabledByDefault = exports.msDisabledByDefault = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M185.087-185.087h589.826v-589.826H185.087v589.826Zm-79.218 79.218v-748.827h748.827v748.827H105.869ZM336-289.478l144-144 144 144L670.522-336l-144-144 144-144L624-670.522l-144 144-144-144L289.478-624l144 144-144 144L336-289.478ZM185.087-185.087v-589.826 589.826Z"/></svg>', variant: 'sharp', weight: 600 };

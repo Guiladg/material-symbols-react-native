@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFloorLampFill = exports.msFloorLampFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M441.391-200.565V-520H175.695l116.653-376.957h377.87L786.305-520H520.609v319.435h-79.218Zm-120 139.783v-79.783h319.218v79.783H321.391Z"/></svg>', variant: 'sharp', weight: 600 };

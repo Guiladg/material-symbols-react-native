@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStatMinus_3Fill = exports.msStatMinus_3Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-71.522 234.261-317.5 282-365.239 480-167l198-198.239 47.739 47.739L480-71.522Zm0-251.978L234.261-569.239 282-616.978l198 198.239 198-198.239 47.739 47.739L480-323.5Zm0-251.739L234.261-820.978 282-868.718l198 198.239 198-198.239 47.739 47.74L480-575.239Z"/></svg>', variant: 'sharp', weight: 500 };

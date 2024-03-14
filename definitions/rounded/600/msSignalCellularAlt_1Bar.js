@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularAlt_1Bar = exports.msSignalCellularAlt_1Bar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M249.317-145.869q-24.886 0-42.189-17.386-17.302-17.386-17.302-42.223v-106.65q0-25.073 17.478-42.624 17.479-17.551 42.448-17.551t42.413 17.551q17.444 17.551 17.444 42.624v106.65q0 24.837-17.585 42.223t-42.707 17.386Z"/></svg>', variant: 'rounded', weight: 600 };

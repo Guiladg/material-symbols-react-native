@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMapFill = exports.msMapFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m612-105.304-263-93-243.131 97.783V-770.74L349-854.696l263 92 242.696-97.783v670.219L612-105.304Zm-34-95.914v-493.13l-196-66v493.13l196 66Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msHighlighterSize_1 = exports.msHighlighterSize_1 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m261.217-205.217-56-56q-11.826-11.826-11.826-28.283t11.826-28.283l437-437q11.826-11.826 28.283-11.826t28.283 11.826l56 56q11.826 11.826 11.826 28.283t-11.826 28.283l-438 437Q304.957-193.391 289-193.391t-27.783-11.826Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMoveSelectionDownFill = exports.msMoveSelectionDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M235.217-74.022v-490.043h490.044v490.043H235.217Zm0-582.869v-68.131h68.131v68.131h-68.131Zm421.674 0v-68.131h68.37v68.131h-68.37ZM235.217-817.848v-68.37h68.131v68.37h-68.131Zm210.957 0v-68.37h68.13v68.37h-68.13Zm210.717 0v-68.37h68.37v68.37h-68.37Z"/></svg>', variant: 'sharp', weight: 500 };

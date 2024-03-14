@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTextRotationNone = exports.msTextRotationNone = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M157.37-188.587v-65.5h561.934l-52-52 46.066-45.826 130.456 130.457L713.37-90.761l-46.066-45.826 52-52H157.37Zm126.717-215.957 164-440h64.261l164 440h-63.609l-41.565-118.652H387.826L346.5-404.544h-62.413Zm119.739-166.478h152.826l-74.413-213.869h-4l-74.413 213.869Z"/></svg>', variant: 'outlined', weight: 500 };

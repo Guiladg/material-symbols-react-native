@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatStrikethroughFill = exports.msFormatStrikethroughFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-406.043v-60.566h828.827v60.566H65.869ZM420.39-526.609v-168.869H185.869v-119.218h588.827v119.218H540.174v168.869H420.391Zm0 380.74v-200.174h119.783v200.174H420.391Z"/></svg>', variant: 'sharp', weight: 600 };

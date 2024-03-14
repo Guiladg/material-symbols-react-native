@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSip = exports.msSip = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M456.391-357h53.218v-246h-53.218v246Zm113.218 0h50v-89h150v-157h-200v246Zm-380.218 0h200v-148h-150v-48h150v-50h-200v148h150v48h-150v50Zm430.218-139v-57h100v57h-100ZM65.869-145.869v-668.827h828.827v668.827H65.869Zm79.218-79.218h669.826v-509.826H145.087v509.826Zm0 0v-509.826 509.826Z"/></svg>', variant: 'sharp', weight: 600 };

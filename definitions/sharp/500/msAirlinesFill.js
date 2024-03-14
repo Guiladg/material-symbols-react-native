@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAirlinesFill = exports.msAirlinesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m74.022-154.022 444.304-652.196h367.892L765.022-154.022h-691Zm509.262-267.174q33.095 0 56.221-22.838 23.125-22.838 23.125-55.543 0-32.706-22.942-56.086-22.942-23.38-56.383-23.38-33.579 0-56.051 23.189-22.471 23.189-22.471 56.163t22.583 55.734q22.584 22.761 55.918 22.761Z"/></svg>', variant: 'sharp', weight: 500 };

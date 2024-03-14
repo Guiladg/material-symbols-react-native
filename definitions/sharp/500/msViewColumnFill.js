@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewColumnFill = exports.msViewColumnFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M111.869-194.022v-572.196h222.87v572.196h-222.87Zm256.696 0v-572.196h223.109v572.196H368.565Zm256.696 0v-572.196H848.37v572.196H625.261Z"/></svg>', variant: 'sharp', weight: 500 };

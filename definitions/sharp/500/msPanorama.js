@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPanorama = exports.msPanorama = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M74.022-154.022v-652.196h812.196v652.196H74.022Zm68.13-68.13h675.696v-515.696H142.152v515.696ZM232.935-320h495.13L577-524.739l-131 174-92-129L232.935-320Zm-90.783 97.848v-515.696 515.696Z"/></svg>', variant: 'sharp', weight: 500 };

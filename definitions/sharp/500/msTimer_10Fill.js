@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTimer_10Fill = exports.msTimer_10Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M539.304-281.435h184.044v-397.13H539.304v397.13Zm-82.869 82.87v-562.87h349.783v562.87H456.435Zm-202.87 0v-480h-98.543v-82.87h181.413v562.87h-82.87Z"/></svg>', variant: 'sharp', weight: 500 };

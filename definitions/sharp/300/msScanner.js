@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msScanner = exports.msScanner = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m746-445.384-574.614-223.46 15.846-44.999 632.767 246.229v287.613H140.001v-265.383H746Zm28.615 219.999V-400h-589.23v174.615h589.23Zm-386.153-64.616h321.537v-45.383H388.462v45.383Zm-203.077 64.616V-400v174.615Zm59.231-59.231h56.153v-56.153h-56.153v56.153Z"/></svg>', variant: 'sharp', weight: 300 };

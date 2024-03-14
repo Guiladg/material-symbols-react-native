@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTableRestaurantFill = exports.msTableRestaurantFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M690.846-536.155H269.769L255-426.924h450.385l-14.539-109.231ZM176.54-179.617l48.23-356.538H88.925l71.153-247.69h640.229l71.538 247.69h-136l47.615 356.538h-44.999L711.077-381.54H248.923l-27.384 201.923H176.54Z"/></svg>', variant: 'sharp', weight: 300 };

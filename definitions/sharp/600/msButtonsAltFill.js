@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msButtonsAltFill = exports.msButtonsAltFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-225.869v-508.827h828.827v508.827H65.869Zm217.74-133.001h55.782v-92.739h92.739v-56.782h-92.739v-92.739h-55.782v92.739H190.87v56.782h92.739v92.739Z"/></svg>', variant: 'sharp', weight: 600 };

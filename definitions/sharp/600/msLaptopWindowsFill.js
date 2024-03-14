@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLaptopWindowsFill = exports.msLaptopWindowsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M0-139.086v-66.783h146.087v-42H66.869v-606.827h826.827v606.827h-79.783v42H960v66.783H0Z"/></svg>', variant: 'sharp', weight: 600 };

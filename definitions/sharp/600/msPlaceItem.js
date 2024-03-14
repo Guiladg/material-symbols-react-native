@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlaceItem = exports.msPlaceItem = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M97.39-100.782v-595.61h283.001v79.783H176.609V-180h606.782v-436.609H579.609v-79.783h283.566v595.61H97.39ZM480-299.825 294.825-485l56.566-56.566 89 89.565V-960h79.218v507.999l89-89.565L665.175-485 480-299.825Z"/></svg>', variant: 'sharp', weight: 600 };

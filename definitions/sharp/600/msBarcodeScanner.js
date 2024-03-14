@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBarcodeScanner = exports.msBarcodeScanner = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M27-106.999V-302h73v122h122v73.001H27Zm710 0V-180h122v-122h73.001v195.001H737ZM153-231v-499h80v499h-80Zm121 0v-499h42v499h-42Zm122 0v-499h83v499h-83Zm125 0v-499h121v499H521Zm163 0v-499h42v499h-42Zm83 0v-499h38v499h-38ZM27-658v-195.001h195V-780H100v122H27Zm832 0v-122H737v-73.001h195.001V-658H859Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msClosedCaptionFill = exports.msClosedCaptionFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-180.001v-599.998h679.998v599.998H140.001ZM253.847-366.77h189.307v-63.537H402.77v23.153H294.231v-145.692H402.77v23.923h40.384v-64.307H253.847v226.46Zm263.999 0h188.922v-63.537h-40.384v23.153H558.23v-145.692h108.154v23.923h40.384v-64.307H517.846v226.46Z"/></svg>', variant: 'sharp', weight: 300 };

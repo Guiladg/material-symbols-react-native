@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCampingFill = exports.msCampingFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M77.609-75.935V-262.76l360.13-487.174-67.717-91.195 55.695-39.783L480-806.87l55.043-74.043 54.935 39.783-66.717 91.195 359.13 487.174v186.826H77.609Zm247.261-68.13h310.021L480-361 324.87-144.065Z"/></svg>', variant: 'sharp', weight: 500 };

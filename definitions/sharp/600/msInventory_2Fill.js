@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInventory_2Fill = exports.msInventory_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-65.869v-546.783h-40v-282.044h828.827v282.044h-40v546.783H105.869Zm39.218-626.001h670.391v-123.043H145.087v123.043Zm207.565 282.044h255.261v-71.304H352.652v71.304Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msToolsFlatHead = exports.msToolsFlatHead = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M310.391-97.39v-79.784h339.218v79.784H310.391Zm.565-139.219L269.26-533.001l82.261-330.174h256.392l82.827 330.174-41.131 296.392H310.956Zm67.262-77.522h204.13l23.043-166.26H353.609l24.609 166.26Zm-23-245.478h249.564l-55.869-226.609H411.652l-56.434 226.609Zm227.13 245.478h-204.13 204.13Z"/></svg>', variant: 'sharp', weight: 600 };

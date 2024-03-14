@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPenSize_2Fill = exports.msPenSize_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M209.13-209.13q-10.195-10.196-10.195-23.87 0-13.674 10.195-23.87l493.761-494q9.435-9.195 23.609-9.695 14.174-.5 24.37 9.695 10.195 10.196 10.195 23.87 0 13.674-10.195 23.87l-494 494q-10.196 10.195-23.87 10.195-13.674 0-23.87-10.195Z"/></svg>', variant: 'sharp', weight: 500 };

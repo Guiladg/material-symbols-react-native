@@ -18,25 +18,36 @@ It also works with ExpoGo.
 npm install material-symbols-react-native
 ```
 
-3. Install an icon definition package, e.g.: [variant: outlined / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/outlined-400).
+3. Install an icon definition package.
 
 ```sh
-npm install @material-symbols-react-native/outlined-400
+npm install @material-symbols-react-native/variant-000
 ```
 
 <details><summary>Current available definitions</summary>
-[variant: outlined / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/outlined-400)
-[variant: outlined / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/outlined-200)
-[variant: outlined / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/outlined-400)
-[variant: outlined / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/outlined-700)
-[variant: rounded / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/rounded-100)
-[variant: rounded / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/rounded-200)
-[variant: rounded / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/rounded-400)
-[variant: rounded / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/rounded-700)
-[variant: sharp / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/sharp-100)
-[variant: sharp / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/sharp-200)
-[variant: sharp / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/sharp-400)
-[variant: sharp / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/sharp-700)
+
+-  [variant: outlined / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/outlined-400)
+-  [variant: outlined / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/outlined-200)
+-  [variant: outlined / weight: 300](https://www.npmjs.com/package/@material-symbols-react-native/outlined-300)
+-  [variant: outlined / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/outlined-400)
+-  [variant: outlined / weight: 500](https://www.npmjs.com/package/@material-symbols-react-native/outlined-500)
+-  [variant: outlined / weight: 600](https://www.npmjs.com/package/@material-symbols-react-native/outlined-600)
+-  [variant: outlined / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/outlined-700)
+-  [variant: rounded / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/rounded-100)
+-  [variant: rounded / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/rounded-200)
+-  [variant: rounded / weight: 300](https://www.npmjs.com/package/@material-symbols-react-native/rounded-300)
+-  [variant: rounded / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/rounded-400)
+-  [variant: rounded / weight: 500](https://www.npmjs.com/package/@material-symbols-react-native/rounded-500)
+-  [variant: rounded / weight: 600](https://www.npmjs.com/package/@material-symbols-react-native/rounded-600)
+-  [variant: rounded / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/rounded-700)
+-  [variant: sharp / weight: 100](https://www.npmjs.com/package/@material-symbols-react-native/sharp-100)
+-  [variant: sharp / weight: 200](https://www.npmjs.com/package/@material-symbols-react-native/sharp-200)
+-  [variant: sharp / weight: 300](https://www.npmjs.com/package/@material-symbols-react-native/sharp-300)
+-  [variant: sharp / weight: 400](https://www.npmjs.com/package/@material-symbols-react-native/sharp-400)
+-  [variant: sharp / weight: 600](https://www.npmjs.com/package/@material-symbols-react-native/sharp-500)
+-  [variant: sharp / weight: 500](https://www.npmjs.com/package/@material-symbols-react-native/sharp-600)
+-  [variant: sharp / weight: 700](https://www.npmjs.com/package/@material-symbols-react-native/sharp-700)
+
 </details>
 
 ## Usage

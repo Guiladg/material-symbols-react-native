@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGMobiledataFill = exports.msGMobiledataFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M347.913-280q-30.217 0-51.609-21.391-21.391-21.392-21.391-51.61v-253.998q0-30.218 21.391-51.61Q317.696-680 347.913-680h224.174q29.482 0 48.959 21.819 19.476 21.819 19.476 51.182H347.913v253.998h224.174v-91.347h-141v-66.782h213.435v158.129q0 30.218-21.109 51.61Q602.304-280 572.087-280H347.913Z"/></svg>', variant: 'outlined', weight: 600 };

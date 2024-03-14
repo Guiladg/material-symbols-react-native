@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRampLeft = exports.msRampLeft = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M442.391-105.869V-703.39l-90 90-55.566-55.566L482-854.696l185.175 185.74-55.566 55.566-90-90v131.869q0 44.782 12.239 83.456 12.239 38.674 41.109 75.891 28.869 37.217 76.63 74.978 47.761 37.761 118.805 80.414l-56.696 56.696Q652.522-232.39 603-273.064q-49.521-40.674-81.391-82.282v249.477h-79.218Z"/></svg>', variant: 'outlined', weight: 600 };

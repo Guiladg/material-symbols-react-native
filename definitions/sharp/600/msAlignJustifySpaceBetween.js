@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignJustifySpaceBetween = exports.msAlignJustifySpaceBetween = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M814.913-65.869V-280.39H695.694v-399.218h119.219v-215.087h79.783v828.827h-79.783Zm-749.044 0v-828.827h79.218v215.087h119.784v399.218H145.087v214.522H65.869Z"/></svg>', variant: 'sharp', weight: 600 };

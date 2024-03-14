@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatH4Fill = exports.msFormatH4Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-267.565V-691.87h79.218v172.261h155.695V-691.87H420v424.305h-79.218v-172.826H185.087v172.826h-79.218Zm629.044 0v-132.826H540V-691.87h79.784v212.261h115.129V-691.87h79.783v212.261h80v79.218h-80v132.826h-79.783Z"/></svg>', variant: 'sharp', weight: 600 };

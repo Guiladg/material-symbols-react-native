@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEqualizerFill = exports.msEqualizerFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-145.869v-340.349H298.87v340.349H145.869Zm257.913 0v-668.827h152.436v668.827H403.782Zm257.348 0v-468.827h153.566v468.827H661.13Z"/></svg>', variant: 'outlined', weight: 600 };

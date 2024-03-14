@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDiamondFill = exports.msDiamondFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m358.239-625 103.326-217.63h36.87L601.761-625H358.239ZM455-145.696 97.174-575H455v429.304Zm50 0V-575h357.826L505-145.696ZM658.478-625 554.674-842.63h207L870.109-625H658.478Zm-568.587 0 108.435-217.63h207L301.761-625H89.891Z"/></svg>', variant: 'outlined', weight: 500 };

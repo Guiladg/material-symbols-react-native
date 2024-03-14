@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularConnectedNoInternet_0Bar = exports.msSignalCellularConnectedNoInternet_0Bar = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m65.869-65.869 828.827-828.827v253.262h-79.783v-60.216L256.784-145.087h478.129v79.218H65.869Zm749.044-129.609v-365.956h79.783v365.956h-79.783Zm79.783 50.391v79.218h-79.783v-79.218h79.783Z"/></svg>', variant: 'sharp', weight: 600 };

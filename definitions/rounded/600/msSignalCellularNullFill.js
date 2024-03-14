@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularNullFill = exports.msSignalCellularNullFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M161.044-65.869q-26.783 0-36.544-24.435-9.761-24.435 9.326-43.522l692.913-692.913q18.522-18.522 43.24-8.761 24.717 9.761 24.717 36.544v673.391q0 25.217-17.239 42.457-17.239 17.24-42.457 17.24H161.044Zm95.74-79.218h558.129v-558.694L256.784-145.087Z"/></svg>', variant: 'rounded', weight: 600 };

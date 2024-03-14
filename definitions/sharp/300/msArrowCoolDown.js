@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowCoolDown = exports.msArrowCoolDown = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-100.001 213.078-366.924l31.615-31.999 212.615 213.001v-299.846h45.384v300.23l212.615-213 31.615 31.614L480-100.001Zm-22.692-451.152v-134.615h45.384v134.615h-45.384Zm0-200v-109.23h45.384v109.23h-45.384Z"/></svg>', variant: 'sharp', weight: 300 };

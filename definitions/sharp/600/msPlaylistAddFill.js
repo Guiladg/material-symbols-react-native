@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlaylistAddFill = exports.msPlaylistAddFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M110.391-314.173v-79.784h326.001v79.784H110.391Zm0-178.566v-79.218h489.218v79.218H110.391Zm0-178.001v-79.218h489.218v79.218H110.391Zm543 519.784v-163.217H489.609v-79.784h163.782v-163.782h79.784v163.782h163.217v79.784H733.175v163.217h-79.784Z"/></svg>', variant: 'sharp', weight: 600 };

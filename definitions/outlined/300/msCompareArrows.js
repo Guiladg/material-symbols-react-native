@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCompareArrows = exports.msCompareArrows = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m317.769-180.386-31.999-31.999L412.54-338.77H100.001v-45.384H412.54L285.77-510.539l31.999-31.999 181.076 181.076-181.076 181.076Zm324.462-237.46L461.155-598.922l181.076-181.077 31.999 31.615-126.77 126.77h312.539v45.383H547.46l126.77 126.385-31.999 32Z"/></svg>', variant: 'outlined', weight: 300 };

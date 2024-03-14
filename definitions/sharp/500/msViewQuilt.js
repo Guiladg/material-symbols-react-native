@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewQuilt = exports.msViewQuilt = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114.022-194.022v-572.196h732.196v572.196H114.022Zm278.369-318.369h385.457v-185.457H392.391v185.457Zm229 250.239h156.457v-185.457H621.391v185.457Zm-229 0h157.218v-185.457H392.391v185.457Zm-210.239 0h145.457v-435.696H182.152v435.696Z"/></svg>', variant: 'sharp', weight: 500 };

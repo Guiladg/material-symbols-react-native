@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWbShadeFill = exports.msWbShadeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M783.922-175.386 544.231-415.077v-67.383l307.075 307.074h-67.384Zm-239.691 0v-146.228L690.46-175.386H544.231Zm-384.614 0V-575h-51.538l203.46-203.46L514.998-575H463.46v399.614H159.617Zm101.152-224.998h101.54V-575h-101.54v174.616Z"/></svg>', variant: 'outlined', weight: 300 };

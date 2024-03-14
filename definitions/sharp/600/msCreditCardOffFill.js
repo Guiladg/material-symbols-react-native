@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCreditCardOffFill = exports.msCreditCardOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m894.696-167.13-337.13-336h257.347v-129H428.566L247.13-814.696h647.566v647.566Zm-749.609-336h223.522l-129-129h-94.522v129ZM820.348-51.956l-93.347-93.913H65.869v-667.132h87.348l78.088 78.088h-94.479L23.739-848l47.522-47.522L867.305-99.478l-46.957 47.522Z"/></svg>', variant: 'sharp', weight: 600 };

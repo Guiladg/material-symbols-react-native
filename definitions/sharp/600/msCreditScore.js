@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCreditScore = exports.msCreditScore = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.087-641.13h669.826v-93.783H145.087v93.783ZM65.869-145.869v-668.827h828.827v312.566H145.087v277.043h234.696v79.218H65.869Zm538.349 80L428-242.652l54.87-54.305 121.348 122.478L839.13-409.391l53.871 54.739L604.218-65.869ZM145.087-225.087v-156.304 124.912-478.434 509.826Z"/></svg>', variant: 'sharp', weight: 600 };

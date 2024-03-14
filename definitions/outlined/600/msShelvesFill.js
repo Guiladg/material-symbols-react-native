@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShelvesFill = exports.msShelvesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114.348-40v-880h79.783v75.478h572.303V-920h79.784v880h-79.784v-76.043H194.131V-40h-79.783Zm79.783-470.13h93.043v-160.566h231.305v160.566h247.955v-254.608H194.131v254.608Zm0 323.347h247.956v-160.565h231.304v160.565h93.043v-252.608H194.131v252.608Z"/></svg>', variant: 'outlined', weight: 600 };

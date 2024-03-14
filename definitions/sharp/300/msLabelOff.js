@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLabelOff = exports.msLabelOff = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m697.691-307.846-32.23-32.615 98-139.539-151.307-214.615H310.922l-45.383-45.384h369.922L819.999-480 697.691-307.846Zm71.23 228.767L627.999-220H140.001v-487.998l-68.615-68.615 31.999-32 697.536 696.921-32 32.614ZM383.385-461.154Zm105.307-56.692Zm93.923 252.461-397.23-397.23v397.23h397.23Z"/></svg>', variant: 'sharp', weight: 300 };

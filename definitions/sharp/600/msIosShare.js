@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msIosShare = exports.msIosShare = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-23.043v-639.174h233.522v79.218H225.087v480.173h509.826v-480.173H578.609v-79.218h236.087v639.174H145.869Zm293.522-309.261v-451.912l-88 88-56.566-56.001L479-936.957l184.175 184.74-56.566 56.001-88-88v451.912h-79.218Z"/></svg>', variant: 'sharp', weight: 600 };

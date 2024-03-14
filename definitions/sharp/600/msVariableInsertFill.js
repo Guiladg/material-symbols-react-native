@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVariableInsertFill = exports.msVariableInsertFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-265.869v-428.827h748.827v205.087H593.217v223.74H105.869Zm763.609 97.347L717.739-319.261v125.695h-64.522v-236.043H889.26v64.522H762.565l151.739 151.739-44.826 44.826Z"/></svg>', variant: 'sharp', weight: 600 };

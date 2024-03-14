@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msOpenInFull = exports.msOpenInFull = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-285.384h45.384V-217L743-774.615H534.615v-45.384h285.384v285.384h-45.384V-743L217-185.385h208.385v45.384H140.001Z"/></svg>', variant: 'outlined', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSignalCellularPauseFill = exports.msSignalCellularPauseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m65.869-65.869 828.827-828.827v509.783H575.087v319.044H65.869Zm742.219 0v-239.044h73.566v239.044h-73.566Zm-153.001 0v-239.044h73.001v239.044h-73.001Z"/></svg>', variant: 'outlined', weight: 600 };

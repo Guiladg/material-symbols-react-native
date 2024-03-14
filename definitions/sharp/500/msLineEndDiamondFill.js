@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineEndDiamondFill = exports.msLineEndDiamondFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M600-194.978 349.043-445.935H75.935v-68.13h273.108L600-765.022 885.022-480 600-194.978Z"/></svg>', variant: 'sharp', weight: 500 };

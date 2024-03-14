@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDownload_2Fill = exports.msDownload_2Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M154.022-74.022v-68.13h652.196v68.13H154.022ZM479-242.152 185.848-616.979h165.021v-269.239H607.37v269.239h166.022L479-242.152Z"/></svg>', variant: 'outlined', weight: 500 };

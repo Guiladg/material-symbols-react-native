@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBreakingNewsAlt_1Fill = exports.msBreakingNewsAlt_1Fill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M252.826-292.826h180v-60h-180v60Zm394.913 0h60v-60h-60v60ZM252.826-450h180v-60h-180v60Zm394.913 0h60v-217.739h-60V-450ZM252.826-607.739h180v-60h-180v60ZM57.869-105.869v-748.827h844.827v748.827H57.869Z"/></svg>', variant: 'sharp', weight: 600 };

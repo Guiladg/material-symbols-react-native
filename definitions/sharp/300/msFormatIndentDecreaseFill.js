@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFormatIndentDecreaseFill = exports.msFormatIndentDecreaseFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-45.384h679.998v45.384H140.001Zm320-158.846v-45.384h359.998v45.384H460.001Zm0-158.461v-45.384h359.998v45.384H460.001Zm0-158.846v-45.383h359.998v45.383H460.001Zm-320-158.461v-45.384h679.998v45.384H140.001Zm122.153 413.921L140.001-482.231l122.153-118.691v240.228Z"/></svg>', variant: 'sharp', weight: 300 };

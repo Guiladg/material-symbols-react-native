@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDashboardCustomizeFill = exports.msDashboardCustomizeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M94.564-865.436H453.39v358.827H94.564v-358.827Zm412.045 0h358.827v358.827H506.609v-358.827ZM94.564-453.391H453.39v358.827H94.564V-453.39Zm551.566 0h79.784v139.521h139.522v79.784H725.914v139.522H646.13v-139.522H506.609v-79.784H646.13v-139.521Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDifference = exports.msDifference = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M504.696-519.782h60v-84h84v-60h-84v-84h-60v84h-84v60h84v84Zm-84 136.781h228v-60h-228v60ZM203.391-166.218v-766.783h421.566l240.479 240.479v526.304H203.391Zm79.784-79.783h503.043v-409.781l-202-198H283.175v607.781ZM64.173-26.999V-720.13h79.218v613.912h501.957v79.219H64.173Zm219.002-219.002v-607.781 607.781Z"/></svg>', variant: 'sharp', weight: 600 };

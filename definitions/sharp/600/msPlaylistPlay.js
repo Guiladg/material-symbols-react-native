@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPlaylistPlay = exports.msPlaylistPlay = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-293.824v-78.653h310.522v78.653H105.869Zm0-177.436v-79.218h474.696v79.218H105.869Zm0-178v-78.653h474.696v78.653H105.869Zm543.696 543.391v-336.696l245.131 168.348-245.131 168.348Z"/></svg>', variant: 'sharp', weight: 600 };

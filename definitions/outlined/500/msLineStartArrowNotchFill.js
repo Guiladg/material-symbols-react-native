@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineStartArrowNotchFill = exports.msLineStartArrowNotchFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M523.587-193.543 73.304-480l450.283-286.457-148.935 252.392h499.413v68.13H374.652l148.935 252.392Z"/></svg>', variant: 'outlined', weight: 500 };

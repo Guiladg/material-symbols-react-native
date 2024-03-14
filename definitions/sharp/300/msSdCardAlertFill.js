@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSdCardAlertFill = exports.msSdCardAlertFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M453.847-302.078h52.691v-60.384h-52.691v60.384Zm5.077-123.768h45.383v-196.538h-45.383v196.538Zm321.075 325.845H180.001v-532.152l227.846-227.846h372.152v759.998Z"/></svg>', variant: 'sharp', weight: 300 };

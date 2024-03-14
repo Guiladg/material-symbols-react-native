@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msExclamation = exports.msExclamation = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M445.935-377.37V-765.5h68.13v388.13h-68.13Zm0 182.87v-68.13h68.13v68.13h-68.13Z"/></svg>', variant: 'sharp', weight: 500 };

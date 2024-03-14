@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCurtainsClosed = exports.msCurtainsClosed = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M60.782-100.782v-79.783h80v-678.653h678.436v678.653h80v79.783H60.782Zm159.783-79.783h136.522v-598.87H220.565v598.87Zm207.261 0h104.348v-598.87H427.826v598.87Zm175.087 0h136.522v-598.87H602.913v598.87Zm-382.348 0v-598.87 598.87Zm518.87 0v-598.87 598.87Z"/></svg>', variant: 'outlined', weight: 600 };

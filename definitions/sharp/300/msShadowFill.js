@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShadowFill = exports.msShadowFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-100.001v-591.075h161.23v-168.923h598.768v598.768H691.076v161.23H100.001Zm206.614-206.614h508v-508h-508v508Z"/></svg>', variant: 'sharp', weight: 300 };

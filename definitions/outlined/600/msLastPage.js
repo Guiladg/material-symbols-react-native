@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLastPage = exports.msLastPage = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M272-231.434 215.434-288l192-192-192-192L272-728.566 520.566-480 272-231.434Zm378.391 5v-507.132h79.218v507.132h-79.218Z"/></svg>', variant: 'outlined', weight: 600 };

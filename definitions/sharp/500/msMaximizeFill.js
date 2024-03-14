@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMaximizeFill = exports.msMaximizeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M154.022-777.848v-68.37h652.196v68.37H154.022Z"/></svg>', variant: 'sharp', weight: 500 };

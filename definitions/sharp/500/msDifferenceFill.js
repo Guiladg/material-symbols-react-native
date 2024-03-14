@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDifferenceFill = exports.msDifferenceFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M496.218-523.37h60v-84h84v-60h-84v-84h-60v84h-84v60h84v84Zm-84 147.87h228v-60h-228v60ZM201.435-162.63V-925.5h413.739l235.587 235.587v527.283H201.435ZM73.305-34.5v-684.978h68.13v616.848h499.674v68.13H73.304Z"/></svg>', variant: 'sharp', weight: 500 };

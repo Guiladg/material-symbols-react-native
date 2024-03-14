@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDesktopMac = exports.msDesktopMac = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M332.891-114.022v-37.63l84-85H74.021v-609.566h812.197v609.566h-342.87l84 85v37.63H332.891ZM142.152-393.848h675.696v-384H142.152v384Zm0 0v-384 384Z"/></svg>', variant: 'sharp', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewCozyFill = exports.msViewCozyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-536.043v-318.653h318.653v318.653H105.869Zm0 430.174v-318.653h318.653v318.653H105.869Zm430.174-430.174v-318.653h318.653v318.653H536.043Zm0 430.174v-318.653h318.653v318.653H536.043Z"/></svg>', variant: 'sharp', weight: 600 };

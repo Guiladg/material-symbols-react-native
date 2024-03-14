@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAreaChart = exports.msAreaChart = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M105.869-145.869v-562.393l170.74 127.913 200.565-280 207.913 165.653h169.609v548.827H105.869Zm217.566-113.044 160-221L774.913-251.74v-363.173H656.739L493.13-746.652l-198 279-110.043-81.608v180.434l138.348 109.913Z"/></svg>', variant: 'outlined', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDiamond = exports.msDiamond = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-109.826 72.652-599.435l123.391-246.783h567.914l123.956 246.783L480-109.826ZM367.435-630h225.13l-72.174-143.782h-80.782L367.435-630ZM450-259.174V-570H191.479L450-259.174Zm60 0L768.521-570H510v310.826ZM660.13-630h127.522l-71.609-143.782H587.957L660.13-630Zm-487.782 0h128.087l71.608-143.782H243.957L172.348-630Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRemoveFromQueue = exports.msRemoveFromQueue = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M315.935-490.13h328.13v-68.37h-328.13v68.37Zm10.956 376.108v-80H74.021v-652.196h812.197v652.196h-252.87v80H326.891Zm-184.739-148.13h675.696v-515.696H142.152v515.696Zm0 0v-515.696 515.696Z"/></svg>', variant: 'sharp', weight: 500 };

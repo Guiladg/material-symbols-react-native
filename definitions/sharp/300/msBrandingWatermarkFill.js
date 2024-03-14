@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrandingWatermarkFill = exports.msBrandingWatermarkFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M413.847-285.539h340.614v-247.23H413.847v247.23ZM100.001-180.001v-599.998h759.998v599.998H100.001Z"/></svg>', variant: 'sharp', weight: 300 };

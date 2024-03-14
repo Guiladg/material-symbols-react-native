@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBackpackFill = exports.msBackpackFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-65.869v-592.044q0-55.566 32.304-97.479t83.174-52.388v-86.916H378.87v80h202.26v-80h117.523v86.826q51.039 10.404 83.541 52.397 32.502 41.994 32.502 97.56v592.044H145.869Zm460-264.696h63.957v-143.392H290.174v65.653h315.695v77.739Z"/></svg>', variant: 'sharp', weight: 600 };

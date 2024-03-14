@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAtmFill = exports.msAtmFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M397.695-356.609v-192h-73.782v-54.782h201.782v54.782h-73.782v192h-54.218Zm-327.304 0v-246.782h213.218v246.782h-54.218v-77H124.609v77H70.391Zm54.218-131.782h104.782v-60.218H124.609v60.218Zm445.564 131.782v-246.782h319.436v246.782h-54.444v-192H757v150h-54.444v-150h-78.165v192h-54.218Z"/></svg>', variant: 'sharp', weight: 600 };

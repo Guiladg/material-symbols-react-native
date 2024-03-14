@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msShiftLock = exports.msShiftLock = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M340.001-253.079v-184.229h-177.69L480-848.459l317.689 411.151h-177.69v184.229H340.001Zm45.384-45.384h189.23v-184.229h127.23L480-775.615 258.155-482.692h127.23v184.229ZM480-537.231ZM165.386-120.003v-45.383h629.228v45.383H165.386Z"/></svg>', variant: 'outlined', weight: 300 };

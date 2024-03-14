@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msUngroupFill = exports.msUngroupFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M348-300.022 300.022-348l177.934-177.935H325.935v-68.13h268.13v268.13h-68.13v-152.021L348-300.022Zm429.848-177.826v-300h-300v-68.37h368.37v368.37h-68.37ZM182.152-114.022q-27.599 0-47.865-20.265-20.265-20.266-20.265-47.865v-664.066h68.13v664.066h664.066v68.13H182.152Z"/></svg>', variant: 'outlined', weight: 500 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineWeightFill = exports.msLineWeightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114.022-146.13v-37.892h732.196v37.892H114.022Zm0-95.022v-68.37h732.196v68.37H114.022Zm0-125.739v-92.631h732.196v92.631H114.022Zm0-150V-813.87h732.196v296.979H114.022Z"/></svg>', variant: 'outlined', weight: 500 };

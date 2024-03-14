@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCheckSmall = exports.msCheckSmall = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M400-303.869 237.391-467.043l56.131-55.566L400-416.131l267.043-266.478 55.566 55.566L400-303.869Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msKeyboardTabRtl = exports.msKeyboardTabRtl = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.385-250.001h-45.384v-459.998h45.384v459.998Zm328.076-3.615L247.078-480l226.383-226.384 31.615 31.23-171.077 172.462h526v45.384H333.614l172.462 172.077-32.615 31.615Z"/></svg>', variant: 'outlined', weight: 300 };

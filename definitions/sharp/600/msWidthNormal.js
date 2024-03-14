@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWidthNormal = exports.msWidthNormal = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869v-668.827h828.827v668.827H65.869Zm79.218-79.218h170.608v-509.826H145.087v509.826Zm249.826 0h170.174v-509.826H394.913v509.826Zm249.392 0h170.608v-509.826H644.305v509.826ZM394.913-734.913v509.826-509.826Z"/></svg>', variant: 'sharp', weight: 600 };

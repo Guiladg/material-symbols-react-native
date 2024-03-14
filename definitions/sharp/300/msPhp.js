@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhp = exports.msPhp = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M128.462-366.154v-227.692h187.692v149.23H167.231v78.462h-38.769Zm259.923 0v-227.692h39.154v86.692h112.615v-86.692h39.153v227.692h-39.153v-102.231H427.539v102.231h-39.154Zm276.231 0v-227.692h187.691v149.23H703.384v78.462h-38.768Zm-497.385-117.23h110.154v-70.924H167.231v70.924Zm536.153 0h110.155v-70.924H703.384v70.924Z"/></svg>', variant: 'sharp', weight: 300 };

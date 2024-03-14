@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBurstModeFill = exports.msBurstModeFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M27-185.869v-588.827h66.782v588.827H27Zm158.869 0v-588.827h66.783v588.827h-66.783Zm158.304 0v-588.827h588.828v588.827H344.173ZM478.87-357h324l-100-133-84 110-61-82-79 105Z"/></svg>', variant: 'sharp', weight: 600 };

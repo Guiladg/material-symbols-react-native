@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewTimelineFill = exports.msViewTimelineFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-140.001v-679.998h679.998v679.998H140.001Zm118.077-149.384h203.844v-45.384H258.078v45.384Zm240-335.846h203.844v-45.384H498.078v45.384Zm-120 167.923h203.844v-45.384H378.078v45.384Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBottomSheets = exports.msBottomSheets = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M114.022-114.022v-732.196h732.196v732.196H114.022Zm68.13-352.196h595.696v-311.63H182.152v311.63Zm0 68.37v215.696h595.696v-215.696H182.152Zm0 0v215.696-215.696Z"/></svg>', variant: 'sharp', weight: 500 };

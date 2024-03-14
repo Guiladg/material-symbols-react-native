@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTrendingFlatFill = exports.msTrendingFlatFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m696.348-280.651-56.566-56.131L742.39-439.391H105.869v-79.218H743.39L640.216-621.218l56.132-56.131L894.696-479 696.348-280.651Z"/></svg>', variant: 'outlined', weight: 600 };

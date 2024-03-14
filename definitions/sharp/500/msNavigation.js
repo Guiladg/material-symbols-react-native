@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNavigation = exports.msNavigation = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m188.565-109-35.739-35.739L480-891l327.174 746.261L771.435-109 480-241.717 188.565-109Zm73.979-109.478L480-314.565l217.456 96.087L480-722.674 262.544-218.478ZM480-314.565Z"/></svg>', variant: 'sharp', weight: 500 };

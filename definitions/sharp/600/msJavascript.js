@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msJavascript = exports.msJavascript = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M233.782-356.609V-460H288v45.782h80.609v-189.173h54.782v246.782H233.782Zm242.827 0V-440h54.782v28.609h97.218V-461h-152v-142.391h206.782V-520h-54.782v-28.609h-97.218V-499h152v142.391H476.609Z"/></svg>', variant: 'sharp', weight: 600 };

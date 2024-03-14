@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStackOffFill = exports.msStackOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m886.218-166.478-474.24-474h474.24v474Zm-312.436-534v-119.283H232.457L166-886.218h474.239v185.74h-66.457Zm270.392 671.37L799.5-74.023H319.761v-479.5L140-733.043v346.825h119.761v66.457H73.782V-799.5L31.74-841.304l44.913-44.914L889.087-74.022l-44.913 44.914Z"/></svg>', variant: 'sharp', weight: 500 };

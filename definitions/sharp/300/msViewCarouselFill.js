@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewCarouselFill = exports.msViewCarouselFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-303.848v-352.689h132.308v352.689H100.001Zm194.615 83.847v-519.998h370.768v519.998H294.616Zm433.075-83.847v-352.689h132.308v352.689H727.691Z"/></svg>', variant: 'sharp', weight: 300 };

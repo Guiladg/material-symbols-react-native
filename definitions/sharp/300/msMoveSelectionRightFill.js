@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msMoveSelectionRightFill = exports.msMoveSelectionRightFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M418.463-259.232v-441.536h441.536v441.536H418.463Zm-159.231 0v-49.999h49.999v49.999h-49.999Zm0-391.537v-49.999h49.999v49.999h-49.999ZM100.001-259.232v-49.999h50v49.999h-50Zm0-195.768v-50h50v50h-50Zm0-195.769v-49.999h50v49.999h-50Z"/></svg>', variant: 'sharp', weight: 300 };

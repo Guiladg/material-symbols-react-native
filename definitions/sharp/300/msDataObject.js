@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDataObject = exports.msDataObject = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M577.693-180.001v-45.384h156.922V-467.6h80v-24.8h-80v-242.215H577.693v-45.384h202.306v246.693h80v106.228h-80v247.077H577.693Zm-397.692 0v-247.077h-80v-106.228h80v-246.693h202.306v45.384H225.385V-492.4h-80v24.8h80v242.215h156.922v45.384H180.001Z"/></svg>', variant: 'sharp', weight: 300 };

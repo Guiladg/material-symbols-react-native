@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCameraOutdoor = exports.msCameraOutdoor = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M489.696-213.957v-240h245v90l80-46v152l-80-46v90h-245ZM145.869-105.869v-501.479L480-858.088l334.696 250.457v124.805h-79.783v-84.913L480-758.782 225.087-567.551v382.464h589.609v79.218H145.869ZM480-471.435Z"/></svg>', variant: 'sharp', weight: 600 };

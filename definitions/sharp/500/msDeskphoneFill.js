@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDeskphoneFill = exports.msDeskphoneFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M665.022-181.913h116.413v-599.522H665.022v599.522ZM248.565-410h60v-60h-60v60Zm0 120h60v-60h-60v60Zm0-240h300v-140h-300v140Zm120 120h60v-60h-60v60Zm0 120h60v-60h-60v60Zm120-120h60v-60h-60v60Zm0 120h60v-60h-60v60ZM112.109-153.543v-652.914h486.456v-41.434h249.326v732.435H598.565v-38.087H112.109Z"/></svg>', variant: 'sharp', weight: 500 };

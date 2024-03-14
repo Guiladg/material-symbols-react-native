@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAmpStoriesFill = exports.msAmpStoriesFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M300.001-180.001v-599.998h359.998v599.998H300.001Zm-147.691-80v-439.998h45.384v439.998H152.31Zm609.996 0v-439.998h45.384v439.998h-45.384Z"/></svg>', variant: 'outlined', weight: 300 };

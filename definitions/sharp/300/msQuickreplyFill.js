@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msQuickreplyFill = exports.msQuickreplyFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M762.923-84.619V-260h-49.999v-212.306h115.382l-49.153 151.922h78.538L762.923-84.619Zm-662.922-33.845v-741.535h759.998v306.921H632.153v293.077H241.539L100.001-118.464Z"/></svg>', variant: 'sharp', weight: 300 };

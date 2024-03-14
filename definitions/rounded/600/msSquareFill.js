@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSquareFill = exports.msSquareFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M185.087-105.869q-33.507 0-56.362-22.856-22.856-22.855-22.856-56.362v-589.826q0-33.74 22.856-56.762 22.855-23.021 56.362-23.021h589.826q33.74 0 56.762 23.021 23.021 23.022 23.021 56.762v589.826q0 33.507-23.021 56.362-23.022 22.856-56.762 22.856H185.087Z"/></svg>', variant: 'rounded', weight: 600 };

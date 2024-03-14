@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPalletFill = exports.msPalletFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M117.695-128.465v-61.537h724.61v61.537h-66.153v-30.769H513.076v30.769h-66.152v-30.769H183.848v30.769h-66.153Zm102.691-199.997v-519.997h519.228v519.997H220.386ZM360-651.538h240v-30.768H360v30.768Z"/></svg>', variant: 'sharp', weight: 300 };

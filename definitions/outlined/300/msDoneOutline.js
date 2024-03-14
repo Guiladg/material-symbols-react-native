@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDoneOutline = exports.msDoneOutline = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m381-255.847 430.691-430.306-32.615-32.615L381-321.076 181.539-520.537l-32.614 32.615L381-255.847Zm0 64.614L84.31-487.922l97.229-96.844L381-385.306l398.461-398.46 96.844 97.228L381-191.233Z"/></svg>', variant: 'outlined', weight: 300 };

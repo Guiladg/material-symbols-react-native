@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPhonelinkLockFill = exports.msPhonelinkLockFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M603.391-320v-200h40v-40q0-33 23.5-56.5t56.5-23.5q33 0 56.5 23.5t23.5 56.5v40h40v200h-240Zm80-200h80v-40q0-17-11.5-28.5t-28.5-11.5q-17 0-28.5 11t-11.5 27v42ZM186.999-27V-933h586.002V-714h-79.219v-49.782H266.218v567.564h427.564V-246h79.219v219H186.999Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDockToLeft = exports.msDockToLeft = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M634.923-185.385h139.692v-589.23H634.923v589.23Zm-449.538 0H589.54v-589.23H185.385v589.23Zm449.538 0h139.692-139.692Zm-494.922 45.384v-679.998h679.998v679.998H140.001Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowDropDownFill = exports.msArrowDropDownFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M480-373.847 303.848-549.384h352.304L480-373.847Z"/></svg>', variant: 'sharp', weight: 300 };

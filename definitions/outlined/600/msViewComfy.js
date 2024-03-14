@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msViewComfy = exports.msViewComfy = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.869v-668.827h828.827v668.827H65.869ZM814.913-510v-224.913H145.087V-510h669.826ZM384.13-225.087h430.783V-450H384.13v224.913Zm-239.043 0H324.13V-450H145.087v224.913Z"/></svg>', variant: 'outlined', weight: 600 };

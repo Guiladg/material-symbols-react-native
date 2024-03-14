@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCastleFill = exports.msCastleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M20.782-104.173v-502.219H100v80h94.173v-330h79.218v80h83.608v-80h79.219v80h87.564v-80h79.219v80h83.608v-80h79.783v330H860v-80h79.784v502.219H570V-240q0-38-26-64t-64-26q-38 0-64 26t-26 64v135.827H20.782ZM366.609-490h60v-110h-60v110Zm166.782 0h60v-110h-60v110Z"/></svg>', variant: 'outlined', weight: 600 };

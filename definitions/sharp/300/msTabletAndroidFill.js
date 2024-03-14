@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTabletAndroidFill = exports.msTabletAndroidFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-60.002v-839.997h679.998v839.998H140.001Zm270.307-81.538h153.999v-35.384H410.308v35.384ZM185.385-258.078h589.23v-508.46h-589.23v508.46Z"/></svg>', variant: 'sharp', weight: 300 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSkipPreviousFill = exports.msSkipPreviousFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M193.433-213.433v-533.134h79.219v533.134h-79.219Zm573.134 0L380.434-480l386.133-266.567v533.134Z"/></svg>', variant: 'outlined', weight: 600 };

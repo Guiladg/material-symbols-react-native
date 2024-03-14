@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCurtainsClosedFill = exports.msCurtainsClosedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M71.87-111.869v-68.37h79.999v-667.892h656.262v667.892h80v68.37H71.869Zm354.326-68.37h107.608v-599.522H426.196v599.522Z"/></svg>', variant: 'sharp', weight: 500 };

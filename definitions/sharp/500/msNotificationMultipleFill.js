@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msNotificationMultipleFill = exports.msNotificationMultipleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M44.5-74.022v-599.261h68.13v531.131h566.435v68.13H44.5Zm128.13-128.13v-498.066l371.435-222.934 71.174 35.869-369.065 224.37 297.891 193.978 318.696-206.543 52.739 25.152v448.174H172.63ZM537.022-557.87l-116-116 43-43 73 73 184-184 43 43-227 227Z"/></svg>', variant: 'sharp', weight: 500 };

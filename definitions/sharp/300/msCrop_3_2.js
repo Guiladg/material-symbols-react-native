@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCrop_3_2 = exports.msCrop_3_2 = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M140.001-260.001v-439.998h679.998v439.998H140.001Zm45.384-45.384h589.23v-349.23h-589.23v349.23Zm0 0v-349.23 349.23Z"/></svg>', variant: 'sharp', weight: 300 };

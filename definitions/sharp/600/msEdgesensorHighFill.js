@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msEdgesensorHighFill = exports.msEdgesensorHighFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M0-280v-280h60v280H0Zm116.609-120v-280h60v280h-60ZM233.782-73.782v-812.436h492.436v812.436H233.782ZM783.391-280v-280h60v280h-60ZM900-400v-280h60v280h-60ZM313.566-243.001h333.433v-473.998H313.566v473.998Z"/></svg>', variant: 'sharp', weight: 600 };

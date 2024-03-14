@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBorderOuter = exports.msBorderOuter = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M185.385-185.385h589.23v-589.23h-589.23v589.23Zm-45.384 45.384v-679.998h679.998v679.998H140.001ZM297.693-455v-50h50v50h-50ZM455-297.693v-50h50v50h-50ZM455-455v-50h50v50h-50Zm0-157.692v-49.999h50v49.999h-50ZM612.692-455v-50h49.999v50h-49.999Z"/></svg>', variant: 'outlined', weight: 300 };

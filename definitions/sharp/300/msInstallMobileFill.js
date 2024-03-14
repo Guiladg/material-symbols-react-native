@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInstallMobileFill = exports.msInstallMobileFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M220.001-60.002v-839.997h356.153v133.461H265.385v573.076h429.23v-116.537h45.384v249.998H220.001Zm510.153-364.383-176-176 32-31.999 121.308 120.693v-311.001h45.383v311.001l121.309-120.693 31.999 31.999-175.999 176Z"/></svg>', variant: 'sharp', weight: 300 };

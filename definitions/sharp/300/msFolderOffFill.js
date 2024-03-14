@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFolderOffFill = exports.msFolderOffFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M859.999-202.848 283.233-779.999h120.458l65.385 65.385h390.923v511.766ZM857-49.54 726.538-180.001H100.001v-599.998h90.154l57.692 57.693h-63.614l-99-98.616 31.999-31.999L888.614-81.539 857-49.54Z"/></svg>', variant: 'sharp', weight: 300 };

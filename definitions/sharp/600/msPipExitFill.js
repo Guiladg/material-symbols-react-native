@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPipExitFill = exports.msPipExitFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M65.869-145.304v-390.523h361.13v-278.304h467.697v668.827H65.869ZM698.13-290.956l50.349-50.914-145.348-144.347h111.782v-71.305H482.478v232.435h70.74v-110.782L698.13-290.956ZM65.869-595.827v-218.869h301.13v218.869H65.869Z"/></svg>', variant: 'sharp', weight: 600 };

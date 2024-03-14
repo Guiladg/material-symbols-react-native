@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msInsertTextFill = exports.msInsertTextFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M450-320v-260H330v-60h300v60H510v260h-60ZM27-27v-232.218h78.999v-441.564h-79v-232.219h232.219v79h441.564v-79h232.219v232.219h-79v441.564h79v232.219H700.782v-79H259.218v79H26.999Zm232.218-158.218h441.564v-74h74v-441.564h-74v-74H259.218v74h-74v441.564h74v74Z"/></svg>', variant: 'sharp', weight: 600 };

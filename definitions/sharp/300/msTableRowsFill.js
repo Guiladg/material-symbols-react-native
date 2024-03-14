@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTableRowsFill = exports.msTableRowsFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M819.999-140.001H140.001v-195h679.998v195Zm0-240.384H140.001v-199.23h679.998v199.23Zm0-244.614H140.001v-195h679.998v195Z"/></svg>', variant: 'sharp', weight: 300 };

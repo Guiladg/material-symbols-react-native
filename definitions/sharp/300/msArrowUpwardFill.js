@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowUpwardFill = exports.msArrowUpwardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M457.308-180.001v-513.692L212.001-448.385l-32-31.615L480-779.999 779.999-480l-32 31.615-245.307-245.308v513.692h-45.384Z"/></svg>', variant: 'sharp', weight: 300 };

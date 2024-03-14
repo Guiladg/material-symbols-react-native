@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArrowsOutwardFill = exports.msArrowsOutwardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m693.478-287.022-49.217-48.739 110.174-108.935H510v-69.369h244.435L645.5-621.761l48.978-48.739 190.74 191.739-191.74 191.739Zm-427.717 0L74.021-478.761 265.762-670.5l47.739 48.739-108.695 107.696H450v69.369H203.565L313.5-335.761l-47.739 48.739Z"/></svg>', variant: 'sharp', weight: 500 };

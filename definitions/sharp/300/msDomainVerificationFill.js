@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msDomainVerificationFill = exports.msDomainVerificationFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m438-322.77 201.999-201.999-33.23-33.23L438-389.23l-84.769-84.769-33.23 33.23L438-322.77ZM145.385-651.769h669.23v-82.846h-669.23v82.846Zm-45.384 471.768v-599.998h759.998v599.998H100.001Z"/></svg>', variant: 'sharp', weight: 300 };

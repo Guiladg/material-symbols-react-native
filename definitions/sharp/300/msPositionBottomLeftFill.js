@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msPositionBottomLeftFill = exports.msPositionBottomLeftFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M245.001-288.923H585v-78.076H245.001v78.076Zm-105 148.922v-679.998h679.998v679.998H140.001Z"/></svg>', variant: 'sharp', weight: 300 };

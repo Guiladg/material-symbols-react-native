@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msGoogleWifiFill = exports.msGoogleWifiFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m88.738-547.739 16.696-266.957h747.567l18.695 266.957H88.738Zm107.566 401.87-9.869-30H64.608l20.13-311.87h789.958l20.696 311.87H773l-9.87 30H196.304Z"/></svg>', variant: 'sharp', weight: 600 };

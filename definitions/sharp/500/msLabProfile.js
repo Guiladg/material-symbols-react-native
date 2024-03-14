@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLabProfile = exports.msLabProfile = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M320-490v-60h320v60H320Zm0-160v-60h320v60H320Zm-97.848 255.935h370.413l145.283 189.043v-612.826H222.152v423.783Zm0 251.913h477.565L559.5-325.935H222.152v183.783Zm584.066 68.13H154.022v-812.196h652.196v812.196Zm-584.066-68.13v-675.696 675.696Zm0-183.783v-68.13 68.13Z"/></svg>', variant: 'sharp', weight: 500 };

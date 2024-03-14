@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBorderColor = exports.msBorderColor = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M80 0v-134.001h800V0H80Zm145.652-320.784h37.218l376.868-376.868-18.261-18.549-18.39-18.669-377.435 376.869v37.217Zm-66.217 66.783v-130.261l536-536.565 133.087 128L289.13-254.001H159.435Zm570.913-538.695-34.218-34.217 34.218 34.217Zm-90.61 95.044-18.261-18.549-18.39-18.669 36.651 37.218Z"/></svg>', variant: 'sharp', weight: 600 };

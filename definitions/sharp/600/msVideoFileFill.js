@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msVideoFileFill = exports.msVideoFileFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M145.869-65.869v-828.827h441.349l227.478 227.648v601.18H145.869Zm400.044-563.044h189l-189-186v186ZM317-240h245v-90l80 46v-152l-80 46v-90H317v240Z"/></svg>', variant: 'sharp', weight: 600 };

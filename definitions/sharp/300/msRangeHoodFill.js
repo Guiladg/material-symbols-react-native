@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRangeHoodFill = exports.msRangeHoodFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m121.847-453.384 178.154-178.154v-188.461h359.998v188.461l177.154 178.154H121.847Zm-21.846 273.383V-408h759.998v227.999H100.001ZM400-299.77h160v-33.076H400v33.076Z"/></svg>', variant: 'sharp', weight: 300 };

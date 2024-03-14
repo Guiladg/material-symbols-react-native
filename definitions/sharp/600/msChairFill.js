@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChairFill = exports.msChairFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M163-90.607V-179H27V-590h154.782v220h596.436v-220h154.783v411.001H797v88.392h-79.218V-179H242.784v88.392H163Zm78.782-336.002V-650H130.999v-203.001h698.002V-650H718.218v223.391H241.782Z"/></svg>', variant: 'sharp', weight: 600 };

@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCalendarViewWeekFill = exports.msCalendarViewWeekFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M510-158.087v-643.826h156.674v643.826H510Zm-216.674 0v-643.826H450v643.826H293.326Zm-215.24 0v-643.826h155.24v643.826H78.086Zm648.588 0v-643.826h155.239v643.826H726.674Z"/></svg>', variant: 'sharp', weight: 500 };

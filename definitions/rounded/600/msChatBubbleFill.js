@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChatBubbleFill = exports.msChatBubbleFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m225.869-225.869-92.043 92.043q-19.087 19.087-43.522 9.22-24.435-9.867-24.435-36.438v-653.869q0-32.74 23.356-56.262 23.355-23.521 55.862-23.521h669.826q32.74 0 56.262 23.521 23.521 23.522 23.521 56.262v509.826q0 32.507-23.521 55.862-23.522 23.356-56.262 23.356H225.869Z"/></svg>', variant: 'rounded', weight: 600 };

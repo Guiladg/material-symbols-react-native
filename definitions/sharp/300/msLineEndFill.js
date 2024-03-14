@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLineEndFill = exports.msLineEndFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M787.357-397.308q-28.367 0-50.285-17-21.918-17-29.379-43H90.001v-45.384h617.692q7.461-26 29.379-43t50.285-17q34.71 0 58.676 24.02t23.966 58.807q0 34.788-23.966 58.672-23.966 23.885-58.676 23.885Z"/></svg>', variant: 'sharp', weight: 300 };

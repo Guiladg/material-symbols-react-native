@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTurnLeft = exports.msTurnLeft = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M625-180.001v-343.383q0-5.385-3.461-8.847-3.462-3.462-8.847-3.462h-386L319.384-443l-31.614 31.999-147.769-147.384L287.77-706.153l31.614 31.999-92.692 93.078h386q23.596 0 40.644 16.855 17.048 16.856 17.048 40.837v343.383H625Z"/></svg>', variant: 'outlined', weight: 300 };

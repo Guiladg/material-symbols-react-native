@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLeaderboardFill = exports.msLeaderboardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m76.609-116.609-5.088-480 214.522-6.782 5.087 480-214.522 6.782Zm298.956 0-5.087-720 213.957-6.782 5.087 720-213.957 6.782Zm298.957 0-5.087-400 213.956-6.782 5.088 400-213.957 6.782Z"/></svg>', variant: 'outlined', weight: 600 };

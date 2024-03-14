@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msWineBarFill = exports.msWineBarFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M310.435-110.435v-68.13h135.5v-180.457Q343.826-373.978 287.13-441.63 230.435-509.283 230.435-600v-249.805h499.37V-600q0 90.717-56.816 158.37-56.815 67.652-158.924 82.608v180.457h135.74v68.13h-339.37Zm-11.87-523.63h362.87v-147.37h-362.87v147.37Z"/></svg>', variant: 'sharp', weight: 500 };

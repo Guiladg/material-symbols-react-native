@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msSimCardFill = exports.msSimCardFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M277.957-196.957h60v-60h-60v60Zm0-156h60v-166h-60v166Zm170.043 156h60v-170h-60v170Zm0-262h60v-60h-60v60Zm178.043 262h60v-60h-60v60Zm0-156h60v-166h-60v166ZM145.869-65.869v-581.349l247.479-247.478h421.348v828.827H145.869Z"/></svg>', variant: 'sharp', weight: 600 };

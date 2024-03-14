@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const ms2kPlusFill = exports.ms2kPlusFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M676.957-400h40v-63h60.891v-33h-60.891v-64h-40v64h-63v33h63v63Zm-209.761 40h50v-90l84 90h66l-112-120 112-120h-66l-84 90v-90h-50v240Zm-225.522 0h166v-50h-123v-53h123v-137h-166v50h116v54h-116v136ZM114.022-114.022v-732.196h732.196v732.196H114.022Z"/></svg>', variant: 'sharp', weight: 500 };

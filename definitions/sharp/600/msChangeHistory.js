@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msChangeHistory = exports.msChangeHistory = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M53.999-145.869 481-827.132l425.001 681.263H53.999Zm142.045-79.218h567.912L481-675.391 196.044-225.087ZM480-450.739Z"/></svg>', variant: 'sharp', weight: 600 };

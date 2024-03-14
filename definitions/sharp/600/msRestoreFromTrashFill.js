@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msRestoreFromTrashFill = exports.msRestoreFromTrashFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M445.478-329.956h69.609V-524.26l76.043 81.608 49.783-49.218-160.348-161.348L319.652-491.87l49.783 49.218 76.043-81.608v194.304ZM176.694-105.869v-639.609h-50.609v-79.218h212.306v-40.175h282.653v40.175h212.871v79.218h-50.609v639.609H176.694Z"/></svg>', variant: 'sharp', weight: 600 };

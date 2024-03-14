@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msBrowserUpdatedFill = exports.msBrowserUpdatedFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M253.782-105.869v-73L307-232.652H65.869v-622.044h445.695v79.783H145.087v463.043h669.826v-127.695h79.783v206.913H652l54.218 53.783v73H253.782Zm377.175-254.827L424.391-567.262l55.566-55.566 111.391 110.391v-342.259h79.218v342.259l111.391-110.391 55.566 55.566-206.566 206.566Z"/></svg>', variant: 'sharp', weight: 600 };

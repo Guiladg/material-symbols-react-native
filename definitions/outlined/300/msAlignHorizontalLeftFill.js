@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAlignHorizontalLeftFill = exports.msAlignHorizontalLeftFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M115.387-100.001v-759.998h45.384v759.998h-45.384Zm151.538-201.154v-86.152h337.688v86.152H266.925Zm0-271.538v-86.152h577.688v86.152H266.925Z"/></svg>', variant: 'outlined', weight: 300 };

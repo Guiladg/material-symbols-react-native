@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msAutoAwesomeMosaicFill = exports.msAutoAwesomeMosaicFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M447.923-140.001H140.001v-679.998h307.922v679.998Zm65.385-373.307v-306.691h306.691v306.691H513.308Zm0 373.307v-307.922h306.691v307.922H513.308Z"/></svg>', variant: 'sharp', weight: 300 };

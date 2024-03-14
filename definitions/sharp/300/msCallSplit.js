@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCallSplit = exports.msCallSplit = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M458.924-180.001v-289.461L225.385-702.616v131.462h-45.384v-208.845h209.23v45.384H258l246.307 245.923v308.691h-45.383Zm99.922-347.845-31.615-32L702-734.615H571.154v-45.384h208.845v208.845h-45.384v-131.462l-175.769 174.77Z"/></svg>', variant: 'sharp', weight: 300 };

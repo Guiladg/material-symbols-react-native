@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msCommentsDisabledFill = exports.msCommentsDisabledFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M839.783-31.956 645.87-225.87H65.869V-805.87l-48.913-48.348 47.522-47.522L887.305-79.478l-47.522 47.522Zm54.913-134.609L660.696-400H720v-60H600.696l-70-70H720v-60H470.696l-70-70H720v-60H340.696L166.565-894.696h728.131v728.131ZM240-400h231.739l-60-60H240v60Zm0-130h101.739l-60-60H240v60Z"/></svg>', variant: 'sharp', weight: 600 };

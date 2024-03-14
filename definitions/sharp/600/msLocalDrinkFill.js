@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msLocalDrinkFill = exports.msLocalDrinkFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m197.411-65.869-91.542-828.827h748.827L763.305-65.869H197.411ZM213.356-640h533.426l18.87-174.913H194.348L213.356-640ZM480-195.826q45 0 76.5-30.926T588-301.57q0-46.907-28.5-99.799Q531-454.261 480-502.826q-51 48.565-79.5 101.457Q372-348.477 372-301.57q0 43.892 31.5 74.818 31.5 30.926 76.5 30.926Z"/></svg>', variant: 'sharp', weight: 600 };

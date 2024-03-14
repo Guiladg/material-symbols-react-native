@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFolderZipFill = exports.msFolderZipFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M100.001-180.001v-599.998h307.152l65.385 65.385h387.461v534.613H100.001Zm451.076-45.384H640v-88.731h88.923v-88.73H640v-88.731h88.923v-88.73H640v-88.923h-88.923v88.795H640v88.794h-88.923v88.795H640v88.73h-88.923v88.731Z"/></svg>', variant: 'sharp', weight: 300 };

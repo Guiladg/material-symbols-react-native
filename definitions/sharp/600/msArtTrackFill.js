@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msArtTrackFill = exports.msArtTrackFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M615.827-185.869H26.999v-588.827h588.828v588.827Zm92.086 0v-588.827h66.783v588.827h-66.783Zm158.305 0v-588.827h66.783v588.827h-66.783ZM157.13-357h325l-100-133-85 110-60-82-80 105Z"/></svg>', variant: 'sharp', weight: 600 };

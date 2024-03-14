@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msStackedBarChartFill = exports.msStackedBarChartFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M156.413-155.935v-442.152h147.174v442.152H156.413Zm0-502.152v-147.174h147.174v147.174H156.413Zm250 502.152v-322.152h147.174v322.152H406.413Zm0-382.152v-147.174h147.174v147.174H406.413Zm250 382.152v-202.152h147.174v202.152H656.413Zm0-262.152v-147.174h147.174v147.174H656.413Z"/></svg>', variant: 'sharp', weight: 500 };

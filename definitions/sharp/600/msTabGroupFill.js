@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msTabGroupFill = exports.msTabGroupFill = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M55.694-55.694v-708.828h79.784v629.044h629.044v79.784H55.694Zm139.784-139.784v-708.828h708.828v708.828H195.478Zm327.913-450.74h301.131v-178.304H523.391v178.304Z"/></svg>', variant: 'sharp', weight: 600 };

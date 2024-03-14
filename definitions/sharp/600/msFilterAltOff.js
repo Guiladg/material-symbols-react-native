@@ -1,0 +1,2 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { 	value: true }); const msFilterAltOff = exports.msFilterAltOff = { xml: '<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="m593.001-458.782-56.566-57.131 172.825-219H316.87l-79.218-79.783h633.176L593.001-458.782Zm236.391 415.87L574.696-297.608v151.739H385.869v-340.566L42.912-829.392l47.522-46.957L876.35-90.434l-46.957 47.522ZM536.435-515.913Z"/></svg>', variant: 'sharp', weight: 600 };
